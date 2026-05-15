@@ -1,2107 +1,1907 @@
 [
   {
     "id": 1,
-    "content": "Hay 10 tipos de personas en el mundo: los que entienden binario y los que no. (v0)",
+    "content": "Hay 10 tipos de personas en el mundo: los que entienden binario y los que no.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek"
+      "Aleatorio"
     ],
     "isLockedByDefault": false
   },
   {
     "id": 2,
-    "content": "¿Por qué los programadores prefieren la oscuridad? Porque los bugs se atraen por la luz. (v1)",
+    "content": "¿Por qué los programadores prefieren la oscuridad? Porque los bugs se atraen por la luz.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek"
+      "Aleatorio"
     ],
     "isLockedByDefault": false
   },
   {
     "id": 3,
-    "content": "Un programador va al supermercado y su mujer le dice: 'Trae una barra de pan, y si hay huevos, trae doce'. El programador vuelve con doce barras de pan. (v2)",
+    "content": "Un programador va al supermercado y su mujer le dice: 'Trae una barra de pan, y si hay huevos, trae doce'. El programador vuelve con doce barras de pan.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek"
+      "Aleatorio"
     ],
     "isLockedByDefault": false
   },
   {
     "id": 4,
-    "content": "El código de mi proyecto es como un chiste: si tienes que explicarlo, es que es malo. (v3)",
+    "content": "El código de mi proyecto es como un chiste: si tienes que explicarlo, es que es malo.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek"
+      "Aleatorio"
     ],
     "isLockedByDefault": false
   },
   {
     "id": 5,
-    "content": "¿Cuál es el objeto orientado más famoso? El puntero láser. (v4)",
+    "content": "¿Cuál es el objeto orientado más famoso? El puntero láser.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek"
+      "Aleatorio"
     ],
     "isLockedByDefault": false
   },
   {
     "id": 6,
-    "content": "En mi máquina funciona. - El grito de guerra del desarrollador. (v5)",
+    "content": "En mi máquina funciona. - El grito de guerra del desarrollador.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek"
+      "Aleatorio"
     ],
     "isLockedByDefault": false
   },
   {
     "id": 7,
-    "content": "¿Por qué el desarrollador se quedó pobre? Porque usó todo su caché. (v6)",
+    "content": "¿Por qué el desarrollador se quedó pobre? Porque usó todo su caché.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek"
+      "Aleatorio"
     ],
     "isLockedByDefault": false
   },
   {
     "id": 8,
-    "content": "Un desarrollador web entra a un restaurante, pide 1 hamburguesa, 0 hamburguesas, 9999999 hamburguesas, -1 hamburguesa, una hamburguesa de texto. Todo funciona. El primer cliente entra y pide dónde está el baño. El restaurante explota. (v7)",
+    "content": "Un desarrollador web entra a un restaurante, pide 1 hamburguesa, 0 hamburguesas, 9999999 hamburguesas, -1 hamburguesa, una hamburguesa de texto. Todo funciona. El primer cliente entra y pide dónde está el baño. El restaurante explota.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek"
+      "Aleatorio"
     ],
     "isLockedByDefault": false
   },
   {
     "id": 9,
-    "content": "Hardware es aquello a lo que le puedes dar patadas. Software es aquello a lo que solo le puedes insultar. (v8)",
+    "content": "Jaimito, ¿cuánto es 2 x 2? — Empate, profe.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek"
+      "Aleatorio"
     ],
     "isLockedByDefault": false
   },
   {
     "id": 10,
-    "content": "SQL entra en un bar, se acerca a dos mesas y pregunta: '¿Me puedo unir?' (v9)",
+    "content": "Mamá, en el cole me llaman distraído. — Jaimito, tú vives en la casa de enfrente.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek"
+      "Aleatorio"
     ],
     "isLockedByDefault": false
   },
   {
     "id": 11,
-    "content": "¿Qué es un terapeuta? 1024 gigapeutas. (v10)",
+    "content": "Profesor, ¿usted me castigaría por algo que no he hecho? — Claro que no, Jaimito. — ¡Qué alivio! Porque no he hecho los deberes.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek"
+      "Aleatorio"
     ],
     "isLockedByDefault": false
   },
   {
     "id": 12,
-    "content": "El optimista dice que el vaso está medio lleno. El pesimista que está medio vacío. El programador dice que el vaso es el doble de grande de lo necesario. (v11)",
+    "content": "Jaimito le dice a su madre: ¡Mamá, mamá! ¡Hoy he sacado un 10! — ¿En qué, hijo? — Un 4 en matemáticas, un 3 en lenguaje, un 2 en inglés y un 1 en gimnasia.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek"
+      "Aleatorio"
     ],
     "isLockedByDefault": false
   },
   {
     "id": 13,
-    "content": "Hay dos cosas muy difíciles en informática: invalidar cachés, nombrar cosas, y los errores de off-by-one. (v12)",
+    "content": "¿Por qué los de Lepe no entran a la cocina? Porque hay un bote que pone 'Sal'.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek"
+      "Aleatorio"
     ],
     "isLockedByDefault": false
   },
   {
     "id": 14,
-    "content": "Un buen programador es alguien que siempre mira a ambos lados antes de cruzar una calle de un solo sentido. (v13)",
+    "content": "¿Por qué los de Lepe plantan los árboles en la frontera? Para que los pájaros canten en el extranjero.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek"
+      "Aleatorio"
     ],
     "isLockedByDefault": false
   },
   {
     "id": 15,
-    "content": "La depuración es como ser el detective en una película de crímenes donde también eres el asesino. (v14)",
+    "content": "¿Qué hacen los de Lepe corriendo alrededor de la universidad? Una carrera universitaria.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek"
+      "Aleatorio"
     ],
     "isLockedByDefault": false
   },
   {
     "id": 16,
-    "content": "Si la programación orientada a objetos es el estándar, la programación orientada a excepciones es la realidad. (v15)",
+    "content": "¿Por qué los dinosaurios no pueden jugar a las escondidas? Porque están extintos.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek"
+      "Aleatorio"
     ],
     "isLockedByDefault": false
   },
   {
     "id": 17,
-    "content": "¿Cuántos programadores hacen falta para cambiar una bombilla? Ninguno, es un problema de hardware. (v16)",
+    "content": "¿Qué le dijo el dinosaurio a su abogado? ¡Asegúrate de que mi herencia llegue a las gallinas!",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek"
+      "Aleatorio"
     ],
     "isLockedByDefault": false
   },
   {
     "id": 18,
-    "content": "Cualquier código propio que no hayas mirado en los últimos 6 meses podría haber sido escrito por otra persona. (v17)",
+    "content": "Soy el ChistosoREX: ¿Qué hace un T-Rex en el gimnasio? ¡Ejercicios de brazos... ah, espera, no llega!",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek"
+      "Aleatorio"
     ],
     "isLockedByDefault": false
   },
   {
     "id": 19,
-    "content": "Python es como un ninja: te mata antes de que te des cuenta de que has identado mal. (v18)",
+    "content": "Soy el ChistosoREX: ¿Por qué el T-Rex no usa el ordenador? Porque su ratón se ríe de sus brazos cortos.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek"
+      "Aleatorio"
     ],
     "isLockedByDefault": false
   },
   {
     "id": 20,
-    "content": "Git pull, git commit, git push, git pray. (v19)",
+    "content": "Soy el ChistosoREX: Roaaar... te iba a contar un chiste, pero se me ha extinguido la gracia.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek"
+      "Aleatorio"
     ],
     "isLockedByDefault": false
   },
   {
     "id": 21,
-    "content": "Hay 10 tipos de personas en el mundo: los que entienden binario y los que no. (v20)",
+    "content": "Hay 10 tipos de personas en el mundo: los que entienden binario y los que no.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek"
+      "Aleatorio"
     ],
     "isLockedByDefault": false
   },
   {
     "id": 22,
-    "content": "¿Por qué los programadores prefieren la oscuridad? Porque los bugs se atraen por la luz. (v21)",
+    "content": "¿Por qué los programadores prefieren la oscuridad? Porque los bugs se atraen por la luz.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek"
+      "Aleatorio"
     ],
     "isLockedByDefault": false
   },
   {
     "id": 23,
-    "content": "Un programador va al supermercado y su mujer le dice: 'Trae una barra de pan, y si hay huevos, trae doce'. El programador vuelve con doce barras de pan. (v22)",
+    "content": "Un programador va al supermercado y su mujer le dice: 'Trae una barra de pan, y si hay huevos, trae doce'. El programador vuelve con doce barras de pan.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek"
+      "Aleatorio"
     ],
     "isLockedByDefault": false
   },
   {
     "id": 24,
-    "content": "El código de mi proyecto es como un chiste: si tienes que explicarlo, es que es malo. (v23)",
+    "content": "El código de mi proyecto es como un chiste: si tienes que explicarlo, es que es malo.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek"
+      "Aleatorio"
     ],
     "isLockedByDefault": false
   },
   {
     "id": 25,
-    "content": "¿Cuál es el objeto orientado más famoso? El puntero láser. (v24)",
+    "content": "¿Cuál es el objeto orientado más famoso? El puntero láser.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek"
+      "Aleatorio"
     ],
     "isLockedByDefault": false
   },
   {
     "id": 26,
-    "content": "En mi máquina funciona. - El grito de guerra del desarrollador. (v25)",
+    "content": "En mi máquina funciona. - El grito de guerra del desarrollador.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek"
+      "Aleatorio"
     ],
     "isLockedByDefault": false
   },
   {
     "id": 27,
-    "content": "¿Por qué el desarrollador se quedó pobre? Porque usó todo su caché. (v26)",
+    "content": "¿Por qué el desarrollador se quedó pobre? Porque usó todo su caché.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek"
+      "Aleatorio"
     ],
     "isLockedByDefault": false
   },
   {
     "id": 28,
-    "content": "Un desarrollador web entra a un restaurante, pide 1 hamburguesa, 0 hamburguesas, 9999999 hamburguesas, -1 hamburguesa, una hamburguesa de texto. Todo funciona. El primer cliente entra y pide dónde está el baño. El restaurante explota. (v27)",
+    "content": "Un desarrollador web entra a un restaurante, pide 1 hamburguesa, 0 hamburguesas, 9999999 hamburguesas, -1 hamburguesa, una hamburguesa de texto. Todo funciona. El primer cliente entra y pide dónde está el baño. El restaurante explota.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek"
+      "Aleatorio"
     ],
     "isLockedByDefault": false
   },
   {
     "id": 29,
-    "content": "Hardware es aquello a lo que le puedes dar patadas. Software es aquello a lo que solo le puedes insultar. (v28)",
+    "content": "Jaimito, ¿cuánto es 2 x 2? — Empate, profe.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek"
+      "Aleatorio"
     ],
     "isLockedByDefault": false
   },
   {
     "id": 30,
-    "content": "SQL entra en un bar, se acerca a dos mesas y pregunta: '¿Me puedo unir?' (v29)",
+    "content": "Mamá, en el cole me llaman distraído. — Jaimito, tú vives en la casa de enfrente.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek"
+      "Aleatorio"
     ],
     "isLockedByDefault": false
   },
   {
     "id": 31,
-    "content": "¿Qué es un terapeuta? 1024 gigapeutas. (v30)",
+    "content": "Profesor, ¿usted me castigaría por algo que no he hecho? — Claro que no, Jaimito. — ¡Qué alivio! Porque no he hecho los deberes.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek"
+      "Aleatorio"
     ],
     "isLockedByDefault": false
   },
   {
     "id": 32,
-    "content": "El optimista dice que el vaso está medio lleno. El pesimista que está medio vacío. El programador dice que el vaso es el doble de grande de lo necesario. (v31)",
+    "content": "Jaimito le dice a su madre: ¡Mamá, mamá! ¡Hoy he sacado un 10! — ¿En qué, hijo? — Un 4 en matemáticas, un 3 en lenguaje, un 2 en inglés y un 1 en gimnasia.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek"
+      "Aleatorio"
     ],
     "isLockedByDefault": false
   },
   {
     "id": 33,
-    "content": "Hay dos cosas muy difíciles en informática: invalidar cachés, nombrar cosas, y los errores de off-by-one. (v32)",
+    "content": "¿Por qué los de Lepe no entran a la cocina? Porque hay un bote que pone 'Sal'.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek"
+      "Aleatorio"
     ],
     "isLockedByDefault": false
   },
   {
     "id": 34,
-    "content": "Un buen programador es alguien que siempre mira a ambos lados antes de cruzar una calle de un solo sentido. (v33)",
+    "content": "¿Por qué los de Lepe plantan los árboles en la frontera? Para que los pájaros canten en el extranjero.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek"
+      "Aleatorio"
     ],
     "isLockedByDefault": false
   },
   {
     "id": 35,
-    "content": "La depuración es como ser el detective en una película de crímenes donde también eres el asesino. (v34)",
+    "content": "¿Qué hacen los de Lepe corriendo alrededor de la universidad? Una carrera universitaria.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek"
+      "Aleatorio"
     ],
     "isLockedByDefault": false
   },
   {
     "id": 36,
-    "content": "Si la programación orientada a objetos es el estándar, la programación orientada a excepciones es la realidad. (v35)",
+    "content": "¿Por qué los dinosaurios no pueden jugar a las escondidas? Porque están extintos.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek"
+      "Aleatorio"
     ],
     "isLockedByDefault": false
   },
   {
     "id": 37,
-    "content": "¿Cuántos programadores hacen falta para cambiar una bombilla? Ninguno, es un problema de hardware. (v36)",
+    "content": "¿Qué le dijo el dinosaurio a su abogado? ¡Asegúrate de que mi herencia llegue a las gallinas!",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek"
+      "Aleatorio"
     ],
     "isLockedByDefault": false
   },
   {
     "id": 38,
-    "content": "Cualquier código propio que no hayas mirado en los últimos 6 meses podría haber sido escrito por otra persona. (v37)",
+    "content": "Soy el ChistosoREX: ¿Qué hace un T-Rex en el gimnasio? ¡Ejercicios de brazos... ah, espera, no llega!",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek"
+      "Aleatorio"
     ],
     "isLockedByDefault": false
   },
   {
     "id": 39,
-    "content": "Python es como un ninja: te mata antes de que te des cuenta de que has identado mal. (v38)",
+    "content": "Soy el ChistosoREX: ¿Por qué el T-Rex no usa el ordenador? Porque su ratón se ríe de sus brazos cortos.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek"
+      "Aleatorio"
     ],
     "isLockedByDefault": false
   },
   {
     "id": 40,
-    "content": "Git pull, git commit, git push, git pray. (v39)",
+    "content": "Soy el ChistosoREX: Roaaar... te iba a contar un chiste, pero se me ha extinguido la gracia.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek"
+      "Aleatorio"
     ],
     "isLockedByDefault": false
   },
   {
     "id": 41,
-    "content": "Hay 10 tipos de personas en el mundo: los que entienden binario y los que no. (v40)",
+    "content": "Hay 10 tipos de personas en el mundo: los que entienden binario y los que no.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek"
+      "Aleatorio"
     ],
     "isLockedByDefault": false
   },
   {
     "id": 42,
-    "content": "¿Por qué los programadores prefieren la oscuridad? Porque los bugs se atraen por la luz. (v41)",
+    "content": "¿Por qué los programadores prefieren la oscuridad? Porque los bugs se atraen por la luz.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek"
+      "Aleatorio"
     ],
     "isLockedByDefault": false
   },
   {
     "id": 43,
-    "content": "Un programador va al supermercado y su mujer le dice: 'Trae una barra de pan, y si hay huevos, trae doce'. El programador vuelve con doce barras de pan. (v42)",
+    "content": "Un programador va al supermercado y su mujer le dice: 'Trae una barra de pan, y si hay huevos, trae doce'. El programador vuelve con doce barras de pan.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek"
+      "Aleatorio"
     ],
     "isLockedByDefault": false
   },
   {
     "id": 44,
-    "content": "El código de mi proyecto es como un chiste: si tienes que explicarlo, es que es malo. (v43)",
+    "content": "El código de mi proyecto es como un chiste: si tienes que explicarlo, es que es malo.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek"
+      "Aleatorio"
     ],
     "isLockedByDefault": false
   },
   {
     "id": 45,
-    "content": "¿Cuál es el objeto orientado más famoso? El puntero láser. (v44)",
+    "content": "¿Cuál es el objeto orientado más famoso? El puntero láser.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek"
+      "Aleatorio"
     ],
     "isLockedByDefault": false
   },
   {
     "id": 46,
-    "content": "En mi máquina funciona. - El grito de guerra del desarrollador. (v45)",
+    "content": "En mi máquina funciona. - El grito de guerra del desarrollador.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek"
+      "Aleatorio"
     ],
     "isLockedByDefault": false
   },
   {
     "id": 47,
-    "content": "¿Por qué el desarrollador se quedó pobre? Porque usó todo su caché. (v46)",
+    "content": "¿Por qué el desarrollador se quedó pobre? Porque usó todo su caché.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek"
+      "Aleatorio"
     ],
     "isLockedByDefault": false
   },
   {
     "id": 48,
-    "content": "Un desarrollador web entra a un restaurante, pide 1 hamburguesa, 0 hamburguesas, 9999999 hamburguesas, -1 hamburguesa, una hamburguesa de texto. Todo funciona. El primer cliente entra y pide dónde está el baño. El restaurante explota. (v47)",
+    "content": "Un desarrollador web entra a un restaurante, pide 1 hamburguesa, 0 hamburguesas, 9999999 hamburguesas, -1 hamburguesa, una hamburguesa de texto. Todo funciona. El primer cliente entra y pide dónde está el baño. El restaurante explota.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek"
+      "Aleatorio"
     ],
     "isLockedByDefault": false
   },
   {
     "id": 49,
-    "content": "Hardware es aquello a lo que le puedes dar patadas. Software es aquello a lo que solo le puedes insultar. (v48)",
+    "content": "Jaimito, ¿cuánto es 2 x 2? — Empate, profe.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek"
+      "Aleatorio"
     ],
     "isLockedByDefault": false
   },
   {
     "id": 50,
-    "content": "SQL entra en un bar, se acerca a dos mesas y pregunta: '¿Me puedo unir?' (v49)",
+    "content": "Mamá, en el cole me llaman distraído. — Jaimito, tú vives en la casa de enfrente.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek"
+      "Aleatorio"
     ],
     "isLockedByDefault": false
   },
   {
     "id": 51,
-    "content": "¿Qué es un terapeuta? 1024 gigapeutas. (v50)",
+    "content": "Profesor, ¿usted me castigaría por algo que no he hecho? — Claro que no, Jaimito. — ¡Qué alivio! Porque no he hecho los deberes.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek"
+      "Aleatorio"
     ],
     "isLockedByDefault": false
   },
   {
     "id": 52,
-    "content": "El optimista dice que el vaso está medio lleno. El pesimista que está medio vacío. El programador dice que el vaso es el doble de grande de lo necesario. (v51)",
+    "content": "Jaimito le dice a su madre: ¡Mamá, mamá! ¡Hoy he sacado un 10! — ¿En qué, hijo? — Un 4 en matemáticas, un 3 en lenguaje, un 2 en inglés y un 1 en gimnasia.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek"
+      "Aleatorio"
     ],
     "isLockedByDefault": false
   },
   {
     "id": 53,
-    "content": "Hay dos cosas muy difíciles en informática: invalidar cachés, nombrar cosas, y los errores de off-by-one. (v52)",
+    "content": "¿Por qué los de Lepe no entran a la cocina? Porque hay un bote que pone 'Sal'.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek"
+      "Aleatorio"
     ],
     "isLockedByDefault": false
   },
   {
     "id": 54,
-    "content": "Un buen programador es alguien que siempre mira a ambos lados antes de cruzar una calle de un solo sentido. (v53)",
+    "content": "¿Por qué los de Lepe plantan los árboles en la frontera? Para que los pájaros canten en el extranjero.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek"
+      "Aleatorio"
     ],
     "isLockedByDefault": false
   },
   {
     "id": 55,
-    "content": "La depuración es como ser el detective en una película de crímenes donde también eres el asesino. (v54)",
+    "content": "¿Qué hacen los de Lepe corriendo alrededor de la universidad? Una carrera universitaria.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek"
+      "Aleatorio"
     ],
     "isLockedByDefault": false
   },
   {
     "id": 56,
-    "content": "Si la programación orientada a objetos es el estándar, la programación orientada a excepciones es la realidad. (v55)",
+    "content": "¿Por qué los dinosaurios no pueden jugar a las escondidas? Porque están extintos.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek"
+      "Aleatorio"
     ],
     "isLockedByDefault": false
   },
   {
     "id": 57,
-    "content": "¿Cuántos programadores hacen falta para cambiar una bombilla? Ninguno, es un problema de hardware. (v56)",
+    "content": "¿Qué le dijo el dinosaurio a su abogado? ¡Asegúrate de que mi herencia llegue a las gallinas!",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek"
+      "Aleatorio"
     ],
     "isLockedByDefault": false
   },
   {
     "id": 58,
-    "content": "Cualquier código propio que no hayas mirado en los últimos 6 meses podría haber sido escrito por otra persona. (v57)",
+    "content": "Soy el ChistosoREX: ¿Qué hace un T-Rex en el gimnasio? ¡Ejercicios de brazos... ah, espera, no llega!",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek"
+      "Aleatorio"
     ],
     "isLockedByDefault": false
   },
   {
     "id": 59,
-    "content": "Python es como un ninja: te mata antes de que te des cuenta de que has identado mal. (v58)",
+    "content": "Soy el ChistosoREX: ¿Por qué el T-Rex no usa el ordenador? Porque su ratón se ríe de sus brazos cortos.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek"
+      "Aleatorio"
     ],
     "isLockedByDefault": false
   },
   {
     "id": 60,
-    "content": "Git pull, git commit, git push, git pray. (v59)",
+    "content": "Soy el ChistosoREX: Roaaar... te iba a contar un chiste, pero se me ha extinguido la gracia.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek"
+      "Aleatorio"
     ],
     "isLockedByDefault": false
   },
   {
     "id": 61,
-    "content": "Hay 10 tipos de personas en el mundo: los que entienden binario y los que no. (v60)",
+    "content": "Hay 10 tipos de personas en el mundo: los que entienden binario y los que no.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek"
+      "Aleatorio"
     ],
     "isLockedByDefault": false
   },
   {
     "id": 62,
-    "content": "¿Por qué los programadores prefieren la oscuridad? Porque los bugs se atraen por la luz. (v61)",
+    "content": "¿Por qué los programadores prefieren la oscuridad? Porque los bugs se atraen por la luz.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek"
+      "Aleatorio"
     ],
     "isLockedByDefault": false
   },
   {
     "id": 63,
-    "content": "Un programador va al supermercado y su mujer le dice: 'Trae una barra de pan, y si hay huevos, trae doce'. El programador vuelve con doce barras de pan. (v62)",
+    "content": "Un programador va al supermercado y su mujer le dice: 'Trae una barra de pan, y si hay huevos, trae doce'. El programador vuelve con doce barras de pan.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek"
+      "Aleatorio"
     ],
     "isLockedByDefault": false
   },
   {
     "id": 64,
-    "content": "El código de mi proyecto es como un chiste: si tienes que explicarlo, es que es malo. (v63)",
+    "content": "El código de mi proyecto es como un chiste: si tienes que explicarlo, es que es malo.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek"
+      "Aleatorio"
     ],
     "isLockedByDefault": false
   },
   {
     "id": 65,
-    "content": "¿Cuál es el objeto orientado más famoso? El puntero láser. (v64)",
+    "content": "¿Cuál es el objeto orientado más famoso? El puntero láser.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek"
+      "Aleatorio"
     ],
     "isLockedByDefault": false
   },
   {
     "id": 66,
-    "content": "En mi máquina funciona. - El grito de guerra del desarrollador. (v65)",
+    "content": "En mi máquina funciona. - El grito de guerra del desarrollador.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek"
+      "Aleatorio"
     ],
     "isLockedByDefault": false
   },
   {
     "id": 67,
-    "content": "¿Por qué el desarrollador se quedó pobre? Porque usó todo su caché. (v66)",
+    "content": "¿Por qué el desarrollador se quedó pobre? Porque usó todo su caché.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek"
+      "Aleatorio"
     ],
     "isLockedByDefault": false
   },
   {
     "id": 68,
-    "content": "Un desarrollador web entra a un restaurante, pide 1 hamburguesa, 0 hamburguesas, 9999999 hamburguesas, -1 hamburguesa, una hamburguesa de texto. Todo funciona. El primer cliente entra y pide dónde está el baño. El restaurante explota. (v67)",
+    "content": "Un desarrollador web entra a un restaurante, pide 1 hamburguesa, 0 hamburguesas, 9999999 hamburguesas, -1 hamburguesa, una hamburguesa de texto. Todo funciona. El primer cliente entra y pide dónde está el baño. El restaurante explota.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek"
+      "Aleatorio"
     ],
     "isLockedByDefault": false
   },
   {
     "id": 69,
-    "content": "Hardware es aquello a lo que le puedes dar patadas. Software es aquello a lo que solo le puedes insultar. (v68)",
+    "content": "Jaimito, ¿cuánto es 2 x 2? — Empate, profe.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek"
+      "Aleatorio"
     ],
     "isLockedByDefault": false
   },
   {
     "id": 70,
-    "content": "SQL entra en un bar, se acerca a dos mesas y pregunta: '¿Me puedo unir?' (v69)",
+    "content": "Mamá, en el cole me llaman distraído. — Jaimito, tú vives en la casa de enfrente.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek"
+      "Aleatorio"
     ],
     "isLockedByDefault": false
   },
   {
     "id": 71,
-    "content": "¿Qué es un terapeuta? 1024 gigapeutas. (v70)",
+    "content": "Profesor, ¿usted me castigaría por algo que no he hecho? — Claro que no, Jaimito. — ¡Qué alivio! Porque no he hecho los deberes.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek"
+      "Aleatorio"
     ],
     "isLockedByDefault": false
   },
   {
     "id": 72,
-    "content": "El optimista dice que el vaso está medio lleno. El pesimista que está medio vacío. El programador dice que el vaso es el doble de grande de lo necesario. (v71)",
+    "content": "Jaimito le dice a su madre: ¡Mamá, mamá! ¡Hoy he sacado un 10! — ¿En qué, hijo? — Un 4 en matemáticas, un 3 en lenguaje, un 2 en inglés y un 1 en gimnasia.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek"
+      "Aleatorio"
     ],
     "isLockedByDefault": false
   },
   {
     "id": 73,
-    "content": "Hay dos cosas muy difíciles en informática: invalidar cachés, nombrar cosas, y los errores de off-by-one. (v72)",
+    "content": "¿Por qué los de Lepe no entran a la cocina? Porque hay un bote que pone 'Sal'.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek"
+      "Aleatorio"
     ],
     "isLockedByDefault": false
   },
   {
     "id": 74,
-    "content": "Un buen programador es alguien que siempre mira a ambos lados antes de cruzar una calle de un solo sentido. (v73)",
+    "content": "¿Por qué los de Lepe plantan los árboles en la frontera? Para que los pájaros canten en el extranjero.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek"
+      "Aleatorio"
     ],
     "isLockedByDefault": false
   },
   {
     "id": 75,
-    "content": "La depuración es como ser el detective en una película de crímenes donde también eres el asesino. (v74)",
+    "content": "¿Qué hacen los de Lepe corriendo alrededor de la universidad? Una carrera universitaria.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek"
+      "Aleatorio"
     ],
     "isLockedByDefault": false
   },
   {
     "id": 76,
-    "content": "Si la programación orientada a objetos es el estándar, la programación orientada a excepciones es la realidad. (v75)",
+    "content": "¿Por qué los dinosaurios no pueden jugar a las escondidas? Porque están extintos.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek"
+      "Aleatorio"
     ],
     "isLockedByDefault": false
   },
   {
     "id": 77,
-    "content": "¿Cuántos programadores hacen falta para cambiar una bombilla? Ninguno, es un problema de hardware. (v76)",
+    "content": "¿Qué le dijo el dinosaurio a su abogado? ¡Asegúrate de que mi herencia llegue a las gallinas!",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek"
+      "Aleatorio"
     ],
     "isLockedByDefault": false
   },
   {
     "id": 78,
-    "content": "Cualquier código propio que no hayas mirado en los últimos 6 meses podría haber sido escrito por otra persona. (v77)",
+    "content": "Soy el ChistosoREX: ¿Qué hace un T-Rex en el gimnasio? ¡Ejercicios de brazos... ah, espera, no llega!",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek"
+      "Aleatorio"
     ],
     "isLockedByDefault": false
   },
   {
     "id": 79,
-    "content": "Python es como un ninja: te mata antes de que te des cuenta de que has identado mal. (v78)",
+    "content": "Soy el ChistosoREX: ¿Por qué el T-Rex no usa el ordenador? Porque su ratón se ríe de sus brazos cortos.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek"
+      "Aleatorio"
     ],
     "isLockedByDefault": false
   },
   {
     "id": 80,
-    "content": "Git pull, git commit, git push, git pray. (v79)",
+    "content": "Soy el ChistosoREX: Roaaar... te iba a contar un chiste, pero se me ha extinguido la gracia.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek"
+      "Aleatorio"
     ],
     "isLockedByDefault": false
   },
   {
     "id": 81,
-    "content": "Hay 10 tipos de personas en el mundo: los que entienden binario y los que no. (v80)",
+    "content": "Hay 10 tipos de personas en el mundo: los que entienden binario y los que no.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek"
+      "Aleatorio"
     ],
     "isLockedByDefault": false
   },
   {
     "id": 82,
-    "content": "¿Por qué los programadores prefieren la oscuridad? Porque los bugs se atraen por la luz. (v81)",
+    "content": "¿Por qué los programadores prefieren la oscuridad? Porque los bugs se atraen por la luz.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek"
+      "Aleatorio"
     ],
     "isLockedByDefault": false
   },
   {
     "id": 83,
-    "content": "Un programador va al supermercado y su mujer le dice: 'Trae una barra de pan, y si hay huevos, trae doce'. El programador vuelve con doce barras de pan. (v82)",
+    "content": "Un programador va al supermercado y su mujer le dice: 'Trae una barra de pan, y si hay huevos, trae doce'. El programador vuelve con doce barras de pan.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek"
+      "Aleatorio"
     ],
     "isLockedByDefault": false
   },
   {
     "id": 84,
-    "content": "El código de mi proyecto es como un chiste: si tienes que explicarlo, es que es malo. (v83)",
+    "content": "El código de mi proyecto es como un chiste: si tienes que explicarlo, es que es malo.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek"
+      "Aleatorio"
     ],
     "isLockedByDefault": false
   },
   {
     "id": 85,
-    "content": "¿Cuál es el objeto orientado más famoso? El puntero láser. (v84)",
+    "content": "¿Cuál es el objeto orientado más famoso? El puntero láser.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek"
+      "Aleatorio"
     ],
     "isLockedByDefault": false
   },
   {
     "id": 86,
-    "content": "En mi máquina funciona. - El grito de guerra del desarrollador. (v85)",
+    "content": "En mi máquina funciona. - El grito de guerra del desarrollador.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek"
+      "Aleatorio"
     ],
     "isLockedByDefault": false
   },
   {
     "id": 87,
-    "content": "¿Por qué el desarrollador se quedó pobre? Porque usó todo su caché. (v86)",
+    "content": "¿Por qué el desarrollador se quedó pobre? Porque usó todo su caché.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek"
+      "Aleatorio"
     ],
     "isLockedByDefault": false
   },
   {
     "id": 88,
-    "content": "Un desarrollador web entra a un restaurante, pide 1 hamburguesa, 0 hamburguesas, 9999999 hamburguesas, -1 hamburguesa, una hamburguesa de texto. Todo funciona. El primer cliente entra y pide dónde está el baño. El restaurante explota. (v87)",
+    "content": "Un desarrollador web entra a un restaurante, pide 1 hamburguesa, 0 hamburguesas, 9999999 hamburguesas, -1 hamburguesa, una hamburguesa de texto. Todo funciona. El primer cliente entra y pide dónde está el baño. El restaurante explota.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek"
+      "Aleatorio"
     ],
     "isLockedByDefault": false
   },
   {
     "id": 89,
-    "content": "Hardware es aquello a lo que le puedes dar patadas. Software es aquello a lo que solo le puedes insultar. (v88)",
+    "content": "Jaimito, ¿cuánto es 2 x 2? — Empate, profe.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek"
+      "Aleatorio"
     ],
     "isLockedByDefault": false
   },
   {
     "id": 90,
-    "content": "SQL entra en un bar, se acerca a dos mesas y pregunta: '¿Me puedo unir?' (v89)",
+    "content": "Mamá, en el cole me llaman distraído. — Jaimito, tú vives en la casa de enfrente.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek"
+      "Aleatorio"
     ],
     "isLockedByDefault": false
   },
   {
     "id": 91,
-    "content": "¿Qué es un terapeuta? 1024 gigapeutas. (v90)",
+    "content": "Profesor, ¿usted me castigaría por algo que no he hecho? — Claro que no, Jaimito. — ¡Qué alivio! Porque no he hecho los deberes.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek"
+      "Aleatorio"
     ],
     "isLockedByDefault": false
   },
   {
     "id": 92,
-    "content": "El optimista dice que el vaso está medio lleno. El pesimista que está medio vacío. El programador dice que el vaso es el doble de grande de lo necesario. (v91)",
+    "content": "Jaimito le dice a su madre: ¡Mamá, mamá! ¡Hoy he sacado un 10! — ¿En qué, hijo? — Un 4 en matemáticas, un 3 en lenguaje, un 2 en inglés y un 1 en gimnasia.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek"
+      "Aleatorio"
     ],
     "isLockedByDefault": false
   },
   {
     "id": 93,
-    "content": "Hay dos cosas muy difíciles en informática: invalidar cachés, nombrar cosas, y los errores de off-by-one. (v92)",
+    "content": "¿Por qué los de Lepe no entran a la cocina? Porque hay un bote que pone 'Sal'.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek"
+      "Aleatorio"
     ],
     "isLockedByDefault": false
   },
   {
     "id": 94,
-    "content": "Un buen programador es alguien que siempre mira a ambos lados antes de cruzar una calle de un solo sentido. (v93)",
+    "content": "¿Por qué los de Lepe plantan los árboles en la frontera? Para que los pájaros canten en el extranjero.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek"
+      "Aleatorio"
     ],
     "isLockedByDefault": false
   },
   {
     "id": 95,
-    "content": "La depuración es como ser el detective en una película de crímenes donde también eres el asesino. (v94)",
+    "content": "¿Qué hacen los de Lepe corriendo alrededor de la universidad? Una carrera universitaria.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek"
+      "Aleatorio"
     ],
     "isLockedByDefault": false
   },
   {
     "id": 96,
-    "content": "Si la programación orientada a objetos es el estándar, la programación orientada a excepciones es la realidad. (v95)",
+    "content": "¿Por qué los dinosaurios no pueden jugar a las escondidas? Porque están extintos.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek"
+      "Aleatorio"
     ],
     "isLockedByDefault": false
   },
   {
     "id": 97,
-    "content": "¿Cuántos programadores hacen falta para cambiar una bombilla? Ninguno, es un problema de hardware. (v96)",
+    "content": "¿Qué le dijo el dinosaurio a su abogado? ¡Asegúrate de que mi herencia llegue a las gallinas!",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek"
+      "Aleatorio"
     ],
     "isLockedByDefault": false
   },
   {
     "id": 98,
-    "content": "Cualquier código propio que no hayas mirado en los últimos 6 meses podría haber sido escrito por otra persona. (v97)",
+    "content": "Soy el ChistosoREX: ¿Qué hace un T-Rex en el gimnasio? ¡Ejercicios de brazos... ah, espera, no llega!",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek"
+      "Aleatorio"
     ],
     "isLockedByDefault": false
   },
   {
     "id": 99,
-    "content": "Python es como un ninja: te mata antes de que te des cuenta de que has identado mal. (v98)",
+    "content": "Soy el ChistosoREX: ¿Por qué el T-Rex no usa el ordenador? Porque su ratón se ríe de sus brazos cortos.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek"
+      "Aleatorio"
     ],
     "isLockedByDefault": false
   },
   {
     "id": 100,
-    "content": "Git pull, git commit, git push, git pray. (v99)",
+    "content": "Soy el ChistosoREX: Roaaar... te iba a contar un chiste, pero se me ha extinguido la gracia.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek"
+      "Aleatorio"
     ],
     "isLockedByDefault": false
   },
   {
     "id": 101,
-    "content": "Hay 10 tipos de personas en el mundo: los que entienden binario y los que no. (v100)",
+    "content": "Soy el ChistosoREX: Roaaar... te iba a contar un chiste, pero se me ha extinguido la gracia.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek Diario"
+      "Exclusivo Diario"
     ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 102,
-    "content": "¿Por qué los programadores prefieren la oscuridad? Porque los bugs se atraen por la luz. (v101)",
+    "content": "Soy el ChistosoREX: ¿Por qué el T-Rex no usa el ordenador? Porque su ratón se ríe de sus brazos cortos.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek Diario"
+      "Exclusivo Diario"
     ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 103,
-    "content": "Un programador va al supermercado y su mujer le dice: 'Trae una barra de pan, y si hay huevos, trae doce'. El programador vuelve con doce barras de pan. (v102)",
+    "content": "Soy el ChistosoREX: ¿Qué hace un T-Rex en el gimnasio? ¡Ejercicios de brazos... ah, espera, no llega!",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek Diario"
+      "Exclusivo Diario"
     ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 104,
-    "content": "El código de mi proyecto es como un chiste: si tienes que explicarlo, es que es malo. (v103)",
+    "content": "¿Qué le dijo el dinosaurio a su abogado? ¡Asegúrate de que mi herencia llegue a las gallinas!",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek Diario"
+      "Exclusivo Diario"
     ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 105,
-    "content": "¿Cuál es el objeto orientado más famoso? El puntero láser. (v104)",
+    "content": "¿Por qué los dinosaurios no pueden jugar a las escondidas? Porque están extintos.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek Diario"
+      "Exclusivo Diario"
     ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 106,
-    "content": "En mi máquina funciona. - El grito de guerra del desarrollador. (v105)",
+    "content": "¿Qué hacen los de Lepe corriendo alrededor de la universidad? Una carrera universitaria.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek Diario"
+      "Exclusivo Diario"
     ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 107,
-    "content": "¿Por qué el desarrollador se quedó pobre? Porque usó todo su caché. (v106)",
+    "content": "¿Por qué los de Lepe plantan los árboles en la frontera? Para que los pájaros canten en el extranjero.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek Diario"
+      "Exclusivo Diario"
     ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 108,
-    "content": "Un desarrollador web entra a un restaurante, pide 1 hamburguesa, 0 hamburguesas, 9999999 hamburguesas, -1 hamburguesa, una hamburguesa de texto. Todo funciona. El primer cliente entra y pide dónde está el baño. El restaurante explota. (v107)",
+    "content": "¿Por qué los de Lepe no entran a la cocina? Porque hay un bote que pone 'Sal'.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek Diario"
+      "Exclusivo Diario"
     ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 109,
-    "content": "Hardware es aquello a lo que le puedes dar patadas. Software es aquello a lo que solo le puedes insultar. (v108)",
+    "content": "Jaimito le dice a su madre: ¡Mamá, mamá! ¡Hoy he sacado un 10! — ¿En qué, hijo? — Un 4 en matemáticas, un 3 en lenguaje, un 2 en inglés y un 1 en gimnasia.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek Diario"
+      "Exclusivo Diario"
     ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 110,
-    "content": "SQL entra en un bar, se acerca a dos mesas y pregunta: '¿Me puedo unir?' (v109)",
+    "content": "Profesor, ¿usted me castigaría por algo que no he hecho? — Claro que no, Jaimito. — ¡Qué alivio! Porque no he hecho los deberes.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek Diario"
+      "Exclusivo Diario"
     ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 111,
-    "content": "¿Qué es un terapeuta? 1024 gigapeutas. (v110)",
+    "content": "Mamá, en el cole me llaman distraído. — Jaimito, tú vives en la casa de enfrente.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek Diario"
+      "Exclusivo Diario"
     ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 112,
-    "content": "El optimista dice que el vaso está medio lleno. El pesimista que está medio vacío. El programador dice que el vaso es el doble de grande de lo necesario. (v111)",
+    "content": "Jaimito, ¿cuánto es 2 x 2? — Empate, profe.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek Diario"
+      "Exclusivo Diario"
     ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 113,
-    "content": "Hay dos cosas muy difíciles en informática: invalidar cachés, nombrar cosas, y los errores de off-by-one. (v112)",
+    "content": "Un desarrollador web entra a un restaurante, pide 1 hamburguesa, 0 hamburguesas, 9999999 hamburguesas, -1 hamburguesa, una hamburguesa de texto. Todo funciona. El primer cliente entra y pide dónde está el baño. El restaurante explota.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek Diario"
+      "Exclusivo Diario"
     ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 114,
-    "content": "Un buen programador es alguien que siempre mira a ambos lados antes de cruzar una calle de un solo sentido. (v113)",
+    "content": "¿Por qué el desarrollador se quedó pobre? Porque usó todo su caché.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek Diario"
+      "Exclusivo Diario"
     ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 115,
-    "content": "La depuración es como ser el detective en una película de crímenes donde también eres el asesino. (v114)",
+    "content": "En mi máquina funciona. - El grito de guerra del desarrollador.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek Diario"
+      "Exclusivo Diario"
     ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 116,
-    "content": "Si la programación orientada a objetos es el estándar, la programación orientada a excepciones es la realidad. (v115)",
+    "content": "¿Cuál es el objeto orientado más famoso? El puntero láser.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek Diario"
+      "Exclusivo Diario"
     ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 117,
-    "content": "¿Cuántos programadores hacen falta para cambiar una bombilla? Ninguno, es un problema de hardware. (v116)",
+    "content": "El código de mi proyecto es como un chiste: si tienes que explicarlo, es que es malo.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek Diario"
+      "Exclusivo Diario"
     ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 118,
-    "content": "Cualquier código propio que no hayas mirado en los últimos 6 meses podría haber sido escrito por otra persona. (v117)",
+    "content": "Un programador va al supermercado y su mujer le dice: 'Trae una barra de pan, y si hay huevos, trae doce'. El programador vuelve con doce barras de pan.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek Diario"
+      "Exclusivo Diario"
     ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 119,
-    "content": "Python es como un ninja: te mata antes de que te des cuenta de que has identado mal. (v118)",
+    "content": "¿Por qué los programadores prefieren la oscuridad? Porque los bugs se atraen por la luz.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek Diario"
+      "Exclusivo Diario"
     ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 120,
-    "content": "Git pull, git commit, git push, git pray. (v119)",
+    "content": "Hay 10 tipos de personas en el mundo: los que entienden binario y los que no.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek Diario"
+      "Exclusivo Diario"
     ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 121,
-    "content": "Hay 10 tipos de personas en el mundo: los que entienden binario y los que no. (v120)",
+    "content": "Soy el ChistosoREX: Roaaar... te iba a contar un chiste, pero se me ha extinguido la gracia.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek Diario"
+      "Exclusivo Diario"
     ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 122,
-    "content": "¿Por qué los programadores prefieren la oscuridad? Porque los bugs se atraen por la luz. (v121)",
+    "content": "Soy el ChistosoREX: ¿Por qué el T-Rex no usa el ordenador? Porque su ratón se ríe de sus brazos cortos.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek Diario"
+      "Exclusivo Diario"
     ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 123,
-    "content": "Un programador va al supermercado y su mujer le dice: 'Trae una barra de pan, y si hay huevos, trae doce'. El programador vuelve con doce barras de pan. (v122)",
+    "content": "Soy el ChistosoREX: ¿Qué hace un T-Rex en el gimnasio? ¡Ejercicios de brazos... ah, espera, no llega!",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek Diario"
+      "Exclusivo Diario"
     ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 124,
-    "content": "El código de mi proyecto es como un chiste: si tienes que explicarlo, es que es malo. (v123)",
+    "content": "¿Qué le dijo el dinosaurio a su abogado? ¡Asegúrate de que mi herencia llegue a las gallinas!",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek Diario"
+      "Exclusivo Diario"
     ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 125,
-    "content": "¿Cuál es el objeto orientado más famoso? El puntero láser. (v124)",
+    "content": "¿Por qué los dinosaurios no pueden jugar a las escondidas? Porque están extintos.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek Diario"
+      "Exclusivo Diario"
     ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 126,
-    "content": "En mi máquina funciona. - El grito de guerra del desarrollador. (v125)",
+    "content": "¿Qué hacen los de Lepe corriendo alrededor de la universidad? Una carrera universitaria.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek Diario"
+      "Exclusivo Diario"
     ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 127,
-    "content": "¿Por qué el desarrollador se quedó pobre? Porque usó todo su caché. (v126)",
+    "content": "¿Por qué los de Lepe plantan los árboles en la frontera? Para que los pájaros canten en el extranjero.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek Diario"
+      "Exclusivo Diario"
     ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 128,
-    "content": "Un desarrollador web entra a un restaurante, pide 1 hamburguesa, 0 hamburguesas, 9999999 hamburguesas, -1 hamburguesa, una hamburguesa de texto. Todo funciona. El primer cliente entra y pide dónde está el baño. El restaurante explota. (v127)",
+    "content": "¿Por qué los de Lepe no entran a la cocina? Porque hay un bote que pone 'Sal'.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek Diario"
+      "Exclusivo Diario"
     ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 129,
-    "content": "Hardware es aquello a lo que le puedes dar patadas. Software es aquello a lo que solo le puedes insultar. (v128)",
+    "content": "Jaimito le dice a su madre: ¡Mamá, mamá! ¡Hoy he sacado un 10! — ¿En qué, hijo? — Un 4 en matemáticas, un 3 en lenguaje, un 2 en inglés y un 1 en gimnasia.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek Diario"
+      "Exclusivo Diario"
     ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 130,
-    "content": "SQL entra en un bar, se acerca a dos mesas y pregunta: '¿Me puedo unir?' (v129)",
+    "content": "Profesor, ¿usted me castigaría por algo que no he hecho? — Claro que no, Jaimito. — ¡Qué alivio! Porque no he hecho los deberes.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek Diario"
+      "Exclusivo Diario"
     ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 131,
-    "content": "¿Qué es un terapeuta? 1024 gigapeutas. (v130)",
+    "content": "Mamá, en el cole me llaman distraído. — Jaimito, tú vives en la casa de enfrente.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek Diario"
+      "Exclusivo Diario"
     ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 132,
-    "content": "El optimista dice que el vaso está medio lleno. El pesimista que está medio vacío. El programador dice que el vaso es el doble de grande de lo necesario. (v131)",
+    "content": "Jaimito, ¿cuánto es 2 x 2? — Empate, profe.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek Diario"
+      "Exclusivo Diario"
     ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 133,
-    "content": "Hay dos cosas muy difíciles en informática: invalidar cachés, nombrar cosas, y los errores de off-by-one. (v132)",
+    "content": "Un desarrollador web entra a un restaurante, pide 1 hamburguesa, 0 hamburguesas, 9999999 hamburguesas, -1 hamburguesa, una hamburguesa de texto. Todo funciona. El primer cliente entra y pide dónde está el baño. El restaurante explota.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek Diario"
+      "Exclusivo Diario"
     ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 134,
-    "content": "Un buen programador es alguien que siempre mira a ambos lados antes de cruzar una calle de un solo sentido. (v133)",
+    "content": "¿Por qué el desarrollador se quedó pobre? Porque usó todo su caché.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek Diario"
+      "Exclusivo Diario"
     ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 135,
-    "content": "La depuración es como ser el detective en una película de crímenes donde también eres el asesino. (v134)",
+    "content": "En mi máquina funciona. - El grito de guerra del desarrollador.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek Diario"
+      "Exclusivo Diario"
     ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 136,
-    "content": "Si la programación orientada a objetos es el estándar, la programación orientada a excepciones es la realidad. (v135)",
+    "content": "¿Cuál es el objeto orientado más famoso? El puntero láser.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek Diario"
+      "Exclusivo Diario"
     ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 137,
-    "content": "¿Cuántos programadores hacen falta para cambiar una bombilla? Ninguno, es un problema de hardware. (v136)",
+    "content": "El código de mi proyecto es como un chiste: si tienes que explicarlo, es que es malo.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek Diario"
+      "Exclusivo Diario"
     ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 138,
-    "content": "Cualquier código propio que no hayas mirado en los últimos 6 meses podría haber sido escrito por otra persona. (v137)",
+    "content": "Un programador va al supermercado y su mujer le dice: 'Trae una barra de pan, y si hay huevos, trae doce'. El programador vuelve con doce barras de pan.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek Diario"
+      "Exclusivo Diario"
     ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 139,
-    "content": "Python es como un ninja: te mata antes de que te des cuenta de que has identado mal. (v138)",
+    "content": "¿Por qué los programadores prefieren la oscuridad? Porque los bugs se atraen por la luz.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek Diario"
+      "Exclusivo Diario"
     ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 140,
-    "content": "Git pull, git commit, git push, git pray. (v139)",
+    "content": "Hay 10 tipos de personas en el mundo: los que entienden binario y los que no.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek Diario"
+      "Exclusivo Diario"
     ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 141,
-    "content": "Hay 10 tipos de personas en el mundo: los que entienden binario y los que no. (v140)",
+    "content": "Soy el ChistosoREX: Roaaar... te iba a contar un chiste, pero se me ha extinguido la gracia.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek Diario"
+      "Exclusivo Diario"
     ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 142,
-    "content": "¿Por qué los programadores prefieren la oscuridad? Porque los bugs se atraen por la luz. (v141)",
+    "content": "Soy el ChistosoREX: ¿Por qué el T-Rex no usa el ordenador? Porque su ratón se ríe de sus brazos cortos.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek Diario"
+      "Exclusivo Diario"
     ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 143,
-    "content": "Un programador va al supermercado y su mujer le dice: 'Trae una barra de pan, y si hay huevos, trae doce'. El programador vuelve con doce barras de pan. (v142)",
+    "content": "Soy el ChistosoREX: ¿Qué hace un T-Rex en el gimnasio? ¡Ejercicios de brazos... ah, espera, no llega!",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek Diario"
+      "Exclusivo Diario"
     ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 144,
-    "content": "El código de mi proyecto es como un chiste: si tienes que explicarlo, es que es malo. (v143)",
+    "content": "¿Qué le dijo el dinosaurio a su abogado? ¡Asegúrate de que mi herencia llegue a las gallinas!",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek Diario"
+      "Exclusivo Diario"
     ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 145,
-    "content": "¿Cuál es el objeto orientado más famoso? El puntero láser. (v144)",
+    "content": "¿Por qué los dinosaurios no pueden jugar a las escondidas? Porque están extintos.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek Diario"
+      "Exclusivo Diario"
     ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 146,
-    "content": "En mi máquina funciona. - El grito de guerra del desarrollador. (v145)",
+    "content": "¿Qué hacen los de Lepe corriendo alrededor de la universidad? Una carrera universitaria.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek Diario"
+      "Exclusivo Diario"
     ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 147,
-    "content": "¿Por qué el desarrollador se quedó pobre? Porque usó todo su caché. (v146)",
+    "content": "¿Por qué los de Lepe plantan los árboles en la frontera? Para que los pájaros canten en el extranjero.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek Diario"
+      "Exclusivo Diario"
     ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 148,
-    "content": "Un desarrollador web entra a un restaurante, pide 1 hamburguesa, 0 hamburguesas, 9999999 hamburguesas, -1 hamburguesa, una hamburguesa de texto. Todo funciona. El primer cliente entra y pide dónde está el baño. El restaurante explota. (v147)",
+    "content": "¿Por qué los de Lepe no entran a la cocina? Porque hay un bote que pone 'Sal'.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek Diario"
+      "Exclusivo Diario"
     ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 149,
-    "content": "Hardware es aquello a lo que le puedes dar patadas. Software es aquello a lo que solo le puedes insultar. (v148)",
+    "content": "Jaimito le dice a su madre: ¡Mamá, mamá! ¡Hoy he sacado un 10! — ¿En qué, hijo? — Un 4 en matemáticas, un 3 en lenguaje, un 2 en inglés y un 1 en gimnasia.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek Diario"
+      "Exclusivo Diario"
     ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 150,
-    "content": "SQL entra en un bar, se acerca a dos mesas y pregunta: '¿Me puedo unir?' (v149)",
+    "content": "Profesor, ¿usted me castigaría por algo que no he hecho? — Claro que no, Jaimito. — ¡Qué alivio! Porque no he hecho los deberes.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek Diario"
+      "Exclusivo Diario"
     ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 151,
-    "content": "¿Qué es un terapeuta? 1024 gigapeutas. (v150)",
+    "content": "Mamá, en el cole me llaman distraído. — Jaimito, tú vives en la casa de enfrente.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek Diario"
+      "Exclusivo Diario"
     ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 152,
-    "content": "El optimista dice que el vaso está medio lleno. El pesimista que está medio vacío. El programador dice que el vaso es el doble de grande de lo necesario. (v151)",
+    "content": "Jaimito, ¿cuánto es 2 x 2? — Empate, profe.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek Diario"
+      "Exclusivo Diario"
     ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 153,
-    "content": "Hay dos cosas muy difíciles en informática: invalidar cachés, nombrar cosas, y los errores de off-by-one. (v152)",
+    "content": "Un desarrollador web entra a un restaurante, pide 1 hamburguesa, 0 hamburguesas, 9999999 hamburguesas, -1 hamburguesa, una hamburguesa de texto. Todo funciona. El primer cliente entra y pide dónde está el baño. El restaurante explota.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek Diario"
+      "Exclusivo Diario"
     ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 154,
-    "content": "Un buen programador es alguien que siempre mira a ambos lados antes de cruzar una calle de un solo sentido. (v153)",
+    "content": "¿Por qué el desarrollador se quedó pobre? Porque usó todo su caché.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek Diario"
+      "Exclusivo Diario"
     ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 155,
-    "content": "La depuración es como ser el detective en una película de crímenes donde también eres el asesino. (v154)",
+    "content": "En mi máquina funciona. - El grito de guerra del desarrollador.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek Diario"
+      "Exclusivo Diario"
     ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 156,
-    "content": "Si la programación orientada a objetos es el estándar, la programación orientada a excepciones es la realidad. (v155)",
+    "content": "¿Cuál es el objeto orientado más famoso? El puntero láser.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek Diario"
+      "Exclusivo Diario"
     ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 157,
-    "content": "¿Cuántos programadores hacen falta para cambiar una bombilla? Ninguno, es un problema de hardware. (v156)",
+    "content": "El código de mi proyecto es como un chiste: si tienes que explicarlo, es que es malo.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek Diario"
+      "Exclusivo Diario"
     ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 158,
-    "content": "Cualquier código propio que no hayas mirado en los últimos 6 meses podría haber sido escrito por otra persona. (v157)",
+    "content": "Un programador va al supermercado y su mujer le dice: 'Trae una barra de pan, y si hay huevos, trae doce'. El programador vuelve con doce barras de pan.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek Diario"
+      "Exclusivo Diario"
     ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 159,
-    "content": "Python es como un ninja: te mata antes de que te des cuenta de que has identado mal. (v158)",
+    "content": "¿Por qué los programadores prefieren la oscuridad? Porque los bugs se atraen por la luz.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek Diario"
+      "Exclusivo Diario"
     ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 160,
-    "content": "Git pull, git commit, git push, git pray. (v159)",
+    "content": "Hay 10 tipos de personas en el mundo: los que entienden binario y los que no.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek Diario"
+      "Exclusivo Diario"
     ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 161,
-    "content": "Hay 10 tipos de personas en el mundo: los que entienden binario y los que no. (v160)",
+    "content": "Soy el ChistosoREX: Roaaar... te iba a contar un chiste, pero se me ha extinguido la gracia.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek Diario"
+      "Exclusivo Diario"
     ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 162,
-    "content": "¿Por qué los programadores prefieren la oscuridad? Porque los bugs se atraen por la luz. (v161)",
+    "content": "Soy el ChistosoREX: ¿Por qué el T-Rex no usa el ordenador? Porque su ratón se ríe de sus brazos cortos.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek Diario"
+      "Exclusivo Diario"
     ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 163,
-    "content": "Un programador va al supermercado y su mujer le dice: 'Trae una barra de pan, y si hay huevos, trae doce'. El programador vuelve con doce barras de pan. (v162)",
+    "content": "Soy el ChistosoREX: ¿Qué hace un T-Rex en el gimnasio? ¡Ejercicios de brazos... ah, espera, no llega!",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek Diario"
+      "Exclusivo Diario"
     ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 164,
-    "content": "El código de mi proyecto es como un chiste: si tienes que explicarlo, es que es malo. (v163)",
+    "content": "¿Qué le dijo el dinosaurio a su abogado? ¡Asegúrate de que mi herencia llegue a las gallinas!",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek Diario"
+      "Exclusivo Diario"
     ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 165,
-    "content": "¿Cuál es el objeto orientado más famoso? El puntero láser. (v164)",
+    "content": "¿Por qué los dinosaurios no pueden jugar a las escondidas? Porque están extintos.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek Diario"
+      "Exclusivo Diario"
     ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 166,
-    "content": "En mi máquina funciona. - El grito de guerra del desarrollador. (v165)",
+    "content": "¿Qué hacen los de Lepe corriendo alrededor de la universidad? Una carrera universitaria.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek Diario"
+      "Exclusivo Diario"
     ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 167,
-    "content": "¿Por qué el desarrollador se quedó pobre? Porque usó todo su caché. (v166)",
+    "content": "¿Por qué los de Lepe plantan los árboles en la frontera? Para que los pájaros canten en el extranjero.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek Diario"
+      "Exclusivo Diario"
     ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 168,
-    "content": "Un desarrollador web entra a un restaurante, pide 1 hamburguesa, 0 hamburguesas, 9999999 hamburguesas, -1 hamburguesa, una hamburguesa de texto. Todo funciona. El primer cliente entra y pide dónde está el baño. El restaurante explota. (v167)",
+    "content": "¿Por qué los de Lepe no entran a la cocina? Porque hay un bote que pone 'Sal'.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek Diario"
+      "Exclusivo Diario"
     ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 169,
-    "content": "Hardware es aquello a lo que le puedes dar patadas. Software es aquello a lo que solo le puedes insultar. (v168)",
+    "content": "Jaimito le dice a su madre: ¡Mamá, mamá! ¡Hoy he sacado un 10! — ¿En qué, hijo? — Un 4 en matemáticas, un 3 en lenguaje, un 2 en inglés y un 1 en gimnasia.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek Diario"
+      "Exclusivo Diario"
     ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 170,
-    "content": "SQL entra en un bar, se acerca a dos mesas y pregunta: '¿Me puedo unir?' (v169)",
+    "content": "Profesor, ¿usted me castigaría por algo que no he hecho? — Claro que no, Jaimito. — ¡Qué alivio! Porque no he hecho los deberes.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek Diario"
+      "Exclusivo Diario"
     ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 171,
-    "content": "¿Qué es un terapeuta? 1024 gigapeutas. (v170)",
+    "content": "Mamá, en el cole me llaman distraído. — Jaimito, tú vives en la casa de enfrente.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek Diario"
+      "Exclusivo Diario"
     ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 172,
-    "content": "El optimista dice que el vaso está medio lleno. El pesimista que está medio vacío. El programador dice que el vaso es el doble de grande de lo necesario. (v171)",
+    "content": "Jaimito, ¿cuánto es 2 x 2? — Empate, profe.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek Diario"
+      "Exclusivo Diario"
     ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 173,
-    "content": "Hay dos cosas muy difíciles en informática: invalidar cachés, nombrar cosas, y los errores de off-by-one. (v172)",
+    "content": "Un desarrollador web entra a un restaurante, pide 1 hamburguesa, 0 hamburguesas, 9999999 hamburguesas, -1 hamburguesa, una hamburguesa de texto. Todo funciona. El primer cliente entra y pide dónde está el baño. El restaurante explota.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek Diario"
+      "Exclusivo Diario"
     ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 174,
-    "content": "Un buen programador es alguien que siempre mira a ambos lados antes de cruzar una calle de un solo sentido. (v173)",
+    "content": "¿Por qué el desarrollador se quedó pobre? Porque usó todo su caché.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek Diario"
+      "Exclusivo Diario"
     ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 175,
-    "content": "La depuración es como ser el detective en una película de crímenes donde también eres el asesino. (v174)",
+    "content": "En mi máquina funciona. - El grito de guerra del desarrollador.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek Diario"
+      "Exclusivo Diario"
     ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 176,
-    "content": "Si la programación orientada a objetos es el estándar, la programación orientada a excepciones es la realidad. (v175)",
+    "content": "¿Cuál es el objeto orientado más famoso? El puntero láser.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek Diario"
+      "Exclusivo Diario"
     ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 177,
-    "content": "¿Cuántos programadores hacen falta para cambiar una bombilla? Ninguno, es un problema de hardware. (v176)",
+    "content": "El código de mi proyecto es como un chiste: si tienes que explicarlo, es que es malo.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek Diario"
+      "Exclusivo Diario"
     ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 178,
-    "content": "Cualquier código propio que no hayas mirado en los últimos 6 meses podría haber sido escrito por otra persona. (v177)",
+    "content": "Un programador va al supermercado y su mujer le dice: 'Trae una barra de pan, y si hay huevos, trae doce'. El programador vuelve con doce barras de pan.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek Diario"
+      "Exclusivo Diario"
     ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 179,
-    "content": "Python es como un ninja: te mata antes de que te des cuenta de que has identado mal. (v178)",
+    "content": "¿Por qué los programadores prefieren la oscuridad? Porque los bugs se atraen por la luz.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek Diario"
+      "Exclusivo Diario"
     ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 180,
-    "content": "Git pull, git commit, git push, git pray. (v179)",
+    "content": "Hay 10 tipos de personas en el mundo: los que entienden binario y los que no.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek Diario"
+      "Exclusivo Diario"
     ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 181,
-    "content": "Hay 10 tipos de personas en el mundo: los que entienden binario y los que no. (v180)",
+    "content": "Soy el ChistosoREX: Roaaar... te iba a contar un chiste, pero se me ha extinguido la gracia.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek Diario"
+      "Exclusivo Diario"
     ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 182,
-    "content": "¿Por qué los programadores prefieren la oscuridad? Porque los bugs se atraen por la luz. (v181)",
+    "content": "Soy el ChistosoREX: ¿Por qué el T-Rex no usa el ordenador? Porque su ratón se ríe de sus brazos cortos.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek Diario"
+      "Exclusivo Diario"
     ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 183,
-    "content": "Un programador va al supermercado y su mujer le dice: 'Trae una barra de pan, y si hay huevos, trae doce'. El programador vuelve con doce barras de pan. (v182)",
+    "content": "Soy el ChistosoREX: ¿Qué hace un T-Rex en el gimnasio? ¡Ejercicios de brazos... ah, espera, no llega!",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek Diario"
+      "Exclusivo Diario"
     ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 184,
-    "content": "El código de mi proyecto es como un chiste: si tienes que explicarlo, es que es malo. (v183)",
+    "content": "¿Qué le dijo el dinosaurio a su abogado? ¡Asegúrate de que mi herencia llegue a las gallinas!",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek Diario"
+      "Exclusivo Diario"
     ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 185,
-    "content": "¿Cuál es el objeto orientado más famoso? El puntero láser. (v184)",
+    "content": "¿Por qué los dinosaurios no pueden jugar a las escondidas? Porque están extintos.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek Diario"
+      "Exclusivo Diario"
     ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 186,
-    "content": "En mi máquina funciona. - El grito de guerra del desarrollador. (v185)",
+    "content": "¿Qué hacen los de Lepe corriendo alrededor de la universidad? Una carrera universitaria.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek Diario"
+      "Exclusivo Diario"
     ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 187,
-    "content": "¿Por qué el desarrollador se quedó pobre? Porque usó todo su caché. (v186)",
+    "content": "¿Por qué los de Lepe plantan los árboles en la frontera? Para que los pájaros canten en el extranjero.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek Diario"
+      "Exclusivo Diario"
     ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 188,
-    "content": "Un desarrollador web entra a un restaurante, pide 1 hamburguesa, 0 hamburguesas, 9999999 hamburguesas, -1 hamburguesa, una hamburguesa de texto. Todo funciona. El primer cliente entra y pide dónde está el baño. El restaurante explota. (v187)",
+    "content": "¿Por qué los de Lepe no entran a la cocina? Porque hay un bote que pone 'Sal'.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek Diario"
+      "Exclusivo Diario"
     ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 189,
-    "content": "Hardware es aquello a lo que le puedes dar patadas. Software es aquello a lo que solo le puedes insultar. (v188)",
+    "content": "Jaimito le dice a su madre: ¡Mamá, mamá! ¡Hoy he sacado un 10! — ¿En qué, hijo? — Un 4 en matemáticas, un 3 en lenguaje, un 2 en inglés y un 1 en gimnasia.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek Diario"
+      "Exclusivo Diario"
     ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 190,
-    "content": "SQL entra en un bar, se acerca a dos mesas y pregunta: '¿Me puedo unir?' (v189)",
+    "content": "Profesor, ¿usted me castigaría por algo que no he hecho? — Claro que no, Jaimito. — ¡Qué alivio! Porque no he hecho los deberes.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek Diario"
+      "Exclusivo Diario"
     ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 191,
-    "content": "¿Qué es un terapeuta? 1024 gigapeutas. (v190)",
+    "content": "Mamá, en el cole me llaman distraído. — Jaimito, tú vives en la casa de enfrente.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek Diario"
+      "Exclusivo Diario"
     ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 192,
-    "content": "El optimista dice que el vaso está medio lleno. El pesimista que está medio vacío. El programador dice que el vaso es el doble de grande de lo necesario. (v191)",
+    "content": "Jaimito, ¿cuánto es 2 x 2? — Empate, profe.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek Diario"
+      "Exclusivo Diario"
     ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 193,
-    "content": "Hay dos cosas muy difíciles en informática: invalidar cachés, nombrar cosas, y los errores de off-by-one. (v192)",
+    "content": "Un desarrollador web entra a un restaurante, pide 1 hamburguesa, 0 hamburguesas, 9999999 hamburguesas, -1 hamburguesa, una hamburguesa de texto. Todo funciona. El primer cliente entra y pide dónde está el baño. El restaurante explota.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek Diario"
+      "Exclusivo Diario"
     ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 194,
-    "content": "Un buen programador es alguien que siempre mira a ambos lados antes de cruzar una calle de un solo sentido. (v193)",
+    "content": "¿Por qué el desarrollador se quedó pobre? Porque usó todo su caché.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek Diario"
+      "Exclusivo Diario"
     ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 195,
-    "content": "La depuración es como ser el detective en una película de crímenes donde también eres el asesino. (v194)",
+    "content": "En mi máquina funciona. - El grito de guerra del desarrollador.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek Diario"
+      "Exclusivo Diario"
     ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 196,
-    "content": "Si la programación orientada a objetos es el estándar, la programación orientada a excepciones es la realidad. (v195)",
+    "content": "¿Cuál es el objeto orientado más famoso? El puntero láser.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek Diario"
+      "Exclusivo Diario"
     ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 197,
-    "content": "¿Cuántos programadores hacen falta para cambiar una bombilla? Ninguno, es un problema de hardware. (v196)",
+    "content": "El código de mi proyecto es como un chiste: si tienes que explicarlo, es que es malo.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek Diario"
+      "Exclusivo Diario"
     ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 198,
-    "content": "Cualquier código propio que no hayas mirado en los últimos 6 meses podría haber sido escrito por otra persona. (v197)",
+    "content": "Un programador va al supermercado y su mujer le dice: 'Trae una barra de pan, y si hay huevos, trae doce'. El programador vuelve con doce barras de pan.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek Diario"
+      "Exclusivo Diario"
     ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 199,
-    "content": "Python es como un ninja: te mata antes de que te des cuenta de que has identado mal. (v198)",
+    "content": "¿Por qué los programadores prefieren la oscuridad? Porque los bugs se atraen por la luz.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek Diario"
+      "Exclusivo Diario"
     ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 200,
-    "content": "Git pull, git commit, git push, git pray. (v199)",
+    "content": "Hay 10 tipos de personas en el mundo: los que entienden binario y los que no.",
     "type": "STANDARD",
     "tags": [
-      "Informática",
-      "Humor Geek Diario"
+      "Exclusivo Diario"
     ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 201,
-    "content": "— ¿Qué tal va la campaña electoral? \n— No nos podemos quejar.\n— ¿Tan bien os va?\n— No, es que nos han prohibido quejarnos. [Edición #0]",
+    "content": "— ¿Qué tal va la campaña electoral? \n— No nos podemos quejar.\n— ¿Tan bien os va?\n— No, es que nos han prohibido quejarnos.",
     "type": "POLITICAL",
     "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
@@ -2113,7 +1913,7 @@
   },
   {
     "id": 202,
-    "content": "Un político le dice a otro: \n— Oye, ¿tú qué vas a hacer con el presupuesto de educación?\n— ¿Educación? No me suena ese ministerio, ¿está en el área de protocolo? [Edición #1]",
+    "content": "Un político le dice a otro: \n— Oye, ¿tú qué vas a hacer con el presupuesto de educación?\n— ¿Educación? No me suena ese ministerio, ¿está en el área de protocolo?",
     "type": "POLITICAL",
     "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
@@ -2125,7 +1925,7 @@
   },
   {
     "id": 203,
-    "content": "— Señor ministro, ¿por qué no baja los impuestos?\n— Porque entonces la gente tendría dinero y empezaría a pensar por sí misma, y eso es muy peligroso. [Edición #2]",
+    "content": "— Señor ministro, ¿por qué no baja los impuestos?\n— Porque entonces la gente tendría dinero y empezaría a pensar por sí misma, y eso es muy peligroso.",
     "type": "POLITICAL",
     "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
@@ -2137,7 +1937,7 @@
   },
   {
     "id": 204,
-    "content": "— Papá, de mayor quiero ser político.\n— ¿Estás loco, hijo? ¿Te has vuelto honesto e incapaz de mentir?\n— No, papá, que quiero ser de los normales. [Edición #3]",
+    "content": "— Papá, de mayor quiero ser político.\n— ¿Estás loco, hijo? ¿Te has vuelto honesto e incapaz de mentir?\n— No, papá, que quiero ser de los normales.",
     "type": "POLITICAL",
     "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
@@ -2149,7 +1949,7 @@
   },
   {
     "id": 205,
-    "content": "— Señor Ministro, las encuestas dicen que el 80% de los ciudadanos está en contra de su gestión.\n— No pasa nada, cambiaremos al 80% de los ciudadanos. [Edición #4]",
+    "content": "— Señor Ministro, las encuestas dicen que el 80% de los ciudadanos está en contra de su gestión.\n— No pasa nada, cambiaremos al 80% de los ciudadanos.",
     "type": "POLITICAL",
     "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
@@ -2161,7 +1961,7 @@
   },
   {
     "id": 206,
-    "content": "— Señorías, hemos erradicado por completo la corrupción.\n— ¡Un momento! ¿Y ese fajo de billetes?\n— Ah, es que entra en vigor el mes que viene. [Edición #5]",
+    "content": "— Señorías, hemos erradicado por completo la corrupción.\n— ¡Un momento! ¿Y ese fajo de billetes?\n— Ah, es que entra en vigor el mes que viene.",
     "type": "POLITICAL",
     "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
@@ -2173,7 +1973,7 @@
   },
   {
     "id": 207,
-    "content": "— Hemos diseñado un plan estratégico infalible para inaugurar el nuevo carril bici.\n— ¿Y cuándo empiezan las obras?\n— ¿Obras? Solo tenemos presupuesto para la maqueta. [Edición #6]",
+    "content": "— Hemos diseñado un plan estratégico infalible para inaugurar el nuevo carril bici.\n— ¿Y cuándo empiezan las obras?\n— ¿Obras? Solo tenemos presupuesto para la maqueta.",
     "type": "POLITICAL",
     "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
@@ -2185,7 +1985,7 @@
   },
   {
     "id": 208,
-    "content": "En el Congreso: \n— Mi partido promete que no descansaremos hasta acabar con el paro.\n— ¡Llevan ustedes 20 años sin descansar y el paro sigue igual! [Edición #7]",
+    "content": "En el Congreso: \n— Mi partido promete que no descansaremos hasta acabar con el paro.\n— ¡Llevan ustedes 20 años sin descansar y el paro sigue igual!",
     "type": "POLITICAL",
     "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
@@ -2197,7 +1997,7 @@
   },
   {
     "id": 209,
-    "content": "— Señor Presidente, el pueblo pide a gritos transparencia.\n— Perfecto, quiten las cortinas de la Moncloa. [Edición #8]",
+    "content": "— Señor Presidente, el pueblo pide a gritos transparencia.\n— Perfecto, quiten las cortinas de la Moncloa.",
     "type": "POLITICAL",
     "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
@@ -2209,7 +2009,7 @@
   },
   {
     "id": 210,
-    "content": "— ¿Cuál es la diferencia entre un político y un ladrón?\n— Que el político te roba legalmente, te cobra IVA por ello y encima quiere que le votes. [Edición #9]",
+    "content": "— ¿Cuál es la diferencia entre un político y un ladrón?\n— Que el político te roba legalmente, te cobra IVA por ello y encima quiere que le votes.",
     "type": "POLITICAL",
     "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
@@ -2221,7 +2021,7 @@
   },
   {
     "id": 211,
-    "content": "Declaraciones oficiales: 'La crisis económica es un mito. De hecho, nuestros políticos son más ricos que nunca.' [Edición #10]",
+    "content": "Declaraciones oficiales: 'La crisis económica es un mito. De hecho, nuestros políticos son más ricos que nunca.'",
     "type": "POLITICAL",
     "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
@@ -2233,7 +2033,7 @@
   },
   {
     "id": 212,
-    "content": "— ¿Qué haces leyendo el programa electoral de hace 4 años?\n— Estoy leyendo un libro de fantasía épica. [Edición #11]",
+    "content": "— ¿Qué haces leyendo el programa electoral de hace 4 años?\n— Estoy leyendo un libro de fantasía épica.",
     "type": "POLITICAL",
     "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
@@ -2245,7 +2045,7 @@
   },
   {
     "id": 213,
-    "content": "El único lugar donde se puede encontrar un político que cumple sus promesas es en la sección de ciencia ficción de la biblioteca. [Edición #12]",
+    "content": "El único lugar donde se puede encontrar un político que cumple sus promesas es en la sección de ciencia ficción de la biblioteca.",
     "type": "POLITICAL",
     "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
@@ -2257,7 +2057,7 @@
   },
   {
     "id": 214,
-    "content": "— Oye, ¿tú de qué partido eres?\n— Yo soy del partido de los que llegan a fin de mes de milagro. [Edición #13]",
+    "content": "— Oye, ¿tú de qué partido eres?\n— Yo soy del partido de los que llegan a fin de mes de milagro.",
     "type": "POLITICAL",
     "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
@@ -2269,7 +2069,7 @@
   },
   {
     "id": 215,
-    "content": "— Hemos descubierto un agujero negro en las arcas del Estado.\n— ¿Y qué van a hacer?\n— Echarle la culpa a la herencia recibida, como siempre. [Edición #14]",
+    "content": "— Hemos descubierto un agujero negro en las arcas del Estado.\n— ¿Y qué van a hacer?\n— Echarle la culpa a la herencia recibida, como siempre.",
     "type": "POLITICAL",
     "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
@@ -2281,7 +2081,7 @@
   },
   {
     "id": 216,
-    "content": "La política es el arte de buscar problemas, encontrarlos, hacer un diagnóstico falso y aplicar los remedios equivocados. [Edición #15]",
+    "content": "La política es el arte de buscar problemas, encontrarlos, hacer un diagnóstico falso y aplicar los remedios equivocados.",
     "type": "POLITICAL",
     "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
@@ -2293,7 +2093,7 @@
   },
   {
     "id": 217,
-    "content": "— Hemos aprobado una nueva ley de sanidad.\n— ¿Y en qué consiste?\n— En que a partir de ahora curarse es un artículo de lujo. [Edición #16]",
+    "content": "— Hemos aprobado una nueva ley de sanidad.\n— ¿Y en qué consiste?\n— En que a partir de ahora curarse es un artículo de lujo.",
     "type": "POLITICAL",
     "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
@@ -2305,7 +2105,7 @@
   },
   {
     "id": 218,
-    "content": "— ¿Sabe cuál es el colmo de un político corrupto?\n— Que no le alcance el dinero negro para pagar la fianza. [Edición #17]",
+    "content": "— ¿Sabe cuál es el colmo de un político corrupto?\n— Que no le alcance el dinero negro para pagar la fianza.",
     "type": "POLITICAL",
     "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
@@ -2317,7 +2117,7 @@
   },
   {
     "id": 219,
-    "content": "— El presidente ha dicho que hay luz al final del túnel.\n— Sí, es el tren de la inflación que viene de frente. [Edición #18]",
+    "content": "— El presidente ha dicho que hay luz al final del túnel.\n— Sí, es el tren de la inflación que viene de frente.",
     "type": "POLITICAL",
     "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
@@ -2329,7 +2129,7 @@
   },
   {
     "id": 220,
-    "content": "El político es una persona capaz de predecir lo que va a pasar mañana, el mes próximo y el año que viene; y de explicar después por qué no ocurrió. [Edición #19]",
+    "content": "El político es una persona capaz de predecir lo que va a pasar mañana, el mes próximo y el año que viene; y de explicar después por qué no ocurrió.",
     "type": "POLITICAL",
     "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
@@ -2341,7 +2141,7 @@
   },
   {
     "id": 221,
-    "content": "— ¿Qué tal va la campaña electoral? \n— No nos podemos quejar.\n— ¿Tan bien os va?\n— No, es que nos han prohibido quejarnos. [Edición #20]",
+    "content": "— ¿Qué tal va la campaña electoral? \n— No nos podemos quejar.\n— ¿Tan bien os va?\n— No, es que nos han prohibido quejarnos.",
     "type": "POLITICAL",
     "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
@@ -2353,7 +2153,7 @@
   },
   {
     "id": 222,
-    "content": "Un político le dice a otro: \n— Oye, ¿tú qué vas a hacer con el presupuesto de educación?\n— ¿Educación? No me suena ese ministerio, ¿está en el área de protocolo? [Edición #21]",
+    "content": "Un político le dice a otro: \n— Oye, ¿tú qué vas a hacer con el presupuesto de educación?\n— ¿Educación? No me suena ese ministerio, ¿está en el área de protocolo?",
     "type": "POLITICAL",
     "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
@@ -2365,7 +2165,7 @@
   },
   {
     "id": 223,
-    "content": "— Señor ministro, ¿por qué no baja los impuestos?\n— Porque entonces la gente tendría dinero y empezaría a pensar por sí misma, y eso es muy peligroso. [Edición #22]",
+    "content": "— Señor ministro, ¿por qué no baja los impuestos?\n— Porque entonces la gente tendría dinero y empezaría a pensar por sí misma, y eso es muy peligroso.",
     "type": "POLITICAL",
     "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
@@ -2377,7 +2177,7 @@
   },
   {
     "id": 224,
-    "content": "— Papá, de mayor quiero ser político.\n— ¿Estás loco, hijo? ¿Te has vuelto honesto e incapaz de mentir?\n— No, papá, que quiero ser de los normales. [Edición #23]",
+    "content": "— Papá, de mayor quiero ser político.\n— ¿Estás loco, hijo? ¿Te has vuelto honesto e incapaz de mentir?\n— No, papá, que quiero ser de los normales.",
     "type": "POLITICAL",
     "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
@@ -2389,7 +2189,7 @@
   },
   {
     "id": 225,
-    "content": "— Señor Ministro, las encuestas dicen que el 80% de los ciudadanos está en contra de su gestión.\n— No pasa nada, cambiaremos al 80% de los ciudadanos. [Edición #24]",
+    "content": "— Señor Ministro, las encuestas dicen que el 80% de los ciudadanos está en contra de su gestión.\n— No pasa nada, cambiaremos al 80% de los ciudadanos.",
     "type": "POLITICAL",
     "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
@@ -2401,7 +2201,7 @@
   },
   {
     "id": 226,
-    "content": "— Señorías, hemos erradicado por completo la corrupción.\n— ¡Un momento! ¿Y ese fajo de billetes?\n— Ah, es que entra en vigor el mes que viene. [Edición #25]",
+    "content": "— Señorías, hemos erradicado por completo la corrupción.\n— ¡Un momento! ¿Y ese fajo de billetes?\n— Ah, es que entra en vigor el mes que viene.",
     "type": "POLITICAL",
     "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
@@ -2413,7 +2213,7 @@
   },
   {
     "id": 227,
-    "content": "— Hemos diseñado un plan estratégico infalible para inaugurar el nuevo carril bici.\n— ¿Y cuándo empiezan las obras?\n— ¿Obras? Solo tenemos presupuesto para la maqueta. [Edición #26]",
+    "content": "— Hemos diseñado un plan estratégico infalible para inaugurar el nuevo carril bici.\n— ¿Y cuándo empiezan las obras?\n— ¿Obras? Solo tenemos presupuesto para la maqueta.",
     "type": "POLITICAL",
     "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
@@ -2425,7 +2225,7 @@
   },
   {
     "id": 228,
-    "content": "En el Congreso: \n— Mi partido promete que no descansaremos hasta acabar con el paro.\n— ¡Llevan ustedes 20 años sin descansar y el paro sigue igual! [Edición #27]",
+    "content": "En el Congreso: \n— Mi partido promete que no descansaremos hasta acabar con el paro.\n— ¡Llevan ustedes 20 años sin descansar y el paro sigue igual!",
     "type": "POLITICAL",
     "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
@@ -2437,7 +2237,7 @@
   },
   {
     "id": 229,
-    "content": "— Señor Presidente, el pueblo pide a gritos transparencia.\n— Perfecto, quiten las cortinas de la Moncloa. [Edición #28]",
+    "content": "— Señor Presidente, el pueblo pide a gritos transparencia.\n— Perfecto, quiten las cortinas de la Moncloa.",
     "type": "POLITICAL",
     "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
@@ -2449,7 +2249,7 @@
   },
   {
     "id": 230,
-    "content": "— ¿Cuál es la diferencia entre un político y un ladrón?\n— Que el político te roba legalmente, te cobra IVA por ello y encima quiere que le votes. [Edición #29]",
+    "content": "— ¿Cuál es la diferencia entre un político y un ladrón?\n— Que el político te roba legalmente, te cobra IVA por ello y encima quiere que le votes.",
     "type": "POLITICAL",
     "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
@@ -2461,7 +2261,7 @@
   },
   {
     "id": 231,
-    "content": "Declaraciones oficiales: 'La crisis económica es un mito. De hecho, nuestros políticos son más ricos que nunca.' [Edición #30]",
+    "content": "Declaraciones oficiales: 'La crisis económica es un mito. De hecho, nuestros políticos son más ricos que nunca.'",
     "type": "POLITICAL",
     "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
@@ -2473,7 +2273,7 @@
   },
   {
     "id": 232,
-    "content": "— ¿Qué haces leyendo el programa electoral de hace 4 años?\n— Estoy leyendo un libro de fantasía épica. [Edición #31]",
+    "content": "— ¿Qué haces leyendo el programa electoral de hace 4 años?\n— Estoy leyendo un libro de fantasía épica.",
     "type": "POLITICAL",
     "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
@@ -2485,7 +2285,7 @@
   },
   {
     "id": 233,
-    "content": "El único lugar donde se puede encontrar un político que cumple sus promesas es en la sección de ciencia ficción de la biblioteca. [Edición #32]",
+    "content": "El único lugar donde se puede encontrar un político que cumple sus promesas es en la sección de ciencia ficción de la biblioteca.",
     "type": "POLITICAL",
     "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
@@ -2497,7 +2297,7 @@
   },
   {
     "id": 234,
-    "content": "— Oye, ¿tú de qué partido eres?\n— Yo soy del partido de los que llegan a fin de mes de milagro. [Edición #33]",
+    "content": "— Oye, ¿tú de qué partido eres?\n— Yo soy del partido de los que llegan a fin de mes de milagro.",
     "type": "POLITICAL",
     "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
@@ -2509,7 +2309,7 @@
   },
   {
     "id": 235,
-    "content": "— Hemos descubierto un agujero negro en las arcas del Estado.\n— ¿Y qué van a hacer?\n— Echarle la culpa a la herencia recibida, como siempre. [Edición #34]",
+    "content": "— Hemos descubierto un agujero negro en las arcas del Estado.\n— ¿Y qué van a hacer?\n— Echarle la culpa a la herencia recibida, como siempre.",
     "type": "POLITICAL",
     "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
@@ -2521,7 +2321,7 @@
   },
   {
     "id": 236,
-    "content": "La política es el arte de buscar problemas, encontrarlos, hacer un diagnóstico falso y aplicar los remedios equivocados. [Edición #35]",
+    "content": "La política es el arte de buscar problemas, encontrarlos, hacer un diagnóstico falso y aplicar los remedios equivocados.",
     "type": "POLITICAL",
     "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
@@ -2533,7 +2333,7 @@
   },
   {
     "id": 237,
-    "content": "— Hemos aprobado una nueva ley de sanidad.\n— ¿Y en qué consiste?\n— En que a partir de ahora curarse es un artículo de lujo. [Edición #36]",
+    "content": "— Hemos aprobado una nueva ley de sanidad.\n— ¿Y en qué consiste?\n— En que a partir de ahora curarse es un artículo de lujo.",
     "type": "POLITICAL",
     "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
@@ -2545,7 +2345,7 @@
   },
   {
     "id": 238,
-    "content": "— ¿Sabe cuál es el colmo de un político corrupto?\n— Que no le alcance el dinero negro para pagar la fianza. [Edición #37]",
+    "content": "— ¿Sabe cuál es el colmo de un político corrupto?\n— Que no le alcance el dinero negro para pagar la fianza.",
     "type": "POLITICAL",
     "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
@@ -2557,7 +2357,7 @@
   },
   {
     "id": 239,
-    "content": "— El presidente ha dicho que hay luz al final del túnel.\n— Sí, es el tren de la inflación que viene de frente. [Edición #38]",
+    "content": "— El presidente ha dicho que hay luz al final del túnel.\n— Sí, es el tren de la inflación que viene de frente.",
     "type": "POLITICAL",
     "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
@@ -2569,7 +2369,7 @@
   },
   {
     "id": 240,
-    "content": "El político es una persona capaz de predecir lo que va a pasar mañana, el mes próximo y el año que viene; y de explicar después por qué no ocurrió. [Edición #39]",
+    "content": "El político es una persona capaz de predecir lo que va a pasar mañana, el mes próximo y el año que viene; y de explicar después por qué no ocurrió.",
     "type": "POLITICAL",
     "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
@@ -2581,7 +2381,7 @@
   },
   {
     "id": 241,
-    "content": "— ¿Qué tal va la campaña electoral? \n— No nos podemos quejar.\n— ¿Tan bien os va?\n— No, es que nos han prohibido quejarnos. [Edición #40]",
+    "content": "— ¿Qué tal va la campaña electoral? \n— No nos podemos quejar.\n— ¿Tan bien os va?\n— No, es que nos han prohibido quejarnos.",
     "type": "POLITICAL",
     "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
@@ -2593,7 +2393,7 @@
   },
   {
     "id": 242,
-    "content": "Un político le dice a otro: \n— Oye, ¿tú qué vas a hacer con el presupuesto de educación?\n— ¿Educación? No me suena ese ministerio, ¿está en el área de protocolo? [Edición #41]",
+    "content": "Un político le dice a otro: \n— Oye, ¿tú qué vas a hacer con el presupuesto de educación?\n— ¿Educación? No me suena ese ministerio, ¿está en el área de protocolo?",
     "type": "POLITICAL",
     "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
@@ -2605,7 +2405,7 @@
   },
   {
     "id": 243,
-    "content": "— Señor ministro, ¿por qué no baja los impuestos?\n— Porque entonces la gente tendría dinero y empezaría a pensar por sí misma, y eso es muy peligroso. [Edición #42]",
+    "content": "— Señor ministro, ¿por qué no baja los impuestos?\n— Porque entonces la gente tendría dinero y empezaría a pensar por sí misma, y eso es muy peligroso.",
     "type": "POLITICAL",
     "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
@@ -2617,7 +2417,7 @@
   },
   {
     "id": 244,
-    "content": "— Papá, de mayor quiero ser político.\n— ¿Estás loco, hijo? ¿Te has vuelto honesto e incapaz de mentir?\n— No, papá, que quiero ser de los normales. [Edición #43]",
+    "content": "— Papá, de mayor quiero ser político.\n— ¿Estás loco, hijo? ¿Te has vuelto honesto e incapaz de mentir?\n— No, papá, que quiero ser de los normales.",
     "type": "POLITICAL",
     "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
@@ -2629,7 +2429,7 @@
   },
   {
     "id": 245,
-    "content": "— Señor Ministro, las encuestas dicen que el 80% de los ciudadanos está en contra de su gestión.\n— No pasa nada, cambiaremos al 80% de los ciudadanos. [Edición #44]",
+    "content": "— Señor Ministro, las encuestas dicen que el 80% de los ciudadanos está en contra de su gestión.\n— No pasa nada, cambiaremos al 80% de los ciudadanos.",
     "type": "POLITICAL",
     "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
@@ -2641,7 +2441,7 @@
   },
   {
     "id": 246,
-    "content": "— Señorías, hemos erradicado por completo la corrupción.\n— ¡Un momento! ¿Y ese fajo de billetes?\n— Ah, es que entra en vigor el mes que viene. [Edición #45]",
+    "content": "— Señorías, hemos erradicado por completo la corrupción.\n— ¡Un momento! ¿Y ese fajo de billetes?\n— Ah, es que entra en vigor el mes que viene.",
     "type": "POLITICAL",
     "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
@@ -2653,7 +2453,7 @@
   },
   {
     "id": 247,
-    "content": "— Hemos diseñado un plan estratégico infalible para inaugurar el nuevo carril bici.\n— ¿Y cuándo empiezan las obras?\n— ¿Obras? Solo tenemos presupuesto para la maqueta. [Edición #46]",
+    "content": "— Hemos diseñado un plan estratégico infalible para inaugurar el nuevo carril bici.\n— ¿Y cuándo empiezan las obras?\n— ¿Obras? Solo tenemos presupuesto para la maqueta.",
     "type": "POLITICAL",
     "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
@@ -2665,7 +2465,7 @@
   },
   {
     "id": 248,
-    "content": "En el Congreso: \n— Mi partido promete que no descansaremos hasta acabar con el paro.\n— ¡Llevan ustedes 20 años sin descansar y el paro sigue igual! [Edición #47]",
+    "content": "En el Congreso: \n— Mi partido promete que no descansaremos hasta acabar con el paro.\n— ¡Llevan ustedes 20 años sin descansar y el paro sigue igual!",
     "type": "POLITICAL",
     "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
@@ -2677,7 +2477,7 @@
   },
   {
     "id": 249,
-    "content": "— Señor Presidente, el pueblo pide a gritos transparencia.\n— Perfecto, quiten las cortinas de la Moncloa. [Edición #48]",
+    "content": "— Señor Presidente, el pueblo pide a gritos transparencia.\n— Perfecto, quiten las cortinas de la Moncloa.",
     "type": "POLITICAL",
     "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
@@ -2689,7 +2489,7 @@
   },
   {
     "id": 250,
-    "content": "— ¿Cuál es la diferencia entre un político y un ladrón?\n— Que el político te roba legalmente, te cobra IVA por ello y encima quiere que le votes. [Edición #49]",
+    "content": "— ¿Cuál es la diferencia entre un político y un ladrón?\n— Que el político te roba legalmente, te cobra IVA por ello y encima quiere que le votes.",
     "type": "POLITICAL",
     "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
@@ -2701,7 +2501,7 @@
   },
   {
     "id": 251,
-    "content": "Declaraciones oficiales: 'La crisis económica es un mito. De hecho, nuestros políticos son más ricos que nunca.' [Edición #50]",
+    "content": "Declaraciones oficiales: 'La crisis económica es un mito. De hecho, nuestros políticos son más ricos que nunca.'",
     "type": "POLITICAL",
     "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
@@ -2713,7 +2513,7 @@
   },
   {
     "id": 252,
-    "content": "— ¿Qué haces leyendo el programa electoral de hace 4 años?\n— Estoy leyendo un libro de fantasía épica. [Edición #51]",
+    "content": "— ¿Qué haces leyendo el programa electoral de hace 4 años?\n— Estoy leyendo un libro de fantasía épica.",
     "type": "POLITICAL",
     "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
@@ -2725,7 +2525,7 @@
   },
   {
     "id": 253,
-    "content": "El único lugar donde se puede encontrar un político que cumple sus promesas es en la sección de ciencia ficción de la biblioteca. [Edición #52]",
+    "content": "El único lugar donde se puede encontrar un político que cumple sus promesas es en la sección de ciencia ficción de la biblioteca.",
     "type": "POLITICAL",
     "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
@@ -2737,7 +2537,7 @@
   },
   {
     "id": 254,
-    "content": "— Oye, ¿tú de qué partido eres?\n— Yo soy del partido de los que llegan a fin de mes de milagro. [Edición #53]",
+    "content": "— Oye, ¿tú de qué partido eres?\n— Yo soy del partido de los que llegan a fin de mes de milagro.",
     "type": "POLITICAL",
     "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
@@ -2749,7 +2549,7 @@
   },
   {
     "id": 255,
-    "content": "— Hemos descubierto un agujero negro en las arcas del Estado.\n— ¿Y qué van a hacer?\n— Echarle la culpa a la herencia recibida, como siempre. [Edición #54]",
+    "content": "— Hemos descubierto un agujero negro en las arcas del Estado.\n— ¿Y qué van a hacer?\n— Echarle la culpa a la herencia recibida, como siempre.",
     "type": "POLITICAL",
     "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
@@ -2761,7 +2561,7 @@
   },
   {
     "id": 256,
-    "content": "La política es el arte de buscar problemas, encontrarlos, hacer un diagnóstico falso y aplicar los remedios equivocados. [Edición #55]",
+    "content": "La política es el arte de buscar problemas, encontrarlos, hacer un diagnóstico falso y aplicar los remedios equivocados.",
     "type": "POLITICAL",
     "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
@@ -2773,7 +2573,7 @@
   },
   {
     "id": 257,
-    "content": "— Hemos aprobado una nueva ley de sanidad.\n— ¿Y en qué consiste?\n— En que a partir de ahora curarse es un artículo de lujo. [Edición #56]",
+    "content": "— Hemos aprobado una nueva ley de sanidad.\n— ¿Y en qué consiste?\n— En que a partir de ahora curarse es un artículo de lujo.",
     "type": "POLITICAL",
     "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
@@ -2785,7 +2585,7 @@
   },
   {
     "id": 258,
-    "content": "— ¿Sabe cuál es el colmo de un político corrupto?\n— Que no le alcance el dinero negro para pagar la fianza. [Edición #57]",
+    "content": "— ¿Sabe cuál es el colmo de un político corrupto?\n— Que no le alcance el dinero negro para pagar la fianza.",
     "type": "POLITICAL",
     "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
@@ -2797,7 +2597,7 @@
   },
   {
     "id": 259,
-    "content": "— El presidente ha dicho que hay luz al final del túnel.\n— Sí, es el tren de la inflación que viene de frente. [Edición #58]",
+    "content": "— El presidente ha dicho que hay luz al final del túnel.\n— Sí, es el tren de la inflación que viene de frente.",
     "type": "POLITICAL",
     "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
@@ -2809,7 +2609,7 @@
   },
   {
     "id": 260,
-    "content": "El político es una persona capaz de predecir lo que va a pasar mañana, el mes próximo y el año que viene; y de explicar después por qué no ocurrió. [Edición #59]",
+    "content": "El político es una persona capaz de predecir lo que va a pasar mañana, el mes próximo y el año que viene; y de explicar después por qué no ocurrió.",
     "type": "POLITICAL",
     "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
@@ -2821,7 +2621,7 @@
   },
   {
     "id": 261,
-    "content": "— ¿Qué tal va la campaña electoral? \n— No nos podemos quejar.\n— ¿Tan bien os va?\n— No, es que nos han prohibido quejarnos. [Edición #60]",
+    "content": "— ¿Qué tal va la campaña electoral? \n— No nos podemos quejar.\n— ¿Tan bien os va?\n— No, es que nos han prohibido quejarnos.",
     "type": "POLITICAL",
     "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
@@ -2833,7 +2633,7 @@
   },
   {
     "id": 262,
-    "content": "Un político le dice a otro: \n— Oye, ¿tú qué vas a hacer con el presupuesto de educación?\n— ¿Educación? No me suena ese ministerio, ¿está en el área de protocolo? [Edición #61]",
+    "content": "Un político le dice a otro: \n— Oye, ¿tú qué vas a hacer con el presupuesto de educación?\n— ¿Educación? No me suena ese ministerio, ¿está en el área de protocolo?",
     "type": "POLITICAL",
     "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
@@ -2845,7 +2645,7 @@
   },
   {
     "id": 263,
-    "content": "— Señor ministro, ¿por qué no baja los impuestos?\n— Porque entonces la gente tendría dinero y empezaría a pensar por sí misma, y eso es muy peligroso. [Edición #62]",
+    "content": "— Señor ministro, ¿por qué no baja los impuestos?\n— Porque entonces la gente tendría dinero y empezaría a pensar por sí misma, y eso es muy peligroso.",
     "type": "POLITICAL",
     "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
@@ -2857,7 +2657,7 @@
   },
   {
     "id": 264,
-    "content": "— Papá, de mayor quiero ser político.\n— ¿Estás loco, hijo? ¿Te has vuelto honesto e incapaz de mentir?\n— No, papá, que quiero ser de los normales. [Edición #63]",
+    "content": "— Papá, de mayor quiero ser político.\n— ¿Estás loco, hijo? ¿Te has vuelto honesto e incapaz de mentir?\n— No, papá, que quiero ser de los normales.",
     "type": "POLITICAL",
     "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
@@ -2869,7 +2669,7 @@
   },
   {
     "id": 265,
-    "content": "— Señor Ministro, las encuestas dicen que el 80% de los ciudadanos está en contra de su gestión.\n— No pasa nada, cambiaremos al 80% de los ciudadanos. [Edición #64]",
+    "content": "— Señor Ministro, las encuestas dicen que el 80% de los ciudadanos está en contra de su gestión.\n— No pasa nada, cambiaremos al 80% de los ciudadanos.",
     "type": "POLITICAL",
     "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
@@ -2881,7 +2681,7 @@
   },
   {
     "id": 266,
-    "content": "— Señorías, hemos erradicado por completo la corrupción.\n— ¡Un momento! ¿Y ese fajo de billetes?\n— Ah, es que entra en vigor el mes que viene. [Edición #65]",
+    "content": "— Señorías, hemos erradicado por completo la corrupción.\n— ¡Un momento! ¿Y ese fajo de billetes?\n— Ah, es que entra en vigor el mes que viene.",
     "type": "POLITICAL",
     "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
@@ -2893,7 +2693,7 @@
   },
   {
     "id": 267,
-    "content": "— Hemos diseñado un plan estratégico infalible para inaugurar el nuevo carril bici.\n— ¿Y cuándo empiezan las obras?\n— ¿Obras? Solo tenemos presupuesto para la maqueta. [Edición #66]",
+    "content": "— Hemos diseñado un plan estratégico infalible para inaugurar el nuevo carril bici.\n— ¿Y cuándo empiezan las obras?\n— ¿Obras? Solo tenemos presupuesto para la maqueta.",
     "type": "POLITICAL",
     "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
@@ -2905,7 +2705,7 @@
   },
   {
     "id": 268,
-    "content": "En el Congreso: \n— Mi partido promete que no descansaremos hasta acabar con el paro.\n— ¡Llevan ustedes 20 años sin descansar y el paro sigue igual! [Edición #67]",
+    "content": "En el Congreso: \n— Mi partido promete que no descansaremos hasta acabar con el paro.\n— ¡Llevan ustedes 20 años sin descansar y el paro sigue igual!",
     "type": "POLITICAL",
     "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
@@ -2917,7 +2717,7 @@
   },
   {
     "id": 269,
-    "content": "— Señor Presidente, el pueblo pide a gritos transparencia.\n— Perfecto, quiten las cortinas de la Moncloa. [Edición #68]",
+    "content": "— Señor Presidente, el pueblo pide a gritos transparencia.\n— Perfecto, quiten las cortinas de la Moncloa.",
     "type": "POLITICAL",
     "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
@@ -2929,7 +2729,7 @@
   },
   {
     "id": 270,
-    "content": "— ¿Cuál es la diferencia entre un político y un ladrón?\n— Que el político te roba legalmente, te cobra IVA por ello y encima quiere que le votes. [Edición #69]",
+    "content": "— ¿Cuál es la diferencia entre un político y un ladrón?\n— Que el político te roba legalmente, te cobra IVA por ello y encima quiere que le votes.",
     "type": "POLITICAL",
     "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
@@ -2941,7 +2741,7 @@
   },
   {
     "id": 271,
-    "content": "Declaraciones oficiales: 'La crisis económica es un mito. De hecho, nuestros políticos son más ricos que nunca.' [Edición #70]",
+    "content": "Declaraciones oficiales: 'La crisis económica es un mito. De hecho, nuestros políticos son más ricos que nunca.'",
     "type": "POLITICAL",
     "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
@@ -2953,7 +2753,7 @@
   },
   {
     "id": 272,
-    "content": "— ¿Qué haces leyendo el programa electoral de hace 4 años?\n— Estoy leyendo un libro de fantasía épica. [Edición #71]",
+    "content": "— ¿Qué haces leyendo el programa electoral de hace 4 años?\n— Estoy leyendo un libro de fantasía épica.",
     "type": "POLITICAL",
     "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
@@ -2965,7 +2765,7 @@
   },
   {
     "id": 273,
-    "content": "El único lugar donde se puede encontrar un político que cumple sus promesas es en la sección de ciencia ficción de la biblioteca. [Edición #72]",
+    "content": "El único lugar donde se puede encontrar un político que cumple sus promesas es en la sección de ciencia ficción de la biblioteca.",
     "type": "POLITICAL",
     "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
@@ -2977,7 +2777,7 @@
   },
   {
     "id": 274,
-    "content": "— Oye, ¿tú de qué partido eres?\n— Yo soy del partido de los que llegan a fin de mes de milagro. [Edición #73]",
+    "content": "— Oye, ¿tú de qué partido eres?\n— Yo soy del partido de los que llegan a fin de mes de milagro.",
     "type": "POLITICAL",
     "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
@@ -2989,7 +2789,7 @@
   },
   {
     "id": 275,
-    "content": "— Hemos descubierto un agujero negro en las arcas del Estado.\n— ¿Y qué van a hacer?\n— Echarle la culpa a la herencia recibida, como siempre. [Edición #74]",
+    "content": "— Hemos descubierto un agujero negro en las arcas del Estado.\n— ¿Y qué van a hacer?\n— Echarle la culpa a la herencia recibida, como siempre.",
     "type": "POLITICAL",
     "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
@@ -3001,7 +2801,7 @@
   },
   {
     "id": 276,
-    "content": "La política es el arte de buscar problemas, encontrarlos, hacer un diagnóstico falso y aplicar los remedios equivocados. [Edición #75]",
+    "content": "La política es el arte de buscar problemas, encontrarlos, hacer un diagnóstico falso y aplicar los remedios equivocados.",
     "type": "POLITICAL",
     "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
@@ -3013,7 +2813,7 @@
   },
   {
     "id": 277,
-    "content": "— Hemos aprobado una nueva ley de sanidad.\n— ¿Y en qué consiste?\n— En que a partir de ahora curarse es un artículo de lujo. [Edición #76]",
+    "content": "— Hemos aprobado una nueva ley de sanidad.\n— ¿Y en qué consiste?\n— En que a partir de ahora curarse es un artículo de lujo.",
     "type": "POLITICAL",
     "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
@@ -3025,7 +2825,7 @@
   },
   {
     "id": 278,
-    "content": "— ¿Sabe cuál es el colmo de un político corrupto?\n— Que no le alcance el dinero negro para pagar la fianza. [Edición #77]",
+    "content": "— ¿Sabe cuál es el colmo de un político corrupto?\n— Que no le alcance el dinero negro para pagar la fianza.",
     "type": "POLITICAL",
     "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
@@ -3037,7 +2837,7 @@
   },
   {
     "id": 279,
-    "content": "— El presidente ha dicho que hay luz al final del túnel.\n— Sí, es el tren de la inflación que viene de frente. [Edición #78]",
+    "content": "— El presidente ha dicho que hay luz al final del túnel.\n— Sí, es el tren de la inflación que viene de frente.",
     "type": "POLITICAL",
     "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
@@ -3049,7 +2849,7 @@
   },
   {
     "id": 280,
-    "content": "El político es una persona capaz de predecir lo que va a pasar mañana, el mes próximo y el año que viene; y de explicar después por qué no ocurrió. [Edición #79]",
+    "content": "El político es una persona capaz de predecir lo que va a pasar mañana, el mes próximo y el año que viene; y de explicar después por qué no ocurrió.",
     "type": "POLITICAL",
     "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
@@ -3061,7 +2861,7 @@
   },
   {
     "id": 281,
-    "content": "— ¿Qué tal va la campaña electoral? \n— No nos podemos quejar.\n— ¿Tan bien os va?\n— No, es que nos han prohibido quejarnos. [Edición #80]",
+    "content": "— ¿Qué tal va la campaña electoral? \n— No nos podemos quejar.\n— ¿Tan bien os va?\n— No, es que nos han prohibido quejarnos.",
     "type": "POLITICAL",
     "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
@@ -3073,7 +2873,7 @@
   },
   {
     "id": 282,
-    "content": "Un político le dice a otro: \n— Oye, ¿tú qué vas a hacer con el presupuesto de educación?\n— ¿Educación? No me suena ese ministerio, ¿está en el área de protocolo? [Edición #81]",
+    "content": "Un político le dice a otro: \n— Oye, ¿tú qué vas a hacer con el presupuesto de educación?\n— ¿Educación? No me suena ese ministerio, ¿está en el área de protocolo?",
     "type": "POLITICAL",
     "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
@@ -3085,7 +2885,7 @@
   },
   {
     "id": 283,
-    "content": "— Señor ministro, ¿por qué no baja los impuestos?\n— Porque entonces la gente tendría dinero y empezaría a pensar por sí misma, y eso es muy peligroso. [Edición #82]",
+    "content": "— Señor ministro, ¿por qué no baja los impuestos?\n— Porque entonces la gente tendría dinero y empezaría a pensar por sí misma, y eso es muy peligroso.",
     "type": "POLITICAL",
     "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
@@ -3097,7 +2897,7 @@
   },
   {
     "id": 284,
-    "content": "— Papá, de mayor quiero ser político.\n— ¿Estás loco, hijo? ¿Te has vuelto honesto e incapaz de mentir?\n— No, papá, que quiero ser de los normales. [Edición #83]",
+    "content": "— Papá, de mayor quiero ser político.\n— ¿Estás loco, hijo? ¿Te has vuelto honesto e incapaz de mentir?\n— No, papá, que quiero ser de los normales.",
     "type": "POLITICAL",
     "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
@@ -3109,7 +2909,7 @@
   },
   {
     "id": 285,
-    "content": "— Señor Ministro, las encuestas dicen que el 80% de los ciudadanos está en contra de su gestión.\n— No pasa nada, cambiaremos al 80% de los ciudadanos. [Edición #84]",
+    "content": "— Señor Ministro, las encuestas dicen que el 80% de los ciudadanos está en contra de su gestión.\n— No pasa nada, cambiaremos al 80% de los ciudadanos.",
     "type": "POLITICAL",
     "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
@@ -3121,7 +2921,7 @@
   },
   {
     "id": 286,
-    "content": "— Señorías, hemos erradicado por completo la corrupción.\n— ¡Un momento! ¿Y ese fajo de billetes?\n— Ah, es que entra en vigor el mes que viene. [Edición #85]",
+    "content": "— Señorías, hemos erradicado por completo la corrupción.\n— ¡Un momento! ¿Y ese fajo de billetes?\n— Ah, es que entra en vigor el mes que viene.",
     "type": "POLITICAL",
     "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
@@ -3133,7 +2933,7 @@
   },
   {
     "id": 287,
-    "content": "— Hemos diseñado un plan estratégico infalible para inaugurar el nuevo carril bici.\n— ¿Y cuándo empiezan las obras?\n— ¿Obras? Solo tenemos presupuesto para la maqueta. [Edición #86]",
+    "content": "— Hemos diseñado un plan estratégico infalible para inaugurar el nuevo carril bici.\n— ¿Y cuándo empiezan las obras?\n— ¿Obras? Solo tenemos presupuesto para la maqueta.",
     "type": "POLITICAL",
     "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
@@ -3145,7 +2945,7 @@
   },
   {
     "id": 288,
-    "content": "En el Congreso: \n— Mi partido promete que no descansaremos hasta acabar con el paro.\n— ¡Llevan ustedes 20 años sin descansar y el paro sigue igual! [Edición #87]",
+    "content": "En el Congreso: \n— Mi partido promete que no descansaremos hasta acabar con el paro.\n— ¡Llevan ustedes 20 años sin descansar y el paro sigue igual!",
     "type": "POLITICAL",
     "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
@@ -3157,7 +2957,7 @@
   },
   {
     "id": 289,
-    "content": "— Señor Presidente, el pueblo pide a gritos transparencia.\n— Perfecto, quiten las cortinas de la Moncloa. [Edición #88]",
+    "content": "— Señor Presidente, el pueblo pide a gritos transparencia.\n— Perfecto, quiten las cortinas de la Moncloa.",
     "type": "POLITICAL",
     "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
@@ -3169,7 +2969,7 @@
   },
   {
     "id": 290,
-    "content": "— ¿Cuál es la diferencia entre un político y un ladrón?\n— Que el político te roba legalmente, te cobra IVA por ello y encima quiere que le votes. [Edición #89]",
+    "content": "— ¿Cuál es la diferencia entre un político y un ladrón?\n— Que el político te roba legalmente, te cobra IVA por ello y encima quiere que le votes.",
     "type": "POLITICAL",
     "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
@@ -3181,7 +2981,7 @@
   },
   {
     "id": 291,
-    "content": "Declaraciones oficiales: 'La crisis económica es un mito. De hecho, nuestros políticos son más ricos que nunca.' [Edición #90]",
+    "content": "Declaraciones oficiales: 'La crisis económica es un mito. De hecho, nuestros políticos son más ricos que nunca.'",
     "type": "POLITICAL",
     "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
@@ -3193,7 +2993,7 @@
   },
   {
     "id": 292,
-    "content": "— ¿Qué haces leyendo el programa electoral de hace 4 años?\n— Estoy leyendo un libro de fantasía épica. [Edición #91]",
+    "content": "— ¿Qué haces leyendo el programa electoral de hace 4 años?\n— Estoy leyendo un libro de fantasía épica.",
     "type": "POLITICAL",
     "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
@@ -3205,7 +3005,7 @@
   },
   {
     "id": 293,
-    "content": "El único lugar donde se puede encontrar un político que cumple sus promesas es en la sección de ciencia ficción de la biblioteca. [Edición #92]",
+    "content": "El único lugar donde se puede encontrar un político que cumple sus promesas es en la sección de ciencia ficción de la biblioteca.",
     "type": "POLITICAL",
     "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
@@ -3217,7 +3017,7 @@
   },
   {
     "id": 294,
-    "content": "— Oye, ¿tú de qué partido eres?\n— Yo soy del partido de los que llegan a fin de mes de milagro. [Edición #93]",
+    "content": "— Oye, ¿tú de qué partido eres?\n— Yo soy del partido de los que llegan a fin de mes de milagro.",
     "type": "POLITICAL",
     "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
@@ -3229,7 +3029,7 @@
   },
   {
     "id": 295,
-    "content": "— Hemos descubierto un agujero negro en las arcas del Estado.\n— ¿Y qué van a hacer?\n— Echarle la culpa a la herencia recibida, como siempre. [Edición #94]",
+    "content": "— Hemos descubierto un agujero negro en las arcas del Estado.\n— ¿Y qué van a hacer?\n— Echarle la culpa a la herencia recibida, como siempre.",
     "type": "POLITICAL",
     "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
@@ -3241,7 +3041,7 @@
   },
   {
     "id": 296,
-    "content": "La política es el arte de buscar problemas, encontrarlos, hacer un diagnóstico falso y aplicar los remedios equivocados. [Edición #95]",
+    "content": "La política es el arte de buscar problemas, encontrarlos, hacer un diagnóstico falso y aplicar los remedios equivocados.",
     "type": "POLITICAL",
     "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
@@ -3253,7 +3053,7 @@
   },
   {
     "id": 297,
-    "content": "— Hemos aprobado una nueva ley de sanidad.\n— ¿Y en qué consiste?\n— En que a partir de ahora curarse es un artículo de lujo. [Edición #96]",
+    "content": "— Hemos aprobado una nueva ley de sanidad.\n— ¿Y en qué consiste?\n— En que a partir de ahora curarse es un artículo de lujo.",
     "type": "POLITICAL",
     "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
@@ -3265,7 +3065,7 @@
   },
   {
     "id": 298,
-    "content": "— ¿Sabe cuál es el colmo de un político corrupto?\n— Que no le alcance el dinero negro para pagar la fianza. [Edición #97]",
+    "content": "— ¿Sabe cuál es el colmo de un político corrupto?\n— Que no le alcance el dinero negro para pagar la fianza.",
     "type": "POLITICAL",
     "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
@@ -3277,7 +3077,7 @@
   },
   {
     "id": 299,
-    "content": "— El presidente ha dicho que hay luz al final del túnel.\n— Sí, es el tren de la inflación que viene de frente. [Edición #98]",
+    "content": "— El presidente ha dicho que hay luz al final del túnel.\n— Sí, es el tren de la inflación que viene de frente.",
     "type": "POLITICAL",
     "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
@@ -3289,7 +3089,7 @@
   },
   {
     "id": 300,
-    "content": "El político es una persona capaz de predecir lo que va a pasar mañana, el mes próximo y el año que viene; y de explicar después por qué no ocurrió. [Edición #99]",
+    "content": "El político es una persona capaz de predecir lo que va a pasar mañana, el mes próximo y el año que viene; y de explicar después por qué no ocurrió.",
     "type": "POLITICAL",
     "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
@@ -3301,7 +3101,7 @@
   },
   {
     "id": 301,
-    "content": "— ¿Qué tal va la campaña electoral? \n— No nos podemos quejar.\n— ¿Tan bien os va?\n— No, es que nos han prohibido quejarnos. [Edición #100]",
+    "content": "El político es una persona capaz de predecir lo que va a pasar mañana, el mes próximo y el año que viene; y de explicar después por qué no ocurrió.",
     "type": "POLITICAL",
     "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
@@ -3314,7 +3114,7 @@
   },
   {
     "id": 302,
-    "content": "Un político le dice a otro: \n— Oye, ¿tú qué vas a hacer con el presupuesto de educación?\n— ¿Educación? No me suena ese ministerio, ¿está en el área de protocolo? [Edición #101]",
+    "content": "— El presidente ha dicho que hay luz al final del túnel.\n— Sí, es el tren de la inflación que viene de frente.",
     "type": "POLITICAL",
     "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
@@ -3327,7 +3127,7 @@
   },
   {
     "id": 303,
-    "content": "— Señor ministro, ¿por qué no baja los impuestos?\n— Porque entonces la gente tendría dinero y empezaría a pensar por sí misma, y eso es muy peligroso. [Edición #102]",
+    "content": "— ¿Sabe cuál es el colmo de un político corrupto?\n— Que no le alcance el dinero negro para pagar la fianza.",
     "type": "POLITICAL",
     "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
@@ -3340,7 +3140,7 @@
   },
   {
     "id": 304,
-    "content": "— Papá, de mayor quiero ser político.\n— ¿Estás loco, hijo? ¿Te has vuelto honesto e incapaz de mentir?\n— No, papá, que quiero ser de los normales. [Edición #103]",
+    "content": "— Hemos aprobado una nueva ley de sanidad.\n— ¿Y en qué consiste?\n— En que a partir de ahora curarse es un artículo de lujo.",
     "type": "POLITICAL",
     "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
@@ -3353,7 +3153,7 @@
   },
   {
     "id": 305,
-    "content": "— Señor Ministro, las encuestas dicen que el 80% de los ciudadanos está en contra de su gestión.\n— No pasa nada, cambiaremos al 80% de los ciudadanos. [Edición #104]",
+    "content": "La política es el arte de buscar problemas, encontrarlos, hacer un diagnóstico falso y aplicar los remedios equivocados.",
     "type": "POLITICAL",
     "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
@@ -3366,7 +3166,7 @@
   },
   {
     "id": 306,
-    "content": "— Señorías, hemos erradicado por completo la corrupción.\n— ¡Un momento! ¿Y ese fajo de billetes?\n— Ah, es que entra en vigor el mes que viene. [Edición #105]",
+    "content": "— Hemos descubierto un agujero negro en las arcas del Estado.\n— ¿Y qué van a hacer?\n— Echarle la culpa a la herencia recibida, como siempre.",
     "type": "POLITICAL",
     "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
@@ -3379,7 +3179,7 @@
   },
   {
     "id": 307,
-    "content": "— Hemos diseñado un plan estratégico infalible para inaugurar el nuevo carril bici.\n— ¿Y cuándo empiezan las obras?\n— ¿Obras? Solo tenemos presupuesto para la maqueta. [Edición #106]",
+    "content": "— Oye, ¿tú de qué partido eres?\n— Yo soy del partido de los que llegan a fin de mes de milagro.",
     "type": "POLITICAL",
     "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
@@ -3392,7 +3192,7 @@
   },
   {
     "id": 308,
-    "content": "En el Congreso: \n— Mi partido promete que no descansaremos hasta acabar con el paro.\n— ¡Llevan ustedes 20 años sin descansar y el paro sigue igual! [Edición #107]",
+    "content": "El único lugar donde se puede encontrar un político que cumple sus promesas es en la sección de ciencia ficción de la biblioteca.",
     "type": "POLITICAL",
     "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
@@ -3405,7 +3205,7 @@
   },
   {
     "id": 309,
-    "content": "— Señor Presidente, el pueblo pide a gritos transparencia.\n— Perfecto, quiten las cortinas de la Moncloa. [Edición #108]",
+    "content": "— ¿Qué haces leyendo el programa electoral de hace 4 años?\n— Estoy leyendo un libro de fantasía épica.",
     "type": "POLITICAL",
     "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
@@ -3418,7 +3218,7 @@
   },
   {
     "id": 310,
-    "content": "— ¿Cuál es la diferencia entre un político y un ladrón?\n— Que el político te roba legalmente, te cobra IVA por ello y encima quiere que le votes. [Edición #109]",
+    "content": "Declaraciones oficiales: 'La crisis económica es un mito. De hecho, nuestros políticos son más ricos que nunca.'",
     "type": "POLITICAL",
     "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
@@ -3431,7 +3231,7 @@
   },
   {
     "id": 311,
-    "content": "Declaraciones oficiales: 'La crisis económica es un mito. De hecho, nuestros políticos son más ricos que nunca.' [Edición #110]",
+    "content": "— ¿Cuál es la diferencia entre un político y un ladrón?\n— Que el político te roba legalmente, te cobra IVA por ello y encima quiere que le votes.",
     "type": "POLITICAL",
     "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
@@ -3444,7 +3244,7 @@
   },
   {
     "id": 312,
-    "content": "— ¿Qué haces leyendo el programa electoral de hace 4 años?\n— Estoy leyendo un libro de fantasía épica. [Edición #111]",
+    "content": "— Señor Presidente, el pueblo pide a gritos transparencia.\n— Perfecto, quiten las cortinas de la Moncloa.",
     "type": "POLITICAL",
     "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
@@ -3457,7 +3257,7 @@
   },
   {
     "id": 313,
-    "content": "El único lugar donde se puede encontrar un político que cumple sus promesas es en la sección de ciencia ficción de la biblioteca. [Edición #112]",
+    "content": "En el Congreso: \n— Mi partido promete que no descansaremos hasta acabar con el paro.\n— ¡Llevan ustedes 20 años sin descansar y el paro sigue igual!",
     "type": "POLITICAL",
     "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
@@ -3470,7 +3270,7 @@
   },
   {
     "id": 314,
-    "content": "— Oye, ¿tú de qué partido eres?\n— Yo soy del partido de los que llegan a fin de mes de milagro. [Edición #113]",
+    "content": "— Hemos diseñado un plan estratégico infalible para inaugurar el nuevo carril bici.\n— ¿Y cuándo empiezan las obras?\n— ¿Obras? Solo tenemos presupuesto para la maqueta.",
     "type": "POLITICAL",
     "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
@@ -3483,7 +3283,7 @@
   },
   {
     "id": 315,
-    "content": "— Hemos descubierto un agujero negro en las arcas del Estado.\n— ¿Y qué van a hacer?\n— Echarle la culpa a la herencia recibida, como siempre. [Edición #114]",
+    "content": "— Señorías, hemos erradicado por completo la corrupción.\n— ¡Un momento! ¿Y ese fajo de billetes?\n— Ah, es que entra en vigor el mes que viene.",
     "type": "POLITICAL",
     "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
@@ -3496,7 +3296,7 @@
   },
   {
     "id": 316,
-    "content": "La política es el arte de buscar problemas, encontrarlos, hacer un diagnóstico falso y aplicar los remedios equivocados. [Edición #115]",
+    "content": "— Señor Ministro, las encuestas dicen que el 80% de los ciudadanos está en contra de su gestión.\n— No pasa nada, cambiaremos al 80% de los ciudadanos.",
     "type": "POLITICAL",
     "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
@@ -3509,7 +3309,7 @@
   },
   {
     "id": 317,
-    "content": "— Hemos aprobado una nueva ley de sanidad.\n— ¿Y en qué consiste?\n— En que a partir de ahora curarse es un artículo de lujo. [Edición #116]",
+    "content": "— Papá, de mayor quiero ser político.\n— ¿Estás loco, hijo? ¿Te has vuelto honesto e incapaz de mentir?\n— No, papá, que quiero ser de los normales.",
     "type": "POLITICAL",
     "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
@@ -3522,7 +3322,7 @@
   },
   {
     "id": 318,
-    "content": "— ¿Sabe cuál es el colmo de un político corrupto?\n— Que no le alcance el dinero negro para pagar la fianza. [Edición #117]",
+    "content": "— Señor ministro, ¿por qué no baja los impuestos?\n— Porque entonces la gente tendría dinero y empezaría a pensar por sí misma, y eso es muy peligroso.",
     "type": "POLITICAL",
     "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
@@ -3535,7 +3335,7 @@
   },
   {
     "id": 319,
-    "content": "— El presidente ha dicho que hay luz al final del túnel.\n— Sí, es el tren de la inflación que viene de frente. [Edición #118]",
+    "content": "Un político le dice a otro: \n— Oye, ¿tú qué vas a hacer con el presupuesto de educación?\n— ¿Educación? No me suena ese ministerio, ¿está en el área de protocolo?",
     "type": "POLITICAL",
     "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
@@ -3548,7 +3348,7 @@
   },
   {
     "id": 320,
-    "content": "El político es una persona capaz de predecir lo que va a pasar mañana, el mes próximo y el año que viene; y de explicar después por qué no ocurrió. [Edición #119]",
+    "content": "— ¿Qué tal va la campaña electoral? \n— No nos podemos quejar.\n— ¿Tan bien os va?\n— No, es que nos han prohibido quejarnos.",
     "type": "POLITICAL",
     "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
@@ -3561,7 +3361,7 @@
   },
   {
     "id": 321,
-    "content": "— ¿Qué tal va la campaña electoral? \n— No nos podemos quejar.\n— ¿Tan bien os va?\n— No, es que nos han prohibido quejarnos. [Edición #120]",
+    "content": "El político es una persona capaz de predecir lo que va a pasar mañana, el mes próximo y el año que viene; y de explicar después por qué no ocurrió.",
     "type": "POLITICAL",
     "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
@@ -3574,7 +3374,7 @@
   },
   {
     "id": 322,
-    "content": "Un político le dice a otro: \n— Oye, ¿tú qué vas a hacer con el presupuesto de educación?\n— ¿Educación? No me suena ese ministerio, ¿está en el área de protocolo? [Edición #121]",
+    "content": "— El presidente ha dicho que hay luz al final del túnel.\n— Sí, es el tren de la inflación que viene de frente.",
     "type": "POLITICAL",
     "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
@@ -3587,7 +3387,7 @@
   },
   {
     "id": 323,
-    "content": "— Señor ministro, ¿por qué no baja los impuestos?\n— Porque entonces la gente tendría dinero y empezaría a pensar por sí misma, y eso es muy peligroso. [Edición #122]",
+    "content": "— ¿Sabe cuál es el colmo de un político corrupto?\n— Que no le alcance el dinero negro para pagar la fianza.",
     "type": "POLITICAL",
     "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
@@ -3600,7 +3400,7 @@
   },
   {
     "id": 324,
-    "content": "— Papá, de mayor quiero ser político.\n— ¿Estás loco, hijo? ¿Te has vuelto honesto e incapaz de mentir?\n— No, papá, que quiero ser de los normales. [Edición #123]",
+    "content": "— Hemos aprobado una nueva ley de sanidad.\n— ¿Y en qué consiste?\n— En que a partir de ahora curarse es un artículo de lujo.",
     "type": "POLITICAL",
     "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
@@ -3613,7 +3413,7 @@
   },
   {
     "id": 325,
-    "content": "— Señor Ministro, las encuestas dicen que el 80% de los ciudadanos está en contra de su gestión.\n— No pasa nada, cambiaremos al 80% de los ciudadanos. [Edición #124]",
+    "content": "La política es el arte de buscar problemas, encontrarlos, hacer un diagnóstico falso y aplicar los remedios equivocados.",
     "type": "POLITICAL",
     "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
@@ -3626,7 +3426,7 @@
   },
   {
     "id": 326,
-    "content": "— Señorías, hemos erradicado por completo la corrupción.\n— ¡Un momento! ¿Y ese fajo de billetes?\n— Ah, es que entra en vigor el mes que viene. [Edición #125]",
+    "content": "— Hemos descubierto un agujero negro en las arcas del Estado.\n— ¿Y qué van a hacer?\n— Echarle la culpa a la herencia recibida, como siempre.",
     "type": "POLITICAL",
     "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
@@ -3639,7 +3439,7 @@
   },
   {
     "id": 327,
-    "content": "— Hemos diseñado un plan estratégico infalible para inaugurar el nuevo carril bici.\n— ¿Y cuándo empiezan las obras?\n— ¿Obras? Solo tenemos presupuesto para la maqueta. [Edición #126]",
+    "content": "— Oye, ¿tú de qué partido eres?\n— Yo soy del partido de los que llegan a fin de mes de milagro.",
     "type": "POLITICAL",
     "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
@@ -3652,7 +3452,7 @@
   },
   {
     "id": 328,
-    "content": "En el Congreso: \n— Mi partido promete que no descansaremos hasta acabar con el paro.\n— ¡Llevan ustedes 20 años sin descansar y el paro sigue igual! [Edición #127]",
+    "content": "El único lugar donde se puede encontrar un político que cumple sus promesas es en la sección de ciencia ficción de la biblioteca.",
     "type": "POLITICAL",
     "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
@@ -3665,7 +3465,7 @@
   },
   {
     "id": 329,
-    "content": "— Señor Presidente, el pueblo pide a gritos transparencia.\n— Perfecto, quiten las cortinas de la Moncloa. [Edición #128]",
+    "content": "— ¿Qué haces leyendo el programa electoral de hace 4 años?\n— Estoy leyendo un libro de fantasía épica.",
     "type": "POLITICAL",
     "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
@@ -3678,7 +3478,7 @@
   },
   {
     "id": 330,
-    "content": "— ¿Cuál es la diferencia entre un político y un ladrón?\n— Que el político te roba legalmente, te cobra IVA por ello y encima quiere que le votes. [Edición #129]",
+    "content": "Declaraciones oficiales: 'La crisis económica es un mito. De hecho, nuestros políticos son más ricos que nunca.'",
     "type": "POLITICAL",
     "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
@@ -3691,7 +3491,7 @@
   },
   {
     "id": 331,
-    "content": "Declaraciones oficiales: 'La crisis económica es un mito. De hecho, nuestros políticos son más ricos que nunca.' [Edición #130]",
+    "content": "— ¿Cuál es la diferencia entre un político y un ladrón?\n— Que el político te roba legalmente, te cobra IVA por ello y encima quiere que le votes.",
     "type": "POLITICAL",
     "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
@@ -3704,7 +3504,7 @@
   },
   {
     "id": 332,
-    "content": "— ¿Qué haces leyendo el programa electoral de hace 4 años?\n— Estoy leyendo un libro de fantasía épica. [Edición #131]",
+    "content": "— Señor Presidente, el pueblo pide a gritos transparencia.\n— Perfecto, quiten las cortinas de la Moncloa.",
     "type": "POLITICAL",
     "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
@@ -3717,7 +3517,7 @@
   },
   {
     "id": 333,
-    "content": "El único lugar donde se puede encontrar un político que cumple sus promesas es en la sección de ciencia ficción de la biblioteca. [Edición #132]",
+    "content": "En el Congreso: \n— Mi partido promete que no descansaremos hasta acabar con el paro.\n— ¡Llevan ustedes 20 años sin descansar y el paro sigue igual!",
     "type": "POLITICAL",
     "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
@@ -3730,7 +3530,7 @@
   },
   {
     "id": 334,
-    "content": "— Oye, ¿tú de qué partido eres?\n— Yo soy del partido de los que llegan a fin de mes de milagro. [Edición #133]",
+    "content": "— Hemos diseñado un plan estratégico infalible para inaugurar el nuevo carril bici.\n— ¿Y cuándo empiezan las obras?\n— ¿Obras? Solo tenemos presupuesto para la maqueta.",
     "type": "POLITICAL",
     "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
@@ -3743,7 +3543,7 @@
   },
   {
     "id": 335,
-    "content": "— Hemos descubierto un agujero negro en las arcas del Estado.\n— ¿Y qué van a hacer?\n— Echarle la culpa a la herencia recibida, como siempre. [Edición #134]",
+    "content": "— Señorías, hemos erradicado por completo la corrupción.\n— ¡Un momento! ¿Y ese fajo de billetes?\n— Ah, es que entra en vigor el mes que viene.",
     "type": "POLITICAL",
     "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
@@ -3756,7 +3556,7 @@
   },
   {
     "id": 336,
-    "content": "La política es el arte de buscar problemas, encontrarlos, hacer un diagnóstico falso y aplicar los remedios equivocados. [Edición #135]",
+    "content": "— Señor Ministro, las encuestas dicen que el 80% de los ciudadanos está en contra de su gestión.\n— No pasa nada, cambiaremos al 80% de los ciudadanos.",
     "type": "POLITICAL",
     "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
@@ -3769,7 +3569,7 @@
   },
   {
     "id": 337,
-    "content": "— Hemos aprobado una nueva ley de sanidad.\n— ¿Y en qué consiste?\n— En que a partir de ahora curarse es un artículo de lujo. [Edición #136]",
+    "content": "— Papá, de mayor quiero ser político.\n— ¿Estás loco, hijo? ¿Te has vuelto honesto e incapaz de mentir?\n— No, papá, que quiero ser de los normales.",
     "type": "POLITICAL",
     "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
@@ -3782,7 +3582,7 @@
   },
   {
     "id": 338,
-    "content": "— ¿Sabe cuál es el colmo de un político corrupto?\n— Que no le alcance el dinero negro para pagar la fianza. [Edición #137]",
+    "content": "— Señor ministro, ¿por qué no baja los impuestos?\n— Porque entonces la gente tendría dinero y empezaría a pensar por sí misma, y eso es muy peligroso.",
     "type": "POLITICAL",
     "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
@@ -3795,7 +3595,7 @@
   },
   {
     "id": 339,
-    "content": "— El presidente ha dicho que hay luz al final del túnel.\n— Sí, es el tren de la inflación que viene de frente. [Edición #138]",
+    "content": "Un político le dice a otro: \n— Oye, ¿tú qué vas a hacer con el presupuesto de educación?\n— ¿Educación? No me suena ese ministerio, ¿está en el área de protocolo?",
     "type": "POLITICAL",
     "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
@@ -3808,7 +3608,7 @@
   },
   {
     "id": 340,
-    "content": "El político es una persona capaz de predecir lo que va a pasar mañana, el mes próximo y el año que viene; y de explicar después por qué no ocurrió. [Edición #139]",
+    "content": "— ¿Qué tal va la campaña electoral? \n— No nos podemos quejar.\n— ¿Tan bien os va?\n— No, es que nos han prohibido quejarnos.",
     "type": "POLITICAL",
     "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
@@ -3821,7 +3621,7 @@
   },
   {
     "id": 341,
-    "content": "— ¿Qué tal va la campaña electoral? \n— No nos podemos quejar.\n— ¿Tan bien os va?\n— No, es que nos han prohibido quejarnos. [Edición #140]",
+    "content": "El político es una persona capaz de predecir lo que va a pasar mañana, el mes próximo y el año que viene; y de explicar después por qué no ocurrió.",
     "type": "POLITICAL",
     "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
@@ -3834,7 +3634,7 @@
   },
   {
     "id": 342,
-    "content": "Un político le dice a otro: \n— Oye, ¿tú qué vas a hacer con el presupuesto de educación?\n— ¿Educación? No me suena ese ministerio, ¿está en el área de protocolo? [Edición #141]",
+    "content": "— El presidente ha dicho que hay luz al final del túnel.\n— Sí, es el tren de la inflación que viene de frente.",
     "type": "POLITICAL",
     "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
@@ -3847,7 +3647,7 @@
   },
   {
     "id": 343,
-    "content": "— Señor ministro, ¿por qué no baja los impuestos?\n— Porque entonces la gente tendría dinero y empezaría a pensar por sí misma, y eso es muy peligroso. [Edición #142]",
+    "content": "— ¿Sabe cuál es el colmo de un político corrupto?\n— Que no le alcance el dinero negro para pagar la fianza.",
     "type": "POLITICAL",
     "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
@@ -3860,7 +3660,7 @@
   },
   {
     "id": 344,
-    "content": "— Papá, de mayor quiero ser político.\n— ¿Estás loco, hijo? ¿Te has vuelto honesto e incapaz de mentir?\n— No, papá, que quiero ser de los normales. [Edición #143]",
+    "content": "— Hemos aprobado una nueva ley de sanidad.\n— ¿Y en qué consiste?\n— En que a partir de ahora curarse es un artículo de lujo.",
     "type": "POLITICAL",
     "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
@@ -3873,7 +3673,7 @@
   },
   {
     "id": 345,
-    "content": "— Señor Ministro, las encuestas dicen que el 80% de los ciudadanos está en contra de su gestión.\n— No pasa nada, cambiaremos al 80% de los ciudadanos. [Edición #144]",
+    "content": "La política es el arte de buscar problemas, encontrarlos, hacer un diagnóstico falso y aplicar los remedios equivocados.",
     "type": "POLITICAL",
     "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
@@ -3886,7 +3686,7 @@
   },
   {
     "id": 346,
-    "content": "— Señorías, hemos erradicado por completo la corrupción.\n— ¡Un momento! ¿Y ese fajo de billetes?\n— Ah, es que entra en vigor el mes que viene. [Edición #145]",
+    "content": "— Hemos descubierto un agujero negro en las arcas del Estado.\n— ¿Y qué van a hacer?\n— Echarle la culpa a la herencia recibida, como siempre.",
     "type": "POLITICAL",
     "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
@@ -3899,7 +3699,7 @@
   },
   {
     "id": 347,
-    "content": "— Hemos diseñado un plan estratégico infalible para inaugurar el nuevo carril bici.\n— ¿Y cuándo empiezan las obras?\n— ¿Obras? Solo tenemos presupuesto para la maqueta. [Edición #146]",
+    "content": "— Oye, ¿tú de qué partido eres?\n— Yo soy del partido de los que llegan a fin de mes de milagro.",
     "type": "POLITICAL",
     "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
@@ -3912,7 +3712,7 @@
   },
   {
     "id": 348,
-    "content": "En el Congreso: \n— Mi partido promete que no descansaremos hasta acabar con el paro.\n— ¡Llevan ustedes 20 años sin descansar y el paro sigue igual! [Edición #147]",
+    "content": "El único lugar donde se puede encontrar un político que cumple sus promesas es en la sección de ciencia ficción de la biblioteca.",
     "type": "POLITICAL",
     "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
@@ -3925,7 +3725,7 @@
   },
   {
     "id": 349,
-    "content": "— Señor Presidente, el pueblo pide a gritos transparencia.\n— Perfecto, quiten las cortinas de la Moncloa. [Edición #148]",
+    "content": "— ¿Qué haces leyendo el programa electoral de hace 4 años?\n— Estoy leyendo un libro de fantasía épica.",
     "type": "POLITICAL",
     "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
@@ -3938,7 +3738,7 @@
   },
   {
     "id": 350,
-    "content": "— ¿Cuál es la diferencia entre un político y un ladrón?\n— Que el político te roba legalmente, te cobra IVA por ello y encima quiere que le votes. [Edición #149]",
+    "content": "Declaraciones oficiales: 'La crisis económica es un mito. De hecho, nuestros políticos son más ricos que nunca.'",
     "type": "POLITICAL",
     "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
@@ -3951,7 +3751,7 @@
   },
   {
     "id": 351,
-    "content": "Declaraciones oficiales: 'La crisis económica es un mito. De hecho, nuestros políticos son más ricos que nunca.' [Edición #150]",
+    "content": "— ¿Cuál es la diferencia entre un político y un ladrón?\n— Que el político te roba legalmente, te cobra IVA por ello y encima quiere que le votes.",
     "type": "POLITICAL",
     "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
@@ -3964,7 +3764,7 @@
   },
   {
     "id": 352,
-    "content": "— ¿Qué haces leyendo el programa electoral de hace 4 años?\n— Estoy leyendo un libro de fantasía épica. [Edición #151]",
+    "content": "— Señor Presidente, el pueblo pide a gritos transparencia.\n— Perfecto, quiten las cortinas de la Moncloa.",
     "type": "POLITICAL",
     "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
@@ -3977,7 +3777,7 @@
   },
   {
     "id": 353,
-    "content": "El único lugar donde se puede encontrar un político que cumple sus promesas es en la sección de ciencia ficción de la biblioteca. [Edición #152]",
+    "content": "En el Congreso: \n— Mi partido promete que no descansaremos hasta acabar con el paro.\n— ¡Llevan ustedes 20 años sin descansar y el paro sigue igual!",
     "type": "POLITICAL",
     "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
@@ -3990,7 +3790,7 @@
   },
   {
     "id": 354,
-    "content": "— Oye, ¿tú de qué partido eres?\n— Yo soy del partido de los que llegan a fin de mes de milagro. [Edición #153]",
+    "content": "— Hemos diseñado un plan estratégico infalible para inaugurar el nuevo carril bici.\n— ¿Y cuándo empiezan las obras?\n— ¿Obras? Solo tenemos presupuesto para la maqueta.",
     "type": "POLITICAL",
     "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
@@ -4003,7 +3803,7 @@
   },
   {
     "id": 355,
-    "content": "— Hemos descubierto un agujero negro en las arcas del Estado.\n— ¿Y qué van a hacer?\n— Echarle la culpa a la herencia recibida, como siempre. [Edición #154]",
+    "content": "— Señorías, hemos erradicado por completo la corrupción.\n— ¡Un momento! ¿Y ese fajo de billetes?\n— Ah, es que entra en vigor el mes que viene.",
     "type": "POLITICAL",
     "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
@@ -4016,7 +3816,7 @@
   },
   {
     "id": 356,
-    "content": "La política es el arte de buscar problemas, encontrarlos, hacer un diagnóstico falso y aplicar los remedios equivocados. [Edición #155]",
+    "content": "— Señor Ministro, las encuestas dicen que el 80% de los ciudadanos está en contra de su gestión.\n— No pasa nada, cambiaremos al 80% de los ciudadanos.",
     "type": "POLITICAL",
     "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
@@ -4029,7 +3829,7 @@
   },
   {
     "id": 357,
-    "content": "— Hemos aprobado una nueva ley de sanidad.\n— ¿Y en qué consiste?\n— En que a partir de ahora curarse es un artículo de lujo. [Edición #156]",
+    "content": "— Papá, de mayor quiero ser político.\n— ¿Estás loco, hijo? ¿Te has vuelto honesto e incapaz de mentir?\n— No, papá, que quiero ser de los normales.",
     "type": "POLITICAL",
     "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
@@ -4042,7 +3842,7 @@
   },
   {
     "id": 358,
-    "content": "— ¿Sabe cuál es el colmo de un político corrupto?\n— Que no le alcance el dinero negro para pagar la fianza. [Edición #157]",
+    "content": "— Señor ministro, ¿por qué no baja los impuestos?\n— Porque entonces la gente tendría dinero y empezaría a pensar por sí misma, y eso es muy peligroso.",
     "type": "POLITICAL",
     "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
@@ -4055,7 +3855,7 @@
   },
   {
     "id": 359,
-    "content": "— El presidente ha dicho que hay luz al final del túnel.\n— Sí, es el tren de la inflación que viene de frente. [Edición #158]",
+    "content": "Un político le dice a otro: \n— Oye, ¿tú qué vas a hacer con el presupuesto de educación?\n— ¿Educación? No me suena ese ministerio, ¿está en el área de protocolo?",
     "type": "POLITICAL",
     "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
@@ -4068,7 +3868,7 @@
   },
   {
     "id": 360,
-    "content": "El político es una persona capaz de predecir lo que va a pasar mañana, el mes próximo y el año que viene; y de explicar después por qué no ocurrió. [Edición #159]",
+    "content": "— ¿Qué tal va la campaña electoral? \n— No nos podemos quejar.\n— ¿Tan bien os va?\n— No, es que nos han prohibido quejarnos.",
     "type": "POLITICAL",
     "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
@@ -4081,7 +3881,7 @@
   },
   {
     "id": 361,
-    "content": "— ¿Qué tal va la campaña electoral? \n— No nos podemos quejar.\n— ¿Tan bien os va?\n— No, es que nos han prohibido quejarnos. [Edición #160]",
+    "content": "El político es una persona capaz de predecir lo que va a pasar mañana, el mes próximo y el año que viene; y de explicar después por qué no ocurrió.",
     "type": "POLITICAL",
     "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
@@ -4094,7 +3894,7 @@
   },
   {
     "id": 362,
-    "content": "Un político le dice a otro: \n— Oye, ¿tú qué vas a hacer con el presupuesto de educación?\n— ¿Educación? No me suena ese ministerio, ¿está en el área de protocolo? [Edición #161]",
+    "content": "— El presidente ha dicho que hay luz al final del túnel.\n— Sí, es el tren de la inflación que viene de frente.",
     "type": "POLITICAL",
     "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
@@ -4107,7 +3907,7 @@
   },
   {
     "id": 363,
-    "content": "— Señor ministro, ¿por qué no baja los impuestos?\n— Porque entonces la gente tendría dinero y empezaría a pensar por sí misma, y eso es muy peligroso. [Edición #162]",
+    "content": "— ¿Sabe cuál es el colmo de un político corrupto?\n— Que no le alcance el dinero negro para pagar la fianza.",
     "type": "POLITICAL",
     "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
@@ -4120,7 +3920,7 @@
   },
   {
     "id": 364,
-    "content": "— Papá, de mayor quiero ser político.\n— ¿Estás loco, hijo? ¿Te has vuelto honesto e incapaz de mentir?\n— No, papá, que quiero ser de los normales. [Edición #163]",
+    "content": "— Hemos aprobado una nueva ley de sanidad.\n— ¿Y en qué consiste?\n— En que a partir de ahora curarse es un artículo de lujo.",
     "type": "POLITICAL",
     "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
@@ -4133,7 +3933,7 @@
   },
   {
     "id": 365,
-    "content": "— Señor Ministro, las encuestas dicen que el 80% de los ciudadanos está en contra de su gestión.\n— No pasa nada, cambiaremos al 80% de los ciudadanos. [Edición #164]",
+    "content": "La política es el arte de buscar problemas, encontrarlos, hacer un diagnóstico falso y aplicar los remedios equivocados.",
     "type": "POLITICAL",
     "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
@@ -4146,7 +3946,7 @@
   },
   {
     "id": 366,
-    "content": "— Señorías, hemos erradicado por completo la corrupción.\n— ¡Un momento! ¿Y ese fajo de billetes?\n— Ah, es que entra en vigor el mes que viene. [Edición #165]",
+    "content": "— Hemos descubierto un agujero negro en las arcas del Estado.\n— ¿Y qué van a hacer?\n— Echarle la culpa a la herencia recibida, como siempre.",
     "type": "POLITICAL",
     "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
@@ -4159,7 +3959,7 @@
   },
   {
     "id": 367,
-    "content": "— Hemos diseñado un plan estratégico infalible para inaugurar el nuevo carril bici.\n— ¿Y cuándo empiezan las obras?\n— ¿Obras? Solo tenemos presupuesto para la maqueta. [Edición #166]",
+    "content": "— Oye, ¿tú de qué partido eres?\n— Yo soy del partido de los que llegan a fin de mes de milagro.",
     "type": "POLITICAL",
     "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
@@ -4172,7 +3972,7 @@
   },
   {
     "id": 368,
-    "content": "En el Congreso: \n— Mi partido promete que no descansaremos hasta acabar con el paro.\n— ¡Llevan ustedes 20 años sin descansar y el paro sigue igual! [Edición #167]",
+    "content": "El único lugar donde se puede encontrar un político que cumple sus promesas es en la sección de ciencia ficción de la biblioteca.",
     "type": "POLITICAL",
     "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
@@ -4185,7 +3985,7 @@
   },
   {
     "id": 369,
-    "content": "— Señor Presidente, el pueblo pide a gritos transparencia.\n— Perfecto, quiten las cortinas de la Moncloa. [Edición #168]",
+    "content": "— ¿Qué haces leyendo el programa electoral de hace 4 años?\n— Estoy leyendo un libro de fantasía épica.",
     "type": "POLITICAL",
     "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
@@ -4198,7 +3998,7 @@
   },
   {
     "id": 370,
-    "content": "— ¿Cuál es la diferencia entre un político y un ladrón?\n— Que el político te roba legalmente, te cobra IVA por ello y encima quiere que le votes. [Edición #169]",
+    "content": "Declaraciones oficiales: 'La crisis económica es un mito. De hecho, nuestros políticos son más ricos que nunca.'",
     "type": "POLITICAL",
     "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
@@ -4211,7 +4011,7 @@
   },
   {
     "id": 371,
-    "content": "Declaraciones oficiales: 'La crisis económica es un mito. De hecho, nuestros políticos son más ricos que nunca.' [Edición #170]",
+    "content": "— ¿Cuál es la diferencia entre un político y un ladrón?\n— Que el político te roba legalmente, te cobra IVA por ello y encima quiere que le votes.",
     "type": "POLITICAL",
     "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
@@ -4224,7 +4024,7 @@
   },
   {
     "id": 372,
-    "content": "— ¿Qué haces leyendo el programa electoral de hace 4 años?\n— Estoy leyendo un libro de fantasía épica. [Edición #171]",
+    "content": "— Señor Presidente, el pueblo pide a gritos transparencia.\n— Perfecto, quiten las cortinas de la Moncloa.",
     "type": "POLITICAL",
     "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
@@ -4237,7 +4037,7 @@
   },
   {
     "id": 373,
-    "content": "El único lugar donde se puede encontrar un político que cumple sus promesas es en la sección de ciencia ficción de la biblioteca. [Edición #172]",
+    "content": "En el Congreso: \n— Mi partido promete que no descansaremos hasta acabar con el paro.\n— ¡Llevan ustedes 20 años sin descansar y el paro sigue igual!",
     "type": "POLITICAL",
     "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
@@ -4250,7 +4050,7 @@
   },
   {
     "id": 374,
-    "content": "— Oye, ¿tú de qué partido eres?\n— Yo soy del partido de los que llegan a fin de mes de milagro. [Edición #173]",
+    "content": "— Hemos diseñado un plan estratégico infalible para inaugurar el nuevo carril bici.\n— ¿Y cuándo empiezan las obras?\n— ¿Obras? Solo tenemos presupuesto para la maqueta.",
     "type": "POLITICAL",
     "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
@@ -4263,7 +4063,7 @@
   },
   {
     "id": 375,
-    "content": "— Hemos descubierto un agujero negro en las arcas del Estado.\n— ¿Y qué van a hacer?\n— Echarle la culpa a la herencia recibida, como siempre. [Edición #174]",
+    "content": "— Señorías, hemos erradicado por completo la corrupción.\n— ¡Un momento! ¿Y ese fajo de billetes?\n— Ah, es que entra en vigor el mes que viene.",
     "type": "POLITICAL",
     "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
@@ -4276,7 +4076,7 @@
   },
   {
     "id": 376,
-    "content": "La política es el arte de buscar problemas, encontrarlos, hacer un diagnóstico falso y aplicar los remedios equivocados. [Edición #175]",
+    "content": "— Señor Ministro, las encuestas dicen que el 80% de los ciudadanos está en contra de su gestión.\n— No pasa nada, cambiaremos al 80% de los ciudadanos.",
     "type": "POLITICAL",
     "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
@@ -4289,7 +4089,7 @@
   },
   {
     "id": 377,
-    "content": "— Hemos aprobado una nueva ley de sanidad.\n— ¿Y en qué consiste?\n— En que a partir de ahora curarse es un artículo de lujo. [Edición #176]",
+    "content": "— Papá, de mayor quiero ser político.\n— ¿Estás loco, hijo? ¿Te has vuelto honesto e incapaz de mentir?\n— No, papá, que quiero ser de los normales.",
     "type": "POLITICAL",
     "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
@@ -4302,7 +4102,7 @@
   },
   {
     "id": 378,
-    "content": "— ¿Sabe cuál es el colmo de un político corrupto?\n— Que no le alcance el dinero negro para pagar la fianza. [Edición #177]",
+    "content": "— Señor ministro, ¿por qué no baja los impuestos?\n— Porque entonces la gente tendría dinero y empezaría a pensar por sí misma, y eso es muy peligroso.",
     "type": "POLITICAL",
     "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
@@ -4315,7 +4115,7 @@
   },
   {
     "id": 379,
-    "content": "— El presidente ha dicho que hay luz al final del túnel.\n— Sí, es el tren de la inflación que viene de frente. [Edición #178]",
+    "content": "Un político le dice a otro: \n— Oye, ¿tú qué vas a hacer con el presupuesto de educación?\n— ¿Educación? No me suena ese ministerio, ¿está en el área de protocolo?",
     "type": "POLITICAL",
     "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
@@ -4328,7 +4128,7 @@
   },
   {
     "id": 380,
-    "content": "El político es una persona capaz de predecir lo que va a pasar mañana, el mes próximo y el año que viene; y de explicar después por qué no ocurrió. [Edición #179]",
+    "content": "— ¿Qué tal va la campaña electoral? \n— No nos podemos quejar.\n— ¿Tan bien os va?\n— No, es que nos han prohibido quejarnos.",
     "type": "POLITICAL",
     "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
@@ -4341,7 +4141,7 @@
   },
   {
     "id": 381,
-    "content": "— ¿Qué tal va la campaña electoral? \n— No nos podemos quejar.\n— ¿Tan bien os va?\n— No, es que nos han prohibido quejarnos. [Edición #180]",
+    "content": "El político es una persona capaz de predecir lo que va a pasar mañana, el mes próximo y el año que viene; y de explicar después por qué no ocurrió.",
     "type": "POLITICAL",
     "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
@@ -4354,7 +4154,7 @@
   },
   {
     "id": 382,
-    "content": "Un político le dice a otro: \n— Oye, ¿tú qué vas a hacer con el presupuesto de educación?\n— ¿Educación? No me suena ese ministerio, ¿está en el área de protocolo? [Edición #181]",
+    "content": "— El presidente ha dicho que hay luz al final del túnel.\n— Sí, es el tren de la inflación que viene de frente.",
     "type": "POLITICAL",
     "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
@@ -4367,7 +4167,7 @@
   },
   {
     "id": 383,
-    "content": "— Señor ministro, ¿por qué no baja los impuestos?\n— Porque entonces la gente tendría dinero y empezaría a pensar por sí misma, y eso es muy peligroso. [Edición #182]",
+    "content": "— ¿Sabe cuál es el colmo de un político corrupto?\n— Que no le alcance el dinero negro para pagar la fianza.",
     "type": "POLITICAL",
     "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
@@ -4380,7 +4180,7 @@
   },
   {
     "id": 384,
-    "content": "— Papá, de mayor quiero ser político.\n— ¿Estás loco, hijo? ¿Te has vuelto honesto e incapaz de mentir?\n— No, papá, que quiero ser de los normales. [Edición #183]",
+    "content": "— Hemos aprobado una nueva ley de sanidad.\n— ¿Y en qué consiste?\n— En que a partir de ahora curarse es un artículo de lujo.",
     "type": "POLITICAL",
     "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
@@ -4393,7 +4193,7 @@
   },
   {
     "id": 385,
-    "content": "— Señor Ministro, las encuestas dicen que el 80% de los ciudadanos está en contra de su gestión.\n— No pasa nada, cambiaremos al 80% de los ciudadanos. [Edición #184]",
+    "content": "La política es el arte de buscar problemas, encontrarlos, hacer un diagnóstico falso y aplicar los remedios equivocados.",
     "type": "POLITICAL",
     "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
@@ -4406,7 +4206,7 @@
   },
   {
     "id": 386,
-    "content": "— Señorías, hemos erradicado por completo la corrupción.\n— ¡Un momento! ¿Y ese fajo de billetes?\n— Ah, es que entra en vigor el mes que viene. [Edición #185]",
+    "content": "— Hemos descubierto un agujero negro en las arcas del Estado.\n— ¿Y qué van a hacer?\n— Echarle la culpa a la herencia recibida, como siempre.",
     "type": "POLITICAL",
     "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
@@ -4419,7 +4219,7 @@
   },
   {
     "id": 387,
-    "content": "— Hemos diseñado un plan estratégico infalible para inaugurar el nuevo carril bici.\n— ¿Y cuándo empiezan las obras?\n— ¿Obras? Solo tenemos presupuesto para la maqueta. [Edición #186]",
+    "content": "— Oye, ¿tú de qué partido eres?\n— Yo soy del partido de los que llegan a fin de mes de milagro.",
     "type": "POLITICAL",
     "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
@@ -4432,7 +4232,7 @@
   },
   {
     "id": 388,
-    "content": "En el Congreso: \n— Mi partido promete que no descansaremos hasta acabar con el paro.\n— ¡Llevan ustedes 20 años sin descansar y el paro sigue igual! [Edición #187]",
+    "content": "El único lugar donde se puede encontrar un político que cumple sus promesas es en la sección de ciencia ficción de la biblioteca.",
     "type": "POLITICAL",
     "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
@@ -4445,7 +4245,7 @@
   },
   {
     "id": 389,
-    "content": "— Señor Presidente, el pueblo pide a gritos transparencia.\n— Perfecto, quiten las cortinas de la Moncloa. [Edición #188]",
+    "content": "— ¿Qué haces leyendo el programa electoral de hace 4 años?\n— Estoy leyendo un libro de fantasía épica.",
     "type": "POLITICAL",
     "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
@@ -4458,7 +4258,7 @@
   },
   {
     "id": 390,
-    "content": "— ¿Cuál es la diferencia entre un político y un ladrón?\n— Que el político te roba legalmente, te cobra IVA por ello y encima quiere que le votes. [Edición #189]",
+    "content": "Declaraciones oficiales: 'La crisis económica es un mito. De hecho, nuestros políticos son más ricos que nunca.'",
     "type": "POLITICAL",
     "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
@@ -4471,7 +4271,7 @@
   },
   {
     "id": 391,
-    "content": "Declaraciones oficiales: 'La crisis económica es un mito. De hecho, nuestros políticos son más ricos que nunca.' [Edición #190]",
+    "content": "— ¿Cuál es la diferencia entre un político y un ladrón?\n— Que el político te roba legalmente, te cobra IVA por ello y encima quiere que le votes.",
     "type": "POLITICAL",
     "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
@@ -4484,7 +4284,7 @@
   },
   {
     "id": 392,
-    "content": "— ¿Qué haces leyendo el programa electoral de hace 4 años?\n— Estoy leyendo un libro de fantasía épica. [Edición #191]",
+    "content": "— Señor Presidente, el pueblo pide a gritos transparencia.\n— Perfecto, quiten las cortinas de la Moncloa.",
     "type": "POLITICAL",
     "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
@@ -4497,7 +4297,7 @@
   },
   {
     "id": 393,
-    "content": "El único lugar donde se puede encontrar un político que cumple sus promesas es en la sección de ciencia ficción de la biblioteca. [Edición #192]",
+    "content": "En el Congreso: \n— Mi partido promete que no descansaremos hasta acabar con el paro.\n— ¡Llevan ustedes 20 años sin descansar y el paro sigue igual!",
     "type": "POLITICAL",
     "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
@@ -4510,7 +4310,7 @@
   },
   {
     "id": 394,
-    "content": "— Oye, ¿tú de qué partido eres?\n— Yo soy del partido de los que llegan a fin de mes de milagro. [Edición #193]",
+    "content": "— Hemos diseñado un plan estratégico infalible para inaugurar el nuevo carril bici.\n— ¿Y cuándo empiezan las obras?\n— ¿Obras? Solo tenemos presupuesto para la maqueta.",
     "type": "POLITICAL",
     "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
@@ -4523,7 +4323,7 @@
   },
   {
     "id": 395,
-    "content": "— Hemos descubierto un agujero negro en las arcas del Estado.\n— ¿Y qué van a hacer?\n— Echarle la culpa a la herencia recibida, como siempre. [Edición #194]",
+    "content": "— Señorías, hemos erradicado por completo la corrupción.\n— ¡Un momento! ¿Y ese fajo de billetes?\n— Ah, es que entra en vigor el mes que viene.",
     "type": "POLITICAL",
     "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
@@ -4536,7 +4336,7 @@
   },
   {
     "id": 396,
-    "content": "La política es el arte de buscar problemas, encontrarlos, hacer un diagnóstico falso y aplicar los remedios equivocados. [Edición #195]",
+    "content": "— Señor Ministro, las encuestas dicen que el 80% de los ciudadanos está en contra de su gestión.\n— No pasa nada, cambiaremos al 80% de los ciudadanos.",
     "type": "POLITICAL",
     "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
@@ -4549,7 +4349,7 @@
   },
   {
     "id": 397,
-    "content": "— Hemos aprobado una nueva ley de sanidad.\n— ¿Y en qué consiste?\n— En que a partir de ahora curarse es un artículo de lujo. [Edición #196]",
+    "content": "— Papá, de mayor quiero ser político.\n— ¿Estás loco, hijo? ¿Te has vuelto honesto e incapaz de mentir?\n— No, papá, que quiero ser de los normales.",
     "type": "POLITICAL",
     "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
@@ -4562,7 +4362,7 @@
   },
   {
     "id": 398,
-    "content": "— ¿Sabe cuál es el colmo de un político corrupto?\n— Que no le alcance el dinero negro para pagar la fianza. [Edición #197]",
+    "content": "— Señor ministro, ¿por qué no baja los impuestos?\n— Porque entonces la gente tendría dinero y empezaría a pensar por sí misma, y eso es muy peligroso.",
     "type": "POLITICAL",
     "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
@@ -4575,7 +4375,7 @@
   },
   {
     "id": 399,
-    "content": "— El presidente ha dicho que hay luz al final del túnel.\n— Sí, es el tren de la inflación que viene de frente. [Edición #198]",
+    "content": "Un político le dice a otro: \n— Oye, ¿tú qué vas a hacer con el presupuesto de educación?\n— ¿Educación? No me suena ese ministerio, ¿está en el área de protocolo?",
     "type": "POLITICAL",
     "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
@@ -4588,7 +4388,7 @@
   },
   {
     "id": 400,
-    "content": "El político es una persona capaz de predecir lo que va a pasar mañana, el mes próximo y el año que viene; y de explicar después por qué no ocurrió. [Edición #199]",
+    "content": "— ¿Qué tal va la campaña electoral? \n— No nos podemos quejar.\n— ¿Tan bien os va?\n— No, es que nos han prohibido quejarnos.",
     "type": "POLITICAL",
     "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
@@ -4601,10 +4401,11 @@
   },
   {
     "id": 401,
-    "content": "¡Hola Mundo! Este es un chiste increíble de programación programado exactamente para hoy, directo desde r/programmerhumor.",
+    "content": "Jaimito, si tengo 5 manzanas en una mano y 6 peras en la otra, ¿qué tengo? — Unas manos enormes, profe.",
     "type": "STANDARD",
     "tags": [
-      "Especial Hoy"
+      "Jaimito",
+      "Especial"
     ],
     "isLockedByDefault": false,
     "scheduledDate": "2026-05-15"
