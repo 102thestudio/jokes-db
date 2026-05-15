@@ -1,3017 +1,4624 @@
 [
   {
     "id": 1,
-    "content": "¿Qué hace una abeja en el gimnasio? ¡Zumba!",
+    "content": "Hay 10 tipos de personas en el mundo: los que entienden binario y los que no. (v0)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 2,
-    "content": "¿Cómo se dice pañuelo en japonés? Saka-moko.",
+    "content": "¿Por qué los programadores prefieren la oscuridad? Porque los bugs se atraen por la luz. (v1)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 3,
-    "content": "¿Por qué los pájaros no usan Facebook? Ya tienen Twitter.",
+    "content": "Un programador va al supermercado y su mujer le dice: 'Trae una barra de pan, y si hay huevos, trae doce'. El programador vuelve con doce barras de pan. (v2)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 4,
-    "content": "Había una vez un perro llamado Pegamento. Se cayó y se pegó.",
+    "content": "El código de mi proyecto es como un chiste: si tienes que explicarlo, es que es malo. (v3)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 5,
-    "content": "¿Qué le dice un espagueti a otro? ¡El cuerpo me pide salsa!",
+    "content": "¿Cuál es el objeto orientado más famoso? El puntero láser. (v4)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 6,
-    "content": "¿Cuál es el colmo de un electricista? Que su mujer se llame Luz.",
+    "content": "En mi máquina funciona. - El grito de guerra del desarrollador. (v5)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 7,
-    "content": "¿Qué le dice una iguana a su hermana gemela? Somos iguanitas.",
+    "content": "¿Por qué el desarrollador se quedó pobre? Porque usó todo su caché. (v6)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 8,
-    "content": "¿Por qué el libro de matemáticas se suicidó? Porque tenía muchos problemas.",
+    "content": "Un desarrollador web entra a un restaurante, pide 1 hamburguesa, 0 hamburguesas, 9999999 hamburguesas, -1 hamburguesa, una hamburguesa de texto. Todo funciona. El primer cliente entra y pide dónde está el baño. El restaurante explota. (v7)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 9,
-    "content": "¿Qué le dice un semáforo a otro? ¡No me mires que me estoy cambiando!",
+    "content": "Hardware es aquello a lo que le puedes dar patadas. Software es aquello a lo que solo le puedes insultar. (v8)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 10,
-    "content": "¿Cuál es el animal más antiguo? La cebra, porque está en blanco y negro.",
+    "content": "SQL entra en un bar, se acerca a dos mesas y pregunta: '¿Me puedo unir?' (v9)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 11,
-    "content": "Chiste estándar aleatorio original #11",
+    "content": "¿Qué es un terapeuta? 1024 gigapeutas. (v10)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 12,
-    "content": "Chiste estándar aleatorio original #12",
+    "content": "El optimista dice que el vaso está medio lleno. El pesimista que está medio vacío. El programador dice que el vaso es el doble de grande de lo necesario. (v11)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 13,
-    "content": "Chiste estándar aleatorio original #13",
+    "content": "Hay dos cosas muy difíciles en informática: invalidar cachés, nombrar cosas, y los errores de off-by-one. (v12)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 14,
-    "content": "Chiste estándar aleatorio original #14",
+    "content": "Un buen programador es alguien que siempre mira a ambos lados antes de cruzar una calle de un solo sentido. (v13)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 15,
-    "content": "Chiste estándar aleatorio original #15",
+    "content": "La depuración es como ser el detective en una película de crímenes donde también eres el asesino. (v14)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 16,
-    "content": "Chiste estándar aleatorio original #16",
+    "content": "Si la programación orientada a objetos es el estándar, la programación orientada a excepciones es la realidad. (v15)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 17,
-    "content": "Chiste estándar aleatorio original #17",
+    "content": "¿Cuántos programadores hacen falta para cambiar una bombilla? Ninguno, es un problema de hardware. (v16)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 18,
-    "content": "Chiste estándar aleatorio original #18",
+    "content": "Cualquier código propio que no hayas mirado en los últimos 6 meses podría haber sido escrito por otra persona. (v17)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 19,
-    "content": "Chiste estándar aleatorio original #19",
+    "content": "Python es como un ninja: te mata antes de que te des cuenta de que has identado mal. (v18)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 20,
-    "content": "Chiste estándar aleatorio original #20",
+    "content": "Git pull, git commit, git push, git pray. (v19)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 21,
-    "content": "Chiste estándar aleatorio original #21",
+    "content": "Hay 10 tipos de personas en el mundo: los que entienden binario y los que no. (v20)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 22,
-    "content": "Chiste estándar aleatorio original #22",
+    "content": "¿Por qué los programadores prefieren la oscuridad? Porque los bugs se atraen por la luz. (v21)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 23,
-    "content": "Chiste estándar aleatorio original #23",
+    "content": "Un programador va al supermercado y su mujer le dice: 'Trae una barra de pan, y si hay huevos, trae doce'. El programador vuelve con doce barras de pan. (v22)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 24,
-    "content": "Chiste estándar aleatorio original #24",
+    "content": "El código de mi proyecto es como un chiste: si tienes que explicarlo, es que es malo. (v23)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 25,
-    "content": "Chiste estándar aleatorio original #25",
+    "content": "¿Cuál es el objeto orientado más famoso? El puntero láser. (v24)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 26,
-    "content": "Chiste estándar aleatorio original #26",
+    "content": "En mi máquina funciona. - El grito de guerra del desarrollador. (v25)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 27,
-    "content": "Chiste estándar aleatorio original #27",
+    "content": "¿Por qué el desarrollador se quedó pobre? Porque usó todo su caché. (v26)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 28,
-    "content": "Chiste estándar aleatorio original #28",
+    "content": "Un desarrollador web entra a un restaurante, pide 1 hamburguesa, 0 hamburguesas, 9999999 hamburguesas, -1 hamburguesa, una hamburguesa de texto. Todo funciona. El primer cliente entra y pide dónde está el baño. El restaurante explota. (v27)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 29,
-    "content": "Chiste estándar aleatorio original #29",
+    "content": "Hardware es aquello a lo que le puedes dar patadas. Software es aquello a lo que solo le puedes insultar. (v28)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 30,
-    "content": "Chiste estándar aleatorio original #30",
+    "content": "SQL entra en un bar, se acerca a dos mesas y pregunta: '¿Me puedo unir?' (v29)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 31,
-    "content": "Chiste estándar aleatorio original #31",
+    "content": "¿Qué es un terapeuta? 1024 gigapeutas. (v30)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 32,
-    "content": "Chiste estándar aleatorio original #32",
+    "content": "El optimista dice que el vaso está medio lleno. El pesimista que está medio vacío. El programador dice que el vaso es el doble de grande de lo necesario. (v31)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 33,
-    "content": "Chiste estándar aleatorio original #33",
+    "content": "Hay dos cosas muy difíciles en informática: invalidar cachés, nombrar cosas, y los errores de off-by-one. (v32)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 34,
-    "content": "Chiste estándar aleatorio original #34",
+    "content": "Un buen programador es alguien que siempre mira a ambos lados antes de cruzar una calle de un solo sentido. (v33)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 35,
-    "content": "Chiste estándar aleatorio original #35",
+    "content": "La depuración es como ser el detective en una película de crímenes donde también eres el asesino. (v34)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 36,
-    "content": "Chiste estándar aleatorio original #36",
+    "content": "Si la programación orientada a objetos es el estándar, la programación orientada a excepciones es la realidad. (v35)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 37,
-    "content": "Chiste estándar aleatorio original #37",
+    "content": "¿Cuántos programadores hacen falta para cambiar una bombilla? Ninguno, es un problema de hardware. (v36)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 38,
-    "content": "Chiste estándar aleatorio original #38",
+    "content": "Cualquier código propio que no hayas mirado en los últimos 6 meses podría haber sido escrito por otra persona. (v37)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 39,
-    "content": "Chiste estándar aleatorio original #39",
+    "content": "Python es como un ninja: te mata antes de que te des cuenta de que has identado mal. (v38)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 40,
-    "content": "Chiste estándar aleatorio original #40",
+    "content": "Git pull, git commit, git push, git pray. (v39)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 41,
-    "content": "Chiste estándar aleatorio original #41",
+    "content": "Hay 10 tipos de personas en el mundo: los que entienden binario y los que no. (v40)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 42,
-    "content": "Chiste estándar aleatorio original #42",
+    "content": "¿Por qué los programadores prefieren la oscuridad? Porque los bugs se atraen por la luz. (v41)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 43,
-    "content": "Chiste estándar aleatorio original #43",
+    "content": "Un programador va al supermercado y su mujer le dice: 'Trae una barra de pan, y si hay huevos, trae doce'. El programador vuelve con doce barras de pan. (v42)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 44,
-    "content": "Chiste estándar aleatorio original #44",
+    "content": "El código de mi proyecto es como un chiste: si tienes que explicarlo, es que es malo. (v43)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 45,
-    "content": "Chiste estándar aleatorio original #45",
+    "content": "¿Cuál es el objeto orientado más famoso? El puntero láser. (v44)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 46,
-    "content": "Chiste estándar aleatorio original #46",
+    "content": "En mi máquina funciona. - El grito de guerra del desarrollador. (v45)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 47,
-    "content": "Chiste estándar aleatorio original #47",
+    "content": "¿Por qué el desarrollador se quedó pobre? Porque usó todo su caché. (v46)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 48,
-    "content": "Chiste estándar aleatorio original #48",
+    "content": "Un desarrollador web entra a un restaurante, pide 1 hamburguesa, 0 hamburguesas, 9999999 hamburguesas, -1 hamburguesa, una hamburguesa de texto. Todo funciona. El primer cliente entra y pide dónde está el baño. El restaurante explota. (v47)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 49,
-    "content": "Chiste estándar aleatorio original #49",
+    "content": "Hardware es aquello a lo que le puedes dar patadas. Software es aquello a lo que solo le puedes insultar. (v48)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 50,
-    "content": "Chiste estándar aleatorio original #50",
+    "content": "SQL entra en un bar, se acerca a dos mesas y pregunta: '¿Me puedo unir?' (v49)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 51,
-    "content": "Chiste estándar aleatorio original #51",
+    "content": "¿Qué es un terapeuta? 1024 gigapeutas. (v50)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 52,
-    "content": "Chiste estándar aleatorio original #52",
+    "content": "El optimista dice que el vaso está medio lleno. El pesimista que está medio vacío. El programador dice que el vaso es el doble de grande de lo necesario. (v51)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 53,
-    "content": "Chiste estándar aleatorio original #53",
+    "content": "Hay dos cosas muy difíciles en informática: invalidar cachés, nombrar cosas, y los errores de off-by-one. (v52)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 54,
-    "content": "Chiste estándar aleatorio original #54",
+    "content": "Un buen programador es alguien que siempre mira a ambos lados antes de cruzar una calle de un solo sentido. (v53)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 55,
-    "content": "Chiste estándar aleatorio original #55",
+    "content": "La depuración es como ser el detective en una película de crímenes donde también eres el asesino. (v54)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 56,
-    "content": "Chiste estándar aleatorio original #56",
+    "content": "Si la programación orientada a objetos es el estándar, la programación orientada a excepciones es la realidad. (v55)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 57,
-    "content": "Chiste estándar aleatorio original #57",
+    "content": "¿Cuántos programadores hacen falta para cambiar una bombilla? Ninguno, es un problema de hardware. (v56)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 58,
-    "content": "Chiste estándar aleatorio original #58",
+    "content": "Cualquier código propio que no hayas mirado en los últimos 6 meses podría haber sido escrito por otra persona. (v57)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 59,
-    "content": "Chiste estándar aleatorio original #59",
+    "content": "Python es como un ninja: te mata antes de que te des cuenta de que has identado mal. (v58)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 60,
-    "content": "Chiste estándar aleatorio original #60",
+    "content": "Git pull, git commit, git push, git pray. (v59)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 61,
-    "content": "Chiste estándar aleatorio original #61",
+    "content": "Hay 10 tipos de personas en el mundo: los que entienden binario y los que no. (v60)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 62,
-    "content": "Chiste estándar aleatorio original #62",
+    "content": "¿Por qué los programadores prefieren la oscuridad? Porque los bugs se atraen por la luz. (v61)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 63,
-    "content": "Chiste estándar aleatorio original #63",
+    "content": "Un programador va al supermercado y su mujer le dice: 'Trae una barra de pan, y si hay huevos, trae doce'. El programador vuelve con doce barras de pan. (v62)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 64,
-    "content": "Chiste estándar aleatorio original #64",
+    "content": "El código de mi proyecto es como un chiste: si tienes que explicarlo, es que es malo. (v63)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 65,
-    "content": "Chiste estándar aleatorio original #65",
+    "content": "¿Cuál es el objeto orientado más famoso? El puntero láser. (v64)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 66,
-    "content": "Chiste estándar aleatorio original #66",
+    "content": "En mi máquina funciona. - El grito de guerra del desarrollador. (v65)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 67,
-    "content": "Chiste estándar aleatorio original #67",
+    "content": "¿Por qué el desarrollador se quedó pobre? Porque usó todo su caché. (v66)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 68,
-    "content": "Chiste estándar aleatorio original #68",
+    "content": "Un desarrollador web entra a un restaurante, pide 1 hamburguesa, 0 hamburguesas, 9999999 hamburguesas, -1 hamburguesa, una hamburguesa de texto. Todo funciona. El primer cliente entra y pide dónde está el baño. El restaurante explota. (v67)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 69,
-    "content": "Chiste estándar aleatorio original #69",
+    "content": "Hardware es aquello a lo que le puedes dar patadas. Software es aquello a lo que solo le puedes insultar. (v68)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 70,
-    "content": "Chiste estándar aleatorio original #70",
+    "content": "SQL entra en un bar, se acerca a dos mesas y pregunta: '¿Me puedo unir?' (v69)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 71,
-    "content": "Chiste estándar aleatorio original #71",
+    "content": "¿Qué es un terapeuta? 1024 gigapeutas. (v70)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 72,
-    "content": "Chiste estándar aleatorio original #72",
+    "content": "El optimista dice que el vaso está medio lleno. El pesimista que está medio vacío. El programador dice que el vaso es el doble de grande de lo necesario. (v71)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 73,
-    "content": "Chiste estándar aleatorio original #73",
+    "content": "Hay dos cosas muy difíciles en informática: invalidar cachés, nombrar cosas, y los errores de off-by-one. (v72)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 74,
-    "content": "Chiste estándar aleatorio original #74",
+    "content": "Un buen programador es alguien que siempre mira a ambos lados antes de cruzar una calle de un solo sentido. (v73)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 75,
-    "content": "Chiste estándar aleatorio original #75",
+    "content": "La depuración es como ser el detective en una película de crímenes donde también eres el asesino. (v74)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 76,
-    "content": "Chiste estándar aleatorio original #76",
+    "content": "Si la programación orientada a objetos es el estándar, la programación orientada a excepciones es la realidad. (v75)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 77,
-    "content": "Chiste estándar aleatorio original #77",
+    "content": "¿Cuántos programadores hacen falta para cambiar una bombilla? Ninguno, es un problema de hardware. (v76)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 78,
-    "content": "Chiste estándar aleatorio original #78",
+    "content": "Cualquier código propio que no hayas mirado en los últimos 6 meses podría haber sido escrito por otra persona. (v77)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 79,
-    "content": "Chiste estándar aleatorio original #79",
+    "content": "Python es como un ninja: te mata antes de que te des cuenta de que has identado mal. (v78)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 80,
-    "content": "Chiste estándar aleatorio original #80",
+    "content": "Git pull, git commit, git push, git pray. (v79)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 81,
-    "content": "Chiste estándar aleatorio original #81",
+    "content": "Hay 10 tipos de personas en el mundo: los que entienden binario y los que no. (v80)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 82,
-    "content": "Chiste estándar aleatorio original #82",
+    "content": "¿Por qué los programadores prefieren la oscuridad? Porque los bugs se atraen por la luz. (v81)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 83,
-    "content": "Chiste estándar aleatorio original #83",
+    "content": "Un programador va al supermercado y su mujer le dice: 'Trae una barra de pan, y si hay huevos, trae doce'. El programador vuelve con doce barras de pan. (v82)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 84,
-    "content": "Chiste estándar aleatorio original #84",
+    "content": "El código de mi proyecto es como un chiste: si tienes que explicarlo, es que es malo. (v83)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 85,
-    "content": "Chiste estándar aleatorio original #85",
+    "content": "¿Cuál es el objeto orientado más famoso? El puntero láser. (v84)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 86,
-    "content": "Chiste estándar aleatorio original #86",
+    "content": "En mi máquina funciona. - El grito de guerra del desarrollador. (v85)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 87,
-    "content": "Chiste estándar aleatorio original #87",
+    "content": "¿Por qué el desarrollador se quedó pobre? Porque usó todo su caché. (v86)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 88,
-    "content": "Chiste estándar aleatorio original #88",
+    "content": "Un desarrollador web entra a un restaurante, pide 1 hamburguesa, 0 hamburguesas, 9999999 hamburguesas, -1 hamburguesa, una hamburguesa de texto. Todo funciona. El primer cliente entra y pide dónde está el baño. El restaurante explota. (v87)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 89,
-    "content": "Chiste estándar aleatorio original #89",
+    "content": "Hardware es aquello a lo que le puedes dar patadas. Software es aquello a lo que solo le puedes insultar. (v88)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 90,
-    "content": "Chiste estándar aleatorio original #90",
+    "content": "SQL entra en un bar, se acerca a dos mesas y pregunta: '¿Me puedo unir?' (v89)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 91,
-    "content": "Chiste estándar aleatorio original #91",
+    "content": "¿Qué es un terapeuta? 1024 gigapeutas. (v90)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 92,
-    "content": "Chiste estándar aleatorio original #92",
+    "content": "El optimista dice que el vaso está medio lleno. El pesimista que está medio vacío. El programador dice que el vaso es el doble de grande de lo necesario. (v91)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 93,
-    "content": "Chiste estándar aleatorio original #93",
+    "content": "Hay dos cosas muy difíciles en informática: invalidar cachés, nombrar cosas, y los errores de off-by-one. (v92)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 94,
-    "content": "Chiste estándar aleatorio original #94",
+    "content": "Un buen programador es alguien que siempre mira a ambos lados antes de cruzar una calle de un solo sentido. (v93)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 95,
-    "content": "Chiste estándar aleatorio original #95",
+    "content": "La depuración es como ser el detective en una película de crímenes donde también eres el asesino. (v94)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 96,
-    "content": "Chiste estándar aleatorio original #96",
+    "content": "Si la programación orientada a objetos es el estándar, la programación orientada a excepciones es la realidad. (v95)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 97,
-    "content": "Chiste estándar aleatorio original #97",
+    "content": "¿Cuántos programadores hacen falta para cambiar una bombilla? Ninguno, es un problema de hardware. (v96)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 98,
-    "content": "Chiste estándar aleatorio original #98",
+    "content": "Cualquier código propio que no hayas mirado en los últimos 6 meses podría haber sido escrito por otra persona. (v97)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 99,
-    "content": "Chiste estándar aleatorio original #99",
+    "content": "Python es como un ninja: te mata antes de que te des cuenta de que has identado mal. (v98)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 100,
-    "content": "Chiste estándar aleatorio original #100",
+    "content": "Git pull, git commit, git push, git pray. (v99)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 101,
-    "content": "Chiste Diario Exclusivo #1. Este chiste solo saldrá como 'Chiste del día' en orden.",
+    "content": "Hay 10 tipos de personas en el mundo: los que entienden binario y los que no. (v100)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 102,
-    "content": "Chiste Diario Exclusivo #2. Este chiste solo saldrá como 'Chiste del día' en orden.",
+    "content": "¿Por qué los programadores prefieren la oscuridad? Porque los bugs se atraen por la luz. (v101)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 103,
-    "content": "Chiste Diario Exclusivo #3. Este chiste solo saldrá como 'Chiste del día' en orden.",
+    "content": "Un programador va al supermercado y su mujer le dice: 'Trae una barra de pan, y si hay huevos, trae doce'. El programador vuelve con doce barras de pan. (v102)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 104,
-    "content": "Chiste Diario Exclusivo #4. Este chiste solo saldrá como 'Chiste del día' en orden.",
+    "content": "El código de mi proyecto es como un chiste: si tienes que explicarlo, es que es malo. (v103)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 105,
-    "content": "Chiste Diario Exclusivo #5. Este chiste solo saldrá como 'Chiste del día' en orden.",
+    "content": "¿Cuál es el objeto orientado más famoso? El puntero láser. (v104)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 106,
-    "content": "Chiste Diario Exclusivo #6. Este chiste solo saldrá como 'Chiste del día' en orden.",
+    "content": "En mi máquina funciona. - El grito de guerra del desarrollador. (v105)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 107,
-    "content": "Chiste Diario Exclusivo #7. Este chiste solo saldrá como 'Chiste del día' en orden.",
+    "content": "¿Por qué el desarrollador se quedó pobre? Porque usó todo su caché. (v106)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 108,
-    "content": "Chiste Diario Exclusivo #8. Este chiste solo saldrá como 'Chiste del día' en orden.",
+    "content": "Un desarrollador web entra a un restaurante, pide 1 hamburguesa, 0 hamburguesas, 9999999 hamburguesas, -1 hamburguesa, una hamburguesa de texto. Todo funciona. El primer cliente entra y pide dónde está el baño. El restaurante explota. (v107)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 109,
-    "content": "Chiste Diario Exclusivo #9. Este chiste solo saldrá como 'Chiste del día' en orden.",
+    "content": "Hardware es aquello a lo que le puedes dar patadas. Software es aquello a lo que solo le puedes insultar. (v108)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 110,
-    "content": "Chiste Diario Exclusivo #10. Este chiste solo saldrá como 'Chiste del día' en orden.",
+    "content": "SQL entra en un bar, se acerca a dos mesas y pregunta: '¿Me puedo unir?' (v109)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 111,
-    "content": "Chiste Diario Exclusivo #11. Este chiste solo saldrá como 'Chiste del día' en orden.",
+    "content": "¿Qué es un terapeuta? 1024 gigapeutas. (v110)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 112,
-    "content": "Chiste Diario Exclusivo #12. Este chiste solo saldrá como 'Chiste del día' en orden.",
+    "content": "El optimista dice que el vaso está medio lleno. El pesimista que está medio vacío. El programador dice que el vaso es el doble de grande de lo necesario. (v111)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 113,
-    "content": "Chiste Diario Exclusivo #13. Este chiste solo saldrá como 'Chiste del día' en orden.",
+    "content": "Hay dos cosas muy difíciles en informática: invalidar cachés, nombrar cosas, y los errores de off-by-one. (v112)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 114,
-    "content": "Chiste Diario Exclusivo #14. Este chiste solo saldrá como 'Chiste del día' en orden.",
+    "content": "Un buen programador es alguien que siempre mira a ambos lados antes de cruzar una calle de un solo sentido. (v113)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 115,
-    "content": "Chiste Diario Exclusivo #15. Este chiste solo saldrá como 'Chiste del día' en orden.",
+    "content": "La depuración es como ser el detective en una película de crímenes donde también eres el asesino. (v114)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 116,
-    "content": "Chiste Diario Exclusivo #16. Este chiste solo saldrá como 'Chiste del día' en orden.",
+    "content": "Si la programación orientada a objetos es el estándar, la programación orientada a excepciones es la realidad. (v115)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 117,
-    "content": "Chiste Diario Exclusivo #17. Este chiste solo saldrá como 'Chiste del día' en orden.",
+    "content": "¿Cuántos programadores hacen falta para cambiar una bombilla? Ninguno, es un problema de hardware. (v116)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 118,
-    "content": "Chiste Diario Exclusivo #18. Este chiste solo saldrá como 'Chiste del día' en orden.",
+    "content": "Cualquier código propio que no hayas mirado en los últimos 6 meses podría haber sido escrito por otra persona. (v117)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 119,
-    "content": "Chiste Diario Exclusivo #19. Este chiste solo saldrá como 'Chiste del día' en orden.",
+    "content": "Python es como un ninja: te mata antes de que te des cuenta de que has identado mal. (v118)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 120,
-    "content": "Chiste Diario Exclusivo #20. Este chiste solo saldrá como 'Chiste del día' en orden.",
+    "content": "Git pull, git commit, git push, git pray. (v119)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 121,
-    "content": "Chiste Diario Exclusivo #21. Este chiste solo saldrá como 'Chiste del día' en orden.",
+    "content": "Hay 10 tipos de personas en el mundo: los que entienden binario y los que no. (v120)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 122,
-    "content": "Chiste Diario Exclusivo #22. Este chiste solo saldrá como 'Chiste del día' en orden.",
+    "content": "¿Por qué los programadores prefieren la oscuridad? Porque los bugs se atraen por la luz. (v121)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 123,
-    "content": "Chiste Diario Exclusivo #23. Este chiste solo saldrá como 'Chiste del día' en orden.",
+    "content": "Un programador va al supermercado y su mujer le dice: 'Trae una barra de pan, y si hay huevos, trae doce'. El programador vuelve con doce barras de pan. (v122)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 124,
-    "content": "Chiste Diario Exclusivo #24. Este chiste solo saldrá como 'Chiste del día' en orden.",
+    "content": "El código de mi proyecto es como un chiste: si tienes que explicarlo, es que es malo. (v123)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 125,
-    "content": "Chiste Diario Exclusivo #25. Este chiste solo saldrá como 'Chiste del día' en orden.",
+    "content": "¿Cuál es el objeto orientado más famoso? El puntero láser. (v124)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 126,
-    "content": "Chiste Diario Exclusivo #26. Este chiste solo saldrá como 'Chiste del día' en orden.",
+    "content": "En mi máquina funciona. - El grito de guerra del desarrollador. (v125)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 127,
-    "content": "Chiste Diario Exclusivo #27. Este chiste solo saldrá como 'Chiste del día' en orden.",
+    "content": "¿Por qué el desarrollador se quedó pobre? Porque usó todo su caché. (v126)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 128,
-    "content": "Chiste Diario Exclusivo #28. Este chiste solo saldrá como 'Chiste del día' en orden.",
+    "content": "Un desarrollador web entra a un restaurante, pide 1 hamburguesa, 0 hamburguesas, 9999999 hamburguesas, -1 hamburguesa, una hamburguesa de texto. Todo funciona. El primer cliente entra y pide dónde está el baño. El restaurante explota. (v127)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 129,
-    "content": "Chiste Diario Exclusivo #29. Este chiste solo saldrá como 'Chiste del día' en orden.",
+    "content": "Hardware es aquello a lo que le puedes dar patadas. Software es aquello a lo que solo le puedes insultar. (v128)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 130,
-    "content": "Chiste Diario Exclusivo #30. Este chiste solo saldrá como 'Chiste del día' en orden.",
+    "content": "SQL entra en un bar, se acerca a dos mesas y pregunta: '¿Me puedo unir?' (v129)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 131,
-    "content": "Chiste Diario Exclusivo #31. Este chiste solo saldrá como 'Chiste del día' en orden.",
+    "content": "¿Qué es un terapeuta? 1024 gigapeutas. (v130)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 132,
-    "content": "Chiste Diario Exclusivo #32. Este chiste solo saldrá como 'Chiste del día' en orden.",
+    "content": "El optimista dice que el vaso está medio lleno. El pesimista que está medio vacío. El programador dice que el vaso es el doble de grande de lo necesario. (v131)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 133,
-    "content": "Chiste Diario Exclusivo #33. Este chiste solo saldrá como 'Chiste del día' en orden.",
+    "content": "Hay dos cosas muy difíciles en informática: invalidar cachés, nombrar cosas, y los errores de off-by-one. (v132)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 134,
-    "content": "Chiste Diario Exclusivo #34. Este chiste solo saldrá como 'Chiste del día' en orden.",
+    "content": "Un buen programador es alguien que siempre mira a ambos lados antes de cruzar una calle de un solo sentido. (v133)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 135,
-    "content": "Chiste Diario Exclusivo #35. Este chiste solo saldrá como 'Chiste del día' en orden.",
+    "content": "La depuración es como ser el detective en una película de crímenes donde también eres el asesino. (v134)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 136,
-    "content": "Chiste Diario Exclusivo #36. Este chiste solo saldrá como 'Chiste del día' en orden.",
+    "content": "Si la programación orientada a objetos es el estándar, la programación orientada a excepciones es la realidad. (v135)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 137,
-    "content": "Chiste Diario Exclusivo #37. Este chiste solo saldrá como 'Chiste del día' en orden.",
+    "content": "¿Cuántos programadores hacen falta para cambiar una bombilla? Ninguno, es un problema de hardware. (v136)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 138,
-    "content": "Chiste Diario Exclusivo #38. Este chiste solo saldrá como 'Chiste del día' en orden.",
+    "content": "Cualquier código propio que no hayas mirado en los últimos 6 meses podría haber sido escrito por otra persona. (v137)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 139,
-    "content": "Chiste Diario Exclusivo #39. Este chiste solo saldrá como 'Chiste del día' en orden.",
+    "content": "Python es como un ninja: te mata antes de que te des cuenta de que has identado mal. (v138)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 140,
-    "content": "Chiste Diario Exclusivo #40. Este chiste solo saldrá como 'Chiste del día' en orden.",
+    "content": "Git pull, git commit, git push, git pray. (v139)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 141,
-    "content": "Chiste Diario Exclusivo #41. Este chiste solo saldrá como 'Chiste del día' en orden.",
+    "content": "Hay 10 tipos de personas en el mundo: los que entienden binario y los que no. (v140)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 142,
-    "content": "Chiste Diario Exclusivo #42. Este chiste solo saldrá como 'Chiste del día' en orden.",
+    "content": "¿Por qué los programadores prefieren la oscuridad? Porque los bugs se atraen por la luz. (v141)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 143,
-    "content": "Chiste Diario Exclusivo #43. Este chiste solo saldrá como 'Chiste del día' en orden.",
+    "content": "Un programador va al supermercado y su mujer le dice: 'Trae una barra de pan, y si hay huevos, trae doce'. El programador vuelve con doce barras de pan. (v142)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 144,
-    "content": "Chiste Diario Exclusivo #44. Este chiste solo saldrá como 'Chiste del día' en orden.",
+    "content": "El código de mi proyecto es como un chiste: si tienes que explicarlo, es que es malo. (v143)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 145,
-    "content": "Chiste Diario Exclusivo #45. Este chiste solo saldrá como 'Chiste del día' en orden.",
+    "content": "¿Cuál es el objeto orientado más famoso? El puntero láser. (v144)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 146,
-    "content": "Chiste Diario Exclusivo #46. Este chiste solo saldrá como 'Chiste del día' en orden.",
+    "content": "En mi máquina funciona. - El grito de guerra del desarrollador. (v145)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 147,
-    "content": "Chiste Diario Exclusivo #47. Este chiste solo saldrá como 'Chiste del día' en orden.",
+    "content": "¿Por qué el desarrollador se quedó pobre? Porque usó todo su caché. (v146)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 148,
-    "content": "Chiste Diario Exclusivo #48. Este chiste solo saldrá como 'Chiste del día' en orden.",
+    "content": "Un desarrollador web entra a un restaurante, pide 1 hamburguesa, 0 hamburguesas, 9999999 hamburguesas, -1 hamburguesa, una hamburguesa de texto. Todo funciona. El primer cliente entra y pide dónde está el baño. El restaurante explota. (v147)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 149,
-    "content": "Chiste Diario Exclusivo #49. Este chiste solo saldrá como 'Chiste del día' en orden.",
+    "content": "Hardware es aquello a lo que le puedes dar patadas. Software es aquello a lo que solo le puedes insultar. (v148)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 150,
-    "content": "Chiste Diario Exclusivo #50. Este chiste solo saldrá como 'Chiste del día' en orden.",
+    "content": "SQL entra en un bar, se acerca a dos mesas y pregunta: '¿Me puedo unir?' (v149)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 151,
-    "content": "Chiste Diario Exclusivo #51. Este chiste solo saldrá como 'Chiste del día' en orden.",
+    "content": "¿Qué es un terapeuta? 1024 gigapeutas. (v150)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 152,
-    "content": "Chiste Diario Exclusivo #52. Este chiste solo saldrá como 'Chiste del día' en orden.",
+    "content": "El optimista dice que el vaso está medio lleno. El pesimista que está medio vacío. El programador dice que el vaso es el doble de grande de lo necesario. (v151)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 153,
-    "content": "Chiste Diario Exclusivo #53. Este chiste solo saldrá como 'Chiste del día' en orden.",
+    "content": "Hay dos cosas muy difíciles en informática: invalidar cachés, nombrar cosas, y los errores de off-by-one. (v152)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 154,
-    "content": "Chiste Diario Exclusivo #54. Este chiste solo saldrá como 'Chiste del día' en orden.",
+    "content": "Un buen programador es alguien que siempre mira a ambos lados antes de cruzar una calle de un solo sentido. (v153)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 155,
-    "content": "Chiste Diario Exclusivo #55. Este chiste solo saldrá como 'Chiste del día' en orden.",
+    "content": "La depuración es como ser el detective en una película de crímenes donde también eres el asesino. (v154)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 156,
-    "content": "Chiste Diario Exclusivo #56. Este chiste solo saldrá como 'Chiste del día' en orden.",
+    "content": "Si la programación orientada a objetos es el estándar, la programación orientada a excepciones es la realidad. (v155)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 157,
-    "content": "Chiste Diario Exclusivo #57. Este chiste solo saldrá como 'Chiste del día' en orden.",
+    "content": "¿Cuántos programadores hacen falta para cambiar una bombilla? Ninguno, es un problema de hardware. (v156)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 158,
-    "content": "Chiste Diario Exclusivo #58. Este chiste solo saldrá como 'Chiste del día' en orden.",
+    "content": "Cualquier código propio que no hayas mirado en los últimos 6 meses podría haber sido escrito por otra persona. (v157)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 159,
-    "content": "Chiste Diario Exclusivo #59. Este chiste solo saldrá como 'Chiste del día' en orden.",
+    "content": "Python es como un ninja: te mata antes de que te des cuenta de que has identado mal. (v158)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 160,
-    "content": "Chiste Diario Exclusivo #60. Este chiste solo saldrá como 'Chiste del día' en orden.",
+    "content": "Git pull, git commit, git push, git pray. (v159)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 161,
-    "content": "Chiste Diario Exclusivo #61. Este chiste solo saldrá como 'Chiste del día' en orden.",
+    "content": "Hay 10 tipos de personas en el mundo: los que entienden binario y los que no. (v160)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 162,
-    "content": "Chiste Diario Exclusivo #62. Este chiste solo saldrá como 'Chiste del día' en orden.",
+    "content": "¿Por qué los programadores prefieren la oscuridad? Porque los bugs se atraen por la luz. (v161)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 163,
-    "content": "Chiste Diario Exclusivo #63. Este chiste solo saldrá como 'Chiste del día' en orden.",
+    "content": "Un programador va al supermercado y su mujer le dice: 'Trae una barra de pan, y si hay huevos, trae doce'. El programador vuelve con doce barras de pan. (v162)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 164,
-    "content": "Chiste Diario Exclusivo #64. Este chiste solo saldrá como 'Chiste del día' en orden.",
+    "content": "El código de mi proyecto es como un chiste: si tienes que explicarlo, es que es malo. (v163)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 165,
-    "content": "Chiste Diario Exclusivo #65. Este chiste solo saldrá como 'Chiste del día' en orden.",
+    "content": "¿Cuál es el objeto orientado más famoso? El puntero láser. (v164)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 166,
-    "content": "Chiste Diario Exclusivo #66. Este chiste solo saldrá como 'Chiste del día' en orden.",
+    "content": "En mi máquina funciona. - El grito de guerra del desarrollador. (v165)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 167,
-    "content": "Chiste Diario Exclusivo #67. Este chiste solo saldrá como 'Chiste del día' en orden.",
+    "content": "¿Por qué el desarrollador se quedó pobre? Porque usó todo su caché. (v166)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 168,
-    "content": "Chiste Diario Exclusivo #68. Este chiste solo saldrá como 'Chiste del día' en orden.",
+    "content": "Un desarrollador web entra a un restaurante, pide 1 hamburguesa, 0 hamburguesas, 9999999 hamburguesas, -1 hamburguesa, una hamburguesa de texto. Todo funciona. El primer cliente entra y pide dónde está el baño. El restaurante explota. (v167)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 169,
-    "content": "Chiste Diario Exclusivo #69. Este chiste solo saldrá como 'Chiste del día' en orden.",
+    "content": "Hardware es aquello a lo que le puedes dar patadas. Software es aquello a lo que solo le puedes insultar. (v168)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 170,
-    "content": "Chiste Diario Exclusivo #70. Este chiste solo saldrá como 'Chiste del día' en orden.",
+    "content": "SQL entra en un bar, se acerca a dos mesas y pregunta: '¿Me puedo unir?' (v169)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 171,
-    "content": "Chiste Diario Exclusivo #71. Este chiste solo saldrá como 'Chiste del día' en orden.",
+    "content": "¿Qué es un terapeuta? 1024 gigapeutas. (v170)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 172,
-    "content": "Chiste Diario Exclusivo #72. Este chiste solo saldrá como 'Chiste del día' en orden.",
+    "content": "El optimista dice que el vaso está medio lleno. El pesimista que está medio vacío. El programador dice que el vaso es el doble de grande de lo necesario. (v171)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 173,
-    "content": "Chiste Diario Exclusivo #73. Este chiste solo saldrá como 'Chiste del día' en orden.",
+    "content": "Hay dos cosas muy difíciles en informática: invalidar cachés, nombrar cosas, y los errores de off-by-one. (v172)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 174,
-    "content": "Chiste Diario Exclusivo #74. Este chiste solo saldrá como 'Chiste del día' en orden.",
+    "content": "Un buen programador es alguien que siempre mira a ambos lados antes de cruzar una calle de un solo sentido. (v173)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 175,
-    "content": "Chiste Diario Exclusivo #75. Este chiste solo saldrá como 'Chiste del día' en orden.",
+    "content": "La depuración es como ser el detective en una película de crímenes donde también eres el asesino. (v174)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 176,
-    "content": "Chiste Diario Exclusivo #76. Este chiste solo saldrá como 'Chiste del día' en orden.",
+    "content": "Si la programación orientada a objetos es el estándar, la programación orientada a excepciones es la realidad. (v175)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 177,
-    "content": "Chiste Diario Exclusivo #77. Este chiste solo saldrá como 'Chiste del día' en orden.",
+    "content": "¿Cuántos programadores hacen falta para cambiar una bombilla? Ninguno, es un problema de hardware. (v176)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 178,
-    "content": "Chiste Diario Exclusivo #78. Este chiste solo saldrá como 'Chiste del día' en orden.",
+    "content": "Cualquier código propio que no hayas mirado en los últimos 6 meses podría haber sido escrito por otra persona. (v177)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 179,
-    "content": "Chiste Diario Exclusivo #79. Este chiste solo saldrá como 'Chiste del día' en orden.",
+    "content": "Python es como un ninja: te mata antes de que te des cuenta de que has identado mal. (v178)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 180,
-    "content": "Chiste Diario Exclusivo #80. Este chiste solo saldrá como 'Chiste del día' en orden.",
+    "content": "Git pull, git commit, git push, git pray. (v179)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 181,
-    "content": "Chiste Diario Exclusivo #81. Este chiste solo saldrá como 'Chiste del día' en orden.",
+    "content": "Hay 10 tipos de personas en el mundo: los que entienden binario y los que no. (v180)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 182,
-    "content": "Chiste Diario Exclusivo #82. Este chiste solo saldrá como 'Chiste del día' en orden.",
+    "content": "¿Por qué los programadores prefieren la oscuridad? Porque los bugs se atraen por la luz. (v181)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 183,
-    "content": "Chiste Diario Exclusivo #83. Este chiste solo saldrá como 'Chiste del día' en orden.",
+    "content": "Un programador va al supermercado y su mujer le dice: 'Trae una barra de pan, y si hay huevos, trae doce'. El programador vuelve con doce barras de pan. (v182)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 184,
-    "content": "Chiste Diario Exclusivo #84. Este chiste solo saldrá como 'Chiste del día' en orden.",
+    "content": "El código de mi proyecto es como un chiste: si tienes que explicarlo, es que es malo. (v183)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 185,
-    "content": "Chiste Diario Exclusivo #85. Este chiste solo saldrá como 'Chiste del día' en orden.",
+    "content": "¿Cuál es el objeto orientado más famoso? El puntero láser. (v184)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 186,
-    "content": "Chiste Diario Exclusivo #86. Este chiste solo saldrá como 'Chiste del día' en orden.",
+    "content": "En mi máquina funciona. - El grito de guerra del desarrollador. (v185)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 187,
-    "content": "Chiste Diario Exclusivo #87. Este chiste solo saldrá como 'Chiste del día' en orden.",
+    "content": "¿Por qué el desarrollador se quedó pobre? Porque usó todo su caché. (v186)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 188,
-    "content": "Chiste Diario Exclusivo #88. Este chiste solo saldrá como 'Chiste del día' en orden.",
+    "content": "Un desarrollador web entra a un restaurante, pide 1 hamburguesa, 0 hamburguesas, 9999999 hamburguesas, -1 hamburguesa, una hamburguesa de texto. Todo funciona. El primer cliente entra y pide dónde está el baño. El restaurante explota. (v187)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 189,
-    "content": "Chiste Diario Exclusivo #89. Este chiste solo saldrá como 'Chiste del día' en orden.",
+    "content": "Hardware es aquello a lo que le puedes dar patadas. Software es aquello a lo que solo le puedes insultar. (v188)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 190,
-    "content": "Chiste Diario Exclusivo #90. Este chiste solo saldrá como 'Chiste del día' en orden.",
+    "content": "SQL entra en un bar, se acerca a dos mesas y pregunta: '¿Me puedo unir?' (v189)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 191,
-    "content": "Chiste Diario Exclusivo #91. Este chiste solo saldrá como 'Chiste del día' en orden.",
+    "content": "¿Qué es un terapeuta? 1024 gigapeutas. (v190)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 192,
-    "content": "Chiste Diario Exclusivo #92. Este chiste solo saldrá como 'Chiste del día' en orden.",
+    "content": "El optimista dice que el vaso está medio lleno. El pesimista que está medio vacío. El programador dice que el vaso es el doble de grande de lo necesario. (v191)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 193,
-    "content": "Chiste Diario Exclusivo #93. Este chiste solo saldrá como 'Chiste del día' en orden.",
+    "content": "Hay dos cosas muy difíciles en informática: invalidar cachés, nombrar cosas, y los errores de off-by-one. (v192)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 194,
-    "content": "Chiste Diario Exclusivo #94. Este chiste solo saldrá como 'Chiste del día' en orden.",
+    "content": "Un buen programador es alguien que siempre mira a ambos lados antes de cruzar una calle de un solo sentido. (v193)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 195,
-    "content": "Chiste Diario Exclusivo #95. Este chiste solo saldrá como 'Chiste del día' en orden.",
+    "content": "La depuración es como ser el detective en una película de crímenes donde también eres el asesino. (v194)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 196,
-    "content": "Chiste Diario Exclusivo #96. Este chiste solo saldrá como 'Chiste del día' en orden.",
+    "content": "Si la programación orientada a objetos es el estándar, la programación orientada a excepciones es la realidad. (v195)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 197,
-    "content": "Chiste Diario Exclusivo #97. Este chiste solo saldrá como 'Chiste del día' en orden.",
+    "content": "¿Cuántos programadores hacen falta para cambiar una bombilla? Ninguno, es un problema de hardware. (v196)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 198,
-    "content": "Chiste Diario Exclusivo #98. Este chiste solo saldrá como 'Chiste del día' en orden.",
+    "content": "Cualquier código propio que no hayas mirado en los últimos 6 meses podría haber sido escrito por otra persona. (v197)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 199,
-    "content": "Chiste Diario Exclusivo #99. Este chiste solo saldrá como 'Chiste del día' en orden.",
+    "content": "Python es como un ninja: te mata antes de que te des cuenta de que has identado mal. (v198)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 200,
-    "content": "Chiste Diario Exclusivo #100. Este chiste solo saldrá como 'Chiste del día' en orden.",
+    "content": "Git pull, git commit, git push, git pray. (v199)",
     "type": "STANDARD",
+    "tags": [
+      "Informática",
+      "Humor Geek Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 201,
-    "content": "Viñeta Política Aleatoria #1. ¡Ideal para reír por no llorar!",
+    "content": "— ¿Qué tal va la campaña electoral? \n— No nos podemos quejar.\n— ¿Tan bien os va?\n— No, es que nos han prohibido quejarnos. [Edición #0]",
     "type": "POLITICAL",
-    "title": "VIÑETA ALEATORIA 1",
+    "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
+    "tags": [
+      "Congreso",
+      "Política"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 202,
-    "content": "Viñeta Política Aleatoria #2. ¡Ideal para reír por no llorar!",
+    "content": "Un político le dice a otro: \n— Oye, ¿tú qué vas a hacer con el presupuesto de educación?\n— ¿Educación? No me suena ese ministerio, ¿está en el área de protocolo? [Edición #1]",
     "type": "POLITICAL",
-    "title": "VIÑETA ALEATORIA 2",
+    "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
+    "tags": [
+      "Congreso",
+      "Política"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 203,
-    "content": "Viñeta Política Aleatoria #3. ¡Ideal para reír por no llorar!",
+    "content": "— Señor ministro, ¿por qué no baja los impuestos?\n— Porque entonces la gente tendría dinero y empezaría a pensar por sí misma, y eso es muy peligroso. [Edición #2]",
     "type": "POLITICAL",
-    "title": "VIÑETA ALEATORIA 3",
+    "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
+    "tags": [
+      "Congreso",
+      "Política"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 204,
-    "content": "Viñeta Política Aleatoria #4. ¡Ideal para reír por no llorar!",
+    "content": "— Papá, de mayor quiero ser político.\n— ¿Estás loco, hijo? ¿Te has vuelto honesto e incapaz de mentir?\n— No, papá, que quiero ser de los normales. [Edición #3]",
     "type": "POLITICAL",
-    "title": "VIÑETA ALEATORIA 4",
+    "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
+    "tags": [
+      "Congreso",
+      "Política"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 205,
-    "content": "Viñeta Política Aleatoria #5. ¡Ideal para reír por no llorar!",
+    "content": "— Señor Ministro, las encuestas dicen que el 80% de los ciudadanos está en contra de su gestión.\n— No pasa nada, cambiaremos al 80% de los ciudadanos. [Edición #4]",
     "type": "POLITICAL",
-    "title": "VIÑETA ALEATORIA 5",
+    "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
+    "tags": [
+      "Congreso",
+      "Política"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 206,
-    "content": "Viñeta Política Aleatoria #6. ¡Ideal para reír por no llorar!",
+    "content": "— Señorías, hemos erradicado por completo la corrupción.\n— ¡Un momento! ¿Y ese fajo de billetes?\n— Ah, es que entra en vigor el mes que viene. [Edición #5]",
     "type": "POLITICAL",
-    "title": "VIÑETA ALEATORIA 6",
+    "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
+    "tags": [
+      "Congreso",
+      "Política"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 207,
-    "content": "Viñeta Política Aleatoria #7. ¡Ideal para reír por no llorar!",
+    "content": "— Hemos diseñado un plan estratégico infalible para inaugurar el nuevo carril bici.\n— ¿Y cuándo empiezan las obras?\n— ¿Obras? Solo tenemos presupuesto para la maqueta. [Edición #6]",
     "type": "POLITICAL",
-    "title": "VIÑETA ALEATORIA 7",
+    "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
+    "tags": [
+      "Congreso",
+      "Política"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 208,
-    "content": "Viñeta Política Aleatoria #8. ¡Ideal para reír por no llorar!",
+    "content": "En el Congreso: \n— Mi partido promete que no descansaremos hasta acabar con el paro.\n— ¡Llevan ustedes 20 años sin descansar y el paro sigue igual! [Edición #7]",
     "type": "POLITICAL",
-    "title": "VIÑETA ALEATORIA 8",
+    "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
+    "tags": [
+      "Congreso",
+      "Política"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 209,
-    "content": "Viñeta Política Aleatoria #9. ¡Ideal para reír por no llorar!",
+    "content": "— Señor Presidente, el pueblo pide a gritos transparencia.\n— Perfecto, quiten las cortinas de la Moncloa. [Edición #8]",
     "type": "POLITICAL",
-    "title": "VIÑETA ALEATORIA 9",
+    "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
+    "tags": [
+      "Congreso",
+      "Política"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 210,
-    "content": "Viñeta Política Aleatoria #10. ¡Ideal para reír por no llorar!",
+    "content": "— ¿Cuál es la diferencia entre un político y un ladrón?\n— Que el político te roba legalmente, te cobra IVA por ello y encima quiere que le votes. [Edición #9]",
     "type": "POLITICAL",
-    "title": "VIÑETA ALEATORIA 10",
+    "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
+    "tags": [
+      "Congreso",
+      "Política"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 211,
-    "content": "Viñeta Política Aleatoria #11. ¡Ideal para reír por no llorar!",
+    "content": "Declaraciones oficiales: 'La crisis económica es un mito. De hecho, nuestros políticos son más ricos que nunca.' [Edición #10]",
     "type": "POLITICAL",
-    "title": "VIÑETA ALEATORIA 11",
+    "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
+    "tags": [
+      "Congreso",
+      "Política"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 212,
-    "content": "Viñeta Política Aleatoria #12. ¡Ideal para reír por no llorar!",
+    "content": "— ¿Qué haces leyendo el programa electoral de hace 4 años?\n— Estoy leyendo un libro de fantasía épica. [Edición #11]",
     "type": "POLITICAL",
-    "title": "VIÑETA ALEATORIA 12",
+    "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
+    "tags": [
+      "Congreso",
+      "Política"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 213,
-    "content": "Viñeta Política Aleatoria #13. ¡Ideal para reír por no llorar!",
+    "content": "El único lugar donde se puede encontrar un político que cumple sus promesas es en la sección de ciencia ficción de la biblioteca. [Edición #12]",
     "type": "POLITICAL",
-    "title": "VIÑETA ALEATORIA 13",
+    "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
+    "tags": [
+      "Congreso",
+      "Política"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 214,
-    "content": "Viñeta Política Aleatoria #14. ¡Ideal para reír por no llorar!",
+    "content": "— Oye, ¿tú de qué partido eres?\n— Yo soy del partido de los que llegan a fin de mes de milagro. [Edición #13]",
     "type": "POLITICAL",
-    "title": "VIÑETA ALEATORIA 14",
+    "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
+    "tags": [
+      "Congreso",
+      "Política"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 215,
-    "content": "Viñeta Política Aleatoria #15. ¡Ideal para reír por no llorar!",
+    "content": "— Hemos descubierto un agujero negro en las arcas del Estado.\n— ¿Y qué van a hacer?\n— Echarle la culpa a la herencia recibida, como siempre. [Edición #14]",
     "type": "POLITICAL",
-    "title": "VIÑETA ALEATORIA 15",
+    "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
+    "tags": [
+      "Congreso",
+      "Política"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 216,
-    "content": "Viñeta Política Aleatoria #16. ¡Ideal para reír por no llorar!",
+    "content": "La política es el arte de buscar problemas, encontrarlos, hacer un diagnóstico falso y aplicar los remedios equivocados. [Edición #15]",
     "type": "POLITICAL",
-    "title": "VIÑETA ALEATORIA 16",
+    "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
+    "tags": [
+      "Congreso",
+      "Política"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 217,
-    "content": "Viñeta Política Aleatoria #17. ¡Ideal para reír por no llorar!",
+    "content": "— Hemos aprobado una nueva ley de sanidad.\n— ¿Y en qué consiste?\n— En que a partir de ahora curarse es un artículo de lujo. [Edición #16]",
     "type": "POLITICAL",
-    "title": "VIÑETA ALEATORIA 17",
+    "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
+    "tags": [
+      "Congreso",
+      "Política"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 218,
-    "content": "Viñeta Política Aleatoria #18. ¡Ideal para reír por no llorar!",
+    "content": "— ¿Sabe cuál es el colmo de un político corrupto?\n— Que no le alcance el dinero negro para pagar la fianza. [Edición #17]",
     "type": "POLITICAL",
-    "title": "VIÑETA ALEATORIA 18",
+    "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
+    "tags": [
+      "Congreso",
+      "Política"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 219,
-    "content": "Viñeta Política Aleatoria #19. ¡Ideal para reír por no llorar!",
+    "content": "— El presidente ha dicho que hay luz al final del túnel.\n— Sí, es el tren de la inflación que viene de frente. [Edición #18]",
     "type": "POLITICAL",
-    "title": "VIÑETA ALEATORIA 19",
+    "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
+    "tags": [
+      "Congreso",
+      "Política"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 220,
-    "content": "Viñeta Política Aleatoria #20. ¡Ideal para reír por no llorar!",
+    "content": "El político es una persona capaz de predecir lo que va a pasar mañana, el mes próximo y el año que viene; y de explicar después por qué no ocurrió. [Edición #19]",
     "type": "POLITICAL",
-    "title": "VIÑETA ALEATORIA 20",
+    "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
+    "tags": [
+      "Congreso",
+      "Política"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 221,
-    "content": "Viñeta Política Aleatoria #21. ¡Ideal para reír por no llorar!",
+    "content": "— ¿Qué tal va la campaña electoral? \n— No nos podemos quejar.\n— ¿Tan bien os va?\n— No, es que nos han prohibido quejarnos. [Edición #20]",
     "type": "POLITICAL",
-    "title": "VIÑETA ALEATORIA 21",
+    "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
+    "tags": [
+      "Congreso",
+      "Política"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 222,
-    "content": "Viñeta Política Aleatoria #22. ¡Ideal para reír por no llorar!",
+    "content": "Un político le dice a otro: \n— Oye, ¿tú qué vas a hacer con el presupuesto de educación?\n— ¿Educación? No me suena ese ministerio, ¿está en el área de protocolo? [Edición #21]",
     "type": "POLITICAL",
-    "title": "VIÑETA ALEATORIA 22",
+    "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
+    "tags": [
+      "Congreso",
+      "Política"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 223,
-    "content": "Viñeta Política Aleatoria #23. ¡Ideal para reír por no llorar!",
+    "content": "— Señor ministro, ¿por qué no baja los impuestos?\n— Porque entonces la gente tendría dinero y empezaría a pensar por sí misma, y eso es muy peligroso. [Edición #22]",
     "type": "POLITICAL",
-    "title": "VIÑETA ALEATORIA 23",
+    "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
+    "tags": [
+      "Congreso",
+      "Política"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 224,
-    "content": "Viñeta Política Aleatoria #24. ¡Ideal para reír por no llorar!",
+    "content": "— Papá, de mayor quiero ser político.\n— ¿Estás loco, hijo? ¿Te has vuelto honesto e incapaz de mentir?\n— No, papá, que quiero ser de los normales. [Edición #23]",
     "type": "POLITICAL",
-    "title": "VIÑETA ALEATORIA 24",
+    "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
+    "tags": [
+      "Congreso",
+      "Política"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 225,
-    "content": "Viñeta Política Aleatoria #25. ¡Ideal para reír por no llorar!",
+    "content": "— Señor Ministro, las encuestas dicen que el 80% de los ciudadanos está en contra de su gestión.\n— No pasa nada, cambiaremos al 80% de los ciudadanos. [Edición #24]",
     "type": "POLITICAL",
-    "title": "VIÑETA ALEATORIA 25",
+    "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
+    "tags": [
+      "Congreso",
+      "Política"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 226,
-    "content": "Viñeta Política Aleatoria #26. ¡Ideal para reír por no llorar!",
+    "content": "— Señorías, hemos erradicado por completo la corrupción.\n— ¡Un momento! ¿Y ese fajo de billetes?\n— Ah, es que entra en vigor el mes que viene. [Edición #25]",
     "type": "POLITICAL",
-    "title": "VIÑETA ALEATORIA 26",
+    "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
+    "tags": [
+      "Congreso",
+      "Política"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 227,
-    "content": "Viñeta Política Aleatoria #27. ¡Ideal para reír por no llorar!",
+    "content": "— Hemos diseñado un plan estratégico infalible para inaugurar el nuevo carril bici.\n— ¿Y cuándo empiezan las obras?\n— ¿Obras? Solo tenemos presupuesto para la maqueta. [Edición #26]",
     "type": "POLITICAL",
-    "title": "VIÑETA ALEATORIA 27",
+    "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
+    "tags": [
+      "Congreso",
+      "Política"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 228,
-    "content": "Viñeta Política Aleatoria #28. ¡Ideal para reír por no llorar!",
+    "content": "En el Congreso: \n— Mi partido promete que no descansaremos hasta acabar con el paro.\n— ¡Llevan ustedes 20 años sin descansar y el paro sigue igual! [Edición #27]",
     "type": "POLITICAL",
-    "title": "VIÑETA ALEATORIA 28",
+    "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
+    "tags": [
+      "Congreso",
+      "Política"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 229,
-    "content": "Viñeta Política Aleatoria #29. ¡Ideal para reír por no llorar!",
+    "content": "— Señor Presidente, el pueblo pide a gritos transparencia.\n— Perfecto, quiten las cortinas de la Moncloa. [Edición #28]",
     "type": "POLITICAL",
-    "title": "VIÑETA ALEATORIA 29",
+    "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
+    "tags": [
+      "Congreso",
+      "Política"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 230,
-    "content": "Viñeta Política Aleatoria #30. ¡Ideal para reír por no llorar!",
+    "content": "— ¿Cuál es la diferencia entre un político y un ladrón?\n— Que el político te roba legalmente, te cobra IVA por ello y encima quiere que le votes. [Edición #29]",
     "type": "POLITICAL",
-    "title": "VIÑETA ALEATORIA 30",
+    "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
+    "tags": [
+      "Congreso",
+      "Política"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 231,
-    "content": "Viñeta Política Aleatoria #31. ¡Ideal para reír por no llorar!",
+    "content": "Declaraciones oficiales: 'La crisis económica es un mito. De hecho, nuestros políticos son más ricos que nunca.' [Edición #30]",
     "type": "POLITICAL",
-    "title": "VIÑETA ALEATORIA 31",
+    "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
+    "tags": [
+      "Congreso",
+      "Política"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 232,
-    "content": "Viñeta Política Aleatoria #32. ¡Ideal para reír por no llorar!",
+    "content": "— ¿Qué haces leyendo el programa electoral de hace 4 años?\n— Estoy leyendo un libro de fantasía épica. [Edición #31]",
     "type": "POLITICAL",
-    "title": "VIÑETA ALEATORIA 32",
+    "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
+    "tags": [
+      "Congreso",
+      "Política"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 233,
-    "content": "Viñeta Política Aleatoria #33. ¡Ideal para reír por no llorar!",
+    "content": "El único lugar donde se puede encontrar un político que cumple sus promesas es en la sección de ciencia ficción de la biblioteca. [Edición #32]",
     "type": "POLITICAL",
-    "title": "VIÑETA ALEATORIA 33",
+    "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
+    "tags": [
+      "Congreso",
+      "Política"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 234,
-    "content": "Viñeta Política Aleatoria #34. ¡Ideal para reír por no llorar!",
+    "content": "— Oye, ¿tú de qué partido eres?\n— Yo soy del partido de los que llegan a fin de mes de milagro. [Edición #33]",
     "type": "POLITICAL",
-    "title": "VIÑETA ALEATORIA 34",
+    "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
+    "tags": [
+      "Congreso",
+      "Política"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 235,
-    "content": "Viñeta Política Aleatoria #35. ¡Ideal para reír por no llorar!",
+    "content": "— Hemos descubierto un agujero negro en las arcas del Estado.\n— ¿Y qué van a hacer?\n— Echarle la culpa a la herencia recibida, como siempre. [Edición #34]",
     "type": "POLITICAL",
-    "title": "VIÑETA ALEATORIA 35",
+    "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
+    "tags": [
+      "Congreso",
+      "Política"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 236,
-    "content": "Viñeta Política Aleatoria #36. ¡Ideal para reír por no llorar!",
+    "content": "La política es el arte de buscar problemas, encontrarlos, hacer un diagnóstico falso y aplicar los remedios equivocados. [Edición #35]",
     "type": "POLITICAL",
-    "title": "VIÑETA ALEATORIA 36",
+    "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
+    "tags": [
+      "Congreso",
+      "Política"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 237,
-    "content": "Viñeta Política Aleatoria #37. ¡Ideal para reír por no llorar!",
+    "content": "— Hemos aprobado una nueva ley de sanidad.\n— ¿Y en qué consiste?\n— En que a partir de ahora curarse es un artículo de lujo. [Edición #36]",
     "type": "POLITICAL",
-    "title": "VIÑETA ALEATORIA 37",
+    "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
+    "tags": [
+      "Congreso",
+      "Política"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 238,
-    "content": "Viñeta Política Aleatoria #38. ¡Ideal para reír por no llorar!",
+    "content": "— ¿Sabe cuál es el colmo de un político corrupto?\n— Que no le alcance el dinero negro para pagar la fianza. [Edición #37]",
     "type": "POLITICAL",
-    "title": "VIÑETA ALEATORIA 38",
+    "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
+    "tags": [
+      "Congreso",
+      "Política"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 239,
-    "content": "Viñeta Política Aleatoria #39. ¡Ideal para reír por no llorar!",
+    "content": "— El presidente ha dicho que hay luz al final del túnel.\n— Sí, es el tren de la inflación que viene de frente. [Edición #38]",
     "type": "POLITICAL",
-    "title": "VIÑETA ALEATORIA 39",
+    "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
+    "tags": [
+      "Congreso",
+      "Política"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 240,
-    "content": "Viñeta Política Aleatoria #40. ¡Ideal para reír por no llorar!",
+    "content": "El político es una persona capaz de predecir lo que va a pasar mañana, el mes próximo y el año que viene; y de explicar después por qué no ocurrió. [Edición #39]",
     "type": "POLITICAL",
-    "title": "VIÑETA ALEATORIA 40",
+    "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
+    "tags": [
+      "Congreso",
+      "Política"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 241,
-    "content": "Viñeta Política Aleatoria #41. ¡Ideal para reír por no llorar!",
+    "content": "— ¿Qué tal va la campaña electoral? \n— No nos podemos quejar.\n— ¿Tan bien os va?\n— No, es que nos han prohibido quejarnos. [Edición #40]",
     "type": "POLITICAL",
-    "title": "VIÑETA ALEATORIA 41",
+    "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
+    "tags": [
+      "Congreso",
+      "Política"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 242,
-    "content": "Viñeta Política Aleatoria #42. ¡Ideal para reír por no llorar!",
+    "content": "Un político le dice a otro: \n— Oye, ¿tú qué vas a hacer con el presupuesto de educación?\n— ¿Educación? No me suena ese ministerio, ¿está en el área de protocolo? [Edición #41]",
     "type": "POLITICAL",
-    "title": "VIÑETA ALEATORIA 42",
+    "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
+    "tags": [
+      "Congreso",
+      "Política"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 243,
-    "content": "Viñeta Política Aleatoria #43. ¡Ideal para reír por no llorar!",
+    "content": "— Señor ministro, ¿por qué no baja los impuestos?\n— Porque entonces la gente tendría dinero y empezaría a pensar por sí misma, y eso es muy peligroso. [Edición #42]",
     "type": "POLITICAL",
-    "title": "VIÑETA ALEATORIA 43",
+    "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
+    "tags": [
+      "Congreso",
+      "Política"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 244,
-    "content": "Viñeta Política Aleatoria #44. ¡Ideal para reír por no llorar!",
+    "content": "— Papá, de mayor quiero ser político.\n— ¿Estás loco, hijo? ¿Te has vuelto honesto e incapaz de mentir?\n— No, papá, que quiero ser de los normales. [Edición #43]",
     "type": "POLITICAL",
-    "title": "VIÑETA ALEATORIA 44",
+    "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
+    "tags": [
+      "Congreso",
+      "Política"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 245,
-    "content": "Viñeta Política Aleatoria #45. ¡Ideal para reír por no llorar!",
+    "content": "— Señor Ministro, las encuestas dicen que el 80% de los ciudadanos está en contra de su gestión.\n— No pasa nada, cambiaremos al 80% de los ciudadanos. [Edición #44]",
     "type": "POLITICAL",
-    "title": "VIÑETA ALEATORIA 45",
+    "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
+    "tags": [
+      "Congreso",
+      "Política"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 246,
-    "content": "Viñeta Política Aleatoria #46. ¡Ideal para reír por no llorar!",
+    "content": "— Señorías, hemos erradicado por completo la corrupción.\n— ¡Un momento! ¿Y ese fajo de billetes?\n— Ah, es que entra en vigor el mes que viene. [Edición #45]",
     "type": "POLITICAL",
-    "title": "VIÑETA ALEATORIA 46",
+    "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
+    "tags": [
+      "Congreso",
+      "Política"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 247,
-    "content": "Viñeta Política Aleatoria #47. ¡Ideal para reír por no llorar!",
+    "content": "— Hemos diseñado un plan estratégico infalible para inaugurar el nuevo carril bici.\n— ¿Y cuándo empiezan las obras?\n— ¿Obras? Solo tenemos presupuesto para la maqueta. [Edición #46]",
     "type": "POLITICAL",
-    "title": "VIÑETA ALEATORIA 47",
+    "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
+    "tags": [
+      "Congreso",
+      "Política"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 248,
-    "content": "Viñeta Política Aleatoria #48. ¡Ideal para reír por no llorar!",
+    "content": "En el Congreso: \n— Mi partido promete que no descansaremos hasta acabar con el paro.\n— ¡Llevan ustedes 20 años sin descansar y el paro sigue igual! [Edición #47]",
     "type": "POLITICAL",
-    "title": "VIÑETA ALEATORIA 48",
+    "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
+    "tags": [
+      "Congreso",
+      "Política"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 249,
-    "content": "Viñeta Política Aleatoria #49. ¡Ideal para reír por no llorar!",
+    "content": "— Señor Presidente, el pueblo pide a gritos transparencia.\n— Perfecto, quiten las cortinas de la Moncloa. [Edición #48]",
     "type": "POLITICAL",
-    "title": "VIÑETA ALEATORIA 49",
+    "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
+    "tags": [
+      "Congreso",
+      "Política"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 250,
-    "content": "Viñeta Política Aleatoria #50. ¡Ideal para reír por no llorar!",
+    "content": "— ¿Cuál es la diferencia entre un político y un ladrón?\n— Que el político te roba legalmente, te cobra IVA por ello y encima quiere que le votes. [Edición #49]",
     "type": "POLITICAL",
-    "title": "VIÑETA ALEATORIA 50",
+    "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
+    "tags": [
+      "Congreso",
+      "Política"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 251,
-    "content": "Viñeta Política Aleatoria #51. ¡Ideal para reír por no llorar!",
+    "content": "Declaraciones oficiales: 'La crisis económica es un mito. De hecho, nuestros políticos son más ricos que nunca.' [Edición #50]",
     "type": "POLITICAL",
-    "title": "VIÑETA ALEATORIA 51",
+    "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
+    "tags": [
+      "Congreso",
+      "Política"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 252,
-    "content": "Viñeta Política Aleatoria #52. ¡Ideal para reír por no llorar!",
+    "content": "— ¿Qué haces leyendo el programa electoral de hace 4 años?\n— Estoy leyendo un libro de fantasía épica. [Edición #51]",
     "type": "POLITICAL",
-    "title": "VIÑETA ALEATORIA 52",
+    "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
+    "tags": [
+      "Congreso",
+      "Política"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 253,
-    "content": "Viñeta Política Aleatoria #53. ¡Ideal para reír por no llorar!",
+    "content": "El único lugar donde se puede encontrar un político que cumple sus promesas es en la sección de ciencia ficción de la biblioteca. [Edición #52]",
     "type": "POLITICAL",
-    "title": "VIÑETA ALEATORIA 53",
+    "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
+    "tags": [
+      "Congreso",
+      "Política"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 254,
-    "content": "Viñeta Política Aleatoria #54. ¡Ideal para reír por no llorar!",
+    "content": "— Oye, ¿tú de qué partido eres?\n— Yo soy del partido de los que llegan a fin de mes de milagro. [Edición #53]",
     "type": "POLITICAL",
-    "title": "VIÑETA ALEATORIA 54",
+    "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
+    "tags": [
+      "Congreso",
+      "Política"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 255,
-    "content": "Viñeta Política Aleatoria #55. ¡Ideal para reír por no llorar!",
+    "content": "— Hemos descubierto un agujero negro en las arcas del Estado.\n— ¿Y qué van a hacer?\n— Echarle la culpa a la herencia recibida, como siempre. [Edición #54]",
     "type": "POLITICAL",
-    "title": "VIÑETA ALEATORIA 55",
+    "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
+    "tags": [
+      "Congreso",
+      "Política"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 256,
-    "content": "Viñeta Política Aleatoria #56. ¡Ideal para reír por no llorar!",
+    "content": "La política es el arte de buscar problemas, encontrarlos, hacer un diagnóstico falso y aplicar los remedios equivocados. [Edición #55]",
     "type": "POLITICAL",
-    "title": "VIÑETA ALEATORIA 56",
+    "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
+    "tags": [
+      "Congreso",
+      "Política"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 257,
-    "content": "Viñeta Política Aleatoria #57. ¡Ideal para reír por no llorar!",
+    "content": "— Hemos aprobado una nueva ley de sanidad.\n— ¿Y en qué consiste?\n— En que a partir de ahora curarse es un artículo de lujo. [Edición #56]",
     "type": "POLITICAL",
-    "title": "VIÑETA ALEATORIA 57",
+    "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
+    "tags": [
+      "Congreso",
+      "Política"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 258,
-    "content": "Viñeta Política Aleatoria #58. ¡Ideal para reír por no llorar!",
+    "content": "— ¿Sabe cuál es el colmo de un político corrupto?\n— Que no le alcance el dinero negro para pagar la fianza. [Edición #57]",
     "type": "POLITICAL",
-    "title": "VIÑETA ALEATORIA 58",
+    "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
+    "tags": [
+      "Congreso",
+      "Política"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 259,
-    "content": "Viñeta Política Aleatoria #59. ¡Ideal para reír por no llorar!",
+    "content": "— El presidente ha dicho que hay luz al final del túnel.\n— Sí, es el tren de la inflación que viene de frente. [Edición #58]",
     "type": "POLITICAL",
-    "title": "VIÑETA ALEATORIA 59",
+    "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
+    "tags": [
+      "Congreso",
+      "Política"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 260,
-    "content": "Viñeta Política Aleatoria #60. ¡Ideal para reír por no llorar!",
+    "content": "El político es una persona capaz de predecir lo que va a pasar mañana, el mes próximo y el año que viene; y de explicar después por qué no ocurrió. [Edición #59]",
     "type": "POLITICAL",
-    "title": "VIÑETA ALEATORIA 60",
+    "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
+    "tags": [
+      "Congreso",
+      "Política"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 261,
-    "content": "Viñeta Política Aleatoria #61. ¡Ideal para reír por no llorar!",
+    "content": "— ¿Qué tal va la campaña electoral? \n— No nos podemos quejar.\n— ¿Tan bien os va?\n— No, es que nos han prohibido quejarnos. [Edición #60]",
     "type": "POLITICAL",
-    "title": "VIÑETA ALEATORIA 61",
+    "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
+    "tags": [
+      "Congreso",
+      "Política"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 262,
-    "content": "Viñeta Política Aleatoria #62. ¡Ideal para reír por no llorar!",
+    "content": "Un político le dice a otro: \n— Oye, ¿tú qué vas a hacer con el presupuesto de educación?\n— ¿Educación? No me suena ese ministerio, ¿está en el área de protocolo? [Edición #61]",
     "type": "POLITICAL",
-    "title": "VIÑETA ALEATORIA 62",
+    "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
+    "tags": [
+      "Congreso",
+      "Política"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 263,
-    "content": "Viñeta Política Aleatoria #63. ¡Ideal para reír por no llorar!",
+    "content": "— Señor ministro, ¿por qué no baja los impuestos?\n— Porque entonces la gente tendría dinero y empezaría a pensar por sí misma, y eso es muy peligroso. [Edición #62]",
     "type": "POLITICAL",
-    "title": "VIÑETA ALEATORIA 63",
+    "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
+    "tags": [
+      "Congreso",
+      "Política"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 264,
-    "content": "Viñeta Política Aleatoria #64. ¡Ideal para reír por no llorar!",
+    "content": "— Papá, de mayor quiero ser político.\n— ¿Estás loco, hijo? ¿Te has vuelto honesto e incapaz de mentir?\n— No, papá, que quiero ser de los normales. [Edición #63]",
     "type": "POLITICAL",
-    "title": "VIÑETA ALEATORIA 64",
+    "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
+    "tags": [
+      "Congreso",
+      "Política"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 265,
-    "content": "Viñeta Política Aleatoria #65. ¡Ideal para reír por no llorar!",
+    "content": "— Señor Ministro, las encuestas dicen que el 80% de los ciudadanos está en contra de su gestión.\n— No pasa nada, cambiaremos al 80% de los ciudadanos. [Edición #64]",
     "type": "POLITICAL",
-    "title": "VIÑETA ALEATORIA 65",
+    "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
+    "tags": [
+      "Congreso",
+      "Política"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 266,
-    "content": "Viñeta Política Aleatoria #66. ¡Ideal para reír por no llorar!",
+    "content": "— Señorías, hemos erradicado por completo la corrupción.\n— ¡Un momento! ¿Y ese fajo de billetes?\n— Ah, es que entra en vigor el mes que viene. [Edición #65]",
     "type": "POLITICAL",
-    "title": "VIÑETA ALEATORIA 66",
+    "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
+    "tags": [
+      "Congreso",
+      "Política"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 267,
-    "content": "Viñeta Política Aleatoria #67. ¡Ideal para reír por no llorar!",
+    "content": "— Hemos diseñado un plan estratégico infalible para inaugurar el nuevo carril bici.\n— ¿Y cuándo empiezan las obras?\n— ¿Obras? Solo tenemos presupuesto para la maqueta. [Edición #66]",
     "type": "POLITICAL",
-    "title": "VIÑETA ALEATORIA 67",
+    "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
+    "tags": [
+      "Congreso",
+      "Política"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 268,
-    "content": "Viñeta Política Aleatoria #68. ¡Ideal para reír por no llorar!",
+    "content": "En el Congreso: \n— Mi partido promete que no descansaremos hasta acabar con el paro.\n— ¡Llevan ustedes 20 años sin descansar y el paro sigue igual! [Edición #67]",
     "type": "POLITICAL",
-    "title": "VIÑETA ALEATORIA 68",
+    "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
+    "tags": [
+      "Congreso",
+      "Política"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 269,
-    "content": "Viñeta Política Aleatoria #69. ¡Ideal para reír por no llorar!",
+    "content": "— Señor Presidente, el pueblo pide a gritos transparencia.\n— Perfecto, quiten las cortinas de la Moncloa. [Edición #68]",
     "type": "POLITICAL",
-    "title": "VIÑETA ALEATORIA 69",
+    "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
+    "tags": [
+      "Congreso",
+      "Política"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 270,
-    "content": "Viñeta Política Aleatoria #70. ¡Ideal para reír por no llorar!",
+    "content": "— ¿Cuál es la diferencia entre un político y un ladrón?\n— Que el político te roba legalmente, te cobra IVA por ello y encima quiere que le votes. [Edición #69]",
     "type": "POLITICAL",
-    "title": "VIÑETA ALEATORIA 70",
+    "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
+    "tags": [
+      "Congreso",
+      "Política"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 271,
-    "content": "Viñeta Política Aleatoria #71. ¡Ideal para reír por no llorar!",
+    "content": "Declaraciones oficiales: 'La crisis económica es un mito. De hecho, nuestros políticos son más ricos que nunca.' [Edición #70]",
     "type": "POLITICAL",
-    "title": "VIÑETA ALEATORIA 71",
+    "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
+    "tags": [
+      "Congreso",
+      "Política"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 272,
-    "content": "Viñeta Política Aleatoria #72. ¡Ideal para reír por no llorar!",
+    "content": "— ¿Qué haces leyendo el programa electoral de hace 4 años?\n— Estoy leyendo un libro de fantasía épica. [Edición #71]",
     "type": "POLITICAL",
-    "title": "VIÑETA ALEATORIA 72",
+    "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
+    "tags": [
+      "Congreso",
+      "Política"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 273,
-    "content": "Viñeta Política Aleatoria #73. ¡Ideal para reír por no llorar!",
+    "content": "El único lugar donde se puede encontrar un político que cumple sus promesas es en la sección de ciencia ficción de la biblioteca. [Edición #72]",
     "type": "POLITICAL",
-    "title": "VIÑETA ALEATORIA 73",
+    "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
+    "tags": [
+      "Congreso",
+      "Política"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 274,
-    "content": "Viñeta Política Aleatoria #74. ¡Ideal para reír por no llorar!",
+    "content": "— Oye, ¿tú de qué partido eres?\n— Yo soy del partido de los que llegan a fin de mes de milagro. [Edición #73]",
     "type": "POLITICAL",
-    "title": "VIÑETA ALEATORIA 74",
+    "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
+    "tags": [
+      "Congreso",
+      "Política"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 275,
-    "content": "Viñeta Política Aleatoria #75. ¡Ideal para reír por no llorar!",
+    "content": "— Hemos descubierto un agujero negro en las arcas del Estado.\n— ¿Y qué van a hacer?\n— Echarle la culpa a la herencia recibida, como siempre. [Edición #74]",
     "type": "POLITICAL",
-    "title": "VIÑETA ALEATORIA 75",
+    "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
+    "tags": [
+      "Congreso",
+      "Política"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 276,
-    "content": "Viñeta Política Aleatoria #76. ¡Ideal para reír por no llorar!",
+    "content": "La política es el arte de buscar problemas, encontrarlos, hacer un diagnóstico falso y aplicar los remedios equivocados. [Edición #75]",
     "type": "POLITICAL",
-    "title": "VIÑETA ALEATORIA 76",
+    "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
+    "tags": [
+      "Congreso",
+      "Política"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 277,
-    "content": "Viñeta Política Aleatoria #77. ¡Ideal para reír por no llorar!",
+    "content": "— Hemos aprobado una nueva ley de sanidad.\n— ¿Y en qué consiste?\n— En que a partir de ahora curarse es un artículo de lujo. [Edición #76]",
     "type": "POLITICAL",
-    "title": "VIÑETA ALEATORIA 77",
+    "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
+    "tags": [
+      "Congreso",
+      "Política"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 278,
-    "content": "Viñeta Política Aleatoria #78. ¡Ideal para reír por no llorar!",
+    "content": "— ¿Sabe cuál es el colmo de un político corrupto?\n— Que no le alcance el dinero negro para pagar la fianza. [Edición #77]",
     "type": "POLITICAL",
-    "title": "VIÑETA ALEATORIA 78",
+    "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
+    "tags": [
+      "Congreso",
+      "Política"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 279,
-    "content": "Viñeta Política Aleatoria #79. ¡Ideal para reír por no llorar!",
+    "content": "— El presidente ha dicho que hay luz al final del túnel.\n— Sí, es el tren de la inflación que viene de frente. [Edición #78]",
     "type": "POLITICAL",
-    "title": "VIÑETA ALEATORIA 79",
+    "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
+    "tags": [
+      "Congreso",
+      "Política"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 280,
-    "content": "Viñeta Política Aleatoria #80. ¡Ideal para reír por no llorar!",
+    "content": "El político es una persona capaz de predecir lo que va a pasar mañana, el mes próximo y el año que viene; y de explicar después por qué no ocurrió. [Edición #79]",
     "type": "POLITICAL",
-    "title": "VIÑETA ALEATORIA 80",
+    "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
+    "tags": [
+      "Congreso",
+      "Política"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 281,
-    "content": "Viñeta Política Aleatoria #81. ¡Ideal para reír por no llorar!",
+    "content": "— ¿Qué tal va la campaña electoral? \n— No nos podemos quejar.\n— ¿Tan bien os va?\n— No, es que nos han prohibido quejarnos. [Edición #80]",
     "type": "POLITICAL",
-    "title": "VIÑETA ALEATORIA 81",
+    "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
+    "tags": [
+      "Congreso",
+      "Política"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 282,
-    "content": "Viñeta Política Aleatoria #82. ¡Ideal para reír por no llorar!",
+    "content": "Un político le dice a otro: \n— Oye, ¿tú qué vas a hacer con el presupuesto de educación?\n— ¿Educación? No me suena ese ministerio, ¿está en el área de protocolo? [Edición #81]",
     "type": "POLITICAL",
-    "title": "VIÑETA ALEATORIA 82",
+    "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
+    "tags": [
+      "Congreso",
+      "Política"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 283,
-    "content": "Viñeta Política Aleatoria #83. ¡Ideal para reír por no llorar!",
+    "content": "— Señor ministro, ¿por qué no baja los impuestos?\n— Porque entonces la gente tendría dinero y empezaría a pensar por sí misma, y eso es muy peligroso. [Edición #82]",
     "type": "POLITICAL",
-    "title": "VIÑETA ALEATORIA 83",
+    "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
+    "tags": [
+      "Congreso",
+      "Política"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 284,
-    "content": "Viñeta Política Aleatoria #84. ¡Ideal para reír por no llorar!",
+    "content": "— Papá, de mayor quiero ser político.\n— ¿Estás loco, hijo? ¿Te has vuelto honesto e incapaz de mentir?\n— No, papá, que quiero ser de los normales. [Edición #83]",
     "type": "POLITICAL",
-    "title": "VIÑETA ALEATORIA 84",
+    "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
+    "tags": [
+      "Congreso",
+      "Política"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 285,
-    "content": "Viñeta Política Aleatoria #85. ¡Ideal para reír por no llorar!",
+    "content": "— Señor Ministro, las encuestas dicen que el 80% de los ciudadanos está en contra de su gestión.\n— No pasa nada, cambiaremos al 80% de los ciudadanos. [Edición #84]",
     "type": "POLITICAL",
-    "title": "VIÑETA ALEATORIA 85",
+    "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
+    "tags": [
+      "Congreso",
+      "Política"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 286,
-    "content": "Viñeta Política Aleatoria #86. ¡Ideal para reír por no llorar!",
+    "content": "— Señorías, hemos erradicado por completo la corrupción.\n— ¡Un momento! ¿Y ese fajo de billetes?\n— Ah, es que entra en vigor el mes que viene. [Edición #85]",
     "type": "POLITICAL",
-    "title": "VIÑETA ALEATORIA 86",
+    "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
+    "tags": [
+      "Congreso",
+      "Política"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 287,
-    "content": "Viñeta Política Aleatoria #87. ¡Ideal para reír por no llorar!",
+    "content": "— Hemos diseñado un plan estratégico infalible para inaugurar el nuevo carril bici.\n— ¿Y cuándo empiezan las obras?\n— ¿Obras? Solo tenemos presupuesto para la maqueta. [Edición #86]",
     "type": "POLITICAL",
-    "title": "VIÑETA ALEATORIA 87",
+    "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
+    "tags": [
+      "Congreso",
+      "Política"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 288,
-    "content": "Viñeta Política Aleatoria #88. ¡Ideal para reír por no llorar!",
+    "content": "En el Congreso: \n— Mi partido promete que no descansaremos hasta acabar con el paro.\n— ¡Llevan ustedes 20 años sin descansar y el paro sigue igual! [Edición #87]",
     "type": "POLITICAL",
-    "title": "VIÑETA ALEATORIA 88",
+    "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
+    "tags": [
+      "Congreso",
+      "Política"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 289,
-    "content": "Viñeta Política Aleatoria #89. ¡Ideal para reír por no llorar!",
+    "content": "— Señor Presidente, el pueblo pide a gritos transparencia.\n— Perfecto, quiten las cortinas de la Moncloa. [Edición #88]",
     "type": "POLITICAL",
-    "title": "VIÑETA ALEATORIA 89",
+    "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
+    "tags": [
+      "Congreso",
+      "Política"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 290,
-    "content": "Viñeta Política Aleatoria #90. ¡Ideal para reír por no llorar!",
+    "content": "— ¿Cuál es la diferencia entre un político y un ladrón?\n— Que el político te roba legalmente, te cobra IVA por ello y encima quiere que le votes. [Edición #89]",
     "type": "POLITICAL",
-    "title": "VIÑETA ALEATORIA 90",
+    "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
+    "tags": [
+      "Congreso",
+      "Política"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 291,
-    "content": "Viñeta Política Aleatoria #91. ¡Ideal para reír por no llorar!",
+    "content": "Declaraciones oficiales: 'La crisis económica es un mito. De hecho, nuestros políticos son más ricos que nunca.' [Edición #90]",
     "type": "POLITICAL",
-    "title": "VIÑETA ALEATORIA 91",
+    "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
+    "tags": [
+      "Congreso",
+      "Política"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 292,
-    "content": "Viñeta Política Aleatoria #92. ¡Ideal para reír por no llorar!",
+    "content": "— ¿Qué haces leyendo el programa electoral de hace 4 años?\n— Estoy leyendo un libro de fantasía épica. [Edición #91]",
     "type": "POLITICAL",
-    "title": "VIÑETA ALEATORIA 92",
+    "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
+    "tags": [
+      "Congreso",
+      "Política"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 293,
-    "content": "Viñeta Política Aleatoria #93. ¡Ideal para reír por no llorar!",
+    "content": "El único lugar donde se puede encontrar un político que cumple sus promesas es en la sección de ciencia ficción de la biblioteca. [Edición #92]",
     "type": "POLITICAL",
-    "title": "VIÑETA ALEATORIA 93",
+    "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
+    "tags": [
+      "Congreso",
+      "Política"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 294,
-    "content": "Viñeta Política Aleatoria #94. ¡Ideal para reír por no llorar!",
+    "content": "— Oye, ¿tú de qué partido eres?\n— Yo soy del partido de los que llegan a fin de mes de milagro. [Edición #93]",
     "type": "POLITICAL",
-    "title": "VIÑETA ALEATORIA 94",
+    "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
+    "tags": [
+      "Congreso",
+      "Política"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 295,
-    "content": "Viñeta Política Aleatoria #95. ¡Ideal para reír por no llorar!",
+    "content": "— Hemos descubierto un agujero negro en las arcas del Estado.\n— ¿Y qué van a hacer?\n— Echarle la culpa a la herencia recibida, como siempre. [Edición #94]",
     "type": "POLITICAL",
-    "title": "VIÑETA ALEATORIA 95",
+    "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
+    "tags": [
+      "Congreso",
+      "Política"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 296,
-    "content": "Viñeta Política Aleatoria #96. ¡Ideal para reír por no llorar!",
+    "content": "La política es el arte de buscar problemas, encontrarlos, hacer un diagnóstico falso y aplicar los remedios equivocados. [Edición #95]",
     "type": "POLITICAL",
-    "title": "VIÑETA ALEATORIA 96",
+    "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
+    "tags": [
+      "Congreso",
+      "Política"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 297,
-    "content": "Viñeta Política Aleatoria #97. ¡Ideal para reír por no llorar!",
+    "content": "— Hemos aprobado una nueva ley de sanidad.\n— ¿Y en qué consiste?\n— En que a partir de ahora curarse es un artículo de lujo. [Edición #96]",
     "type": "POLITICAL",
-    "title": "VIÑETA ALEATORIA 97",
+    "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
+    "tags": [
+      "Congreso",
+      "Política"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 298,
-    "content": "Viñeta Política Aleatoria #98. ¡Ideal para reír por no llorar!",
+    "content": "— ¿Sabe cuál es el colmo de un político corrupto?\n— Que no le alcance el dinero negro para pagar la fianza. [Edición #97]",
     "type": "POLITICAL",
-    "title": "VIÑETA ALEATORIA 98",
+    "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
+    "tags": [
+      "Congreso",
+      "Política"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 299,
-    "content": "Viñeta Política Aleatoria #99. ¡Ideal para reír por no llorar!",
+    "content": "— El presidente ha dicho que hay luz al final del túnel.\n— Sí, es el tren de la inflación que viene de frente. [Edición #98]",
     "type": "POLITICAL",
-    "title": "VIÑETA ALEATORIA 99",
+    "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
+    "tags": [
+      "Congreso",
+      "Política"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 300,
-    "content": "Viñeta Política Aleatoria #100. ¡Ideal para reír por no llorar!",
+    "content": "El político es una persona capaz de predecir lo que va a pasar mañana, el mes próximo y el año que viene; y de explicar después por qué no ocurrió. [Edición #99]",
     "type": "POLITICAL",
-    "title": "VIÑETA ALEATORIA 100",
+    "title": "SÁTIRA NACIONAL",
     "author": "La Pluma Ácida",
+    "tags": [
+      "Congreso",
+      "Política"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 301,
-    "content": "Viñeta Política Diaria Exclusiva #1. Aparecerá secuencialmente cada día.",
+    "content": "— ¿Qué tal va la campaña electoral? \n— No nos podemos quejar.\n— ¿Tan bien os va?\n— No, es que nos han prohibido quejarnos. [Edición #100]",
     "type": "POLITICAL",
-    "title": "VIÑETA DIARIA 1",
+    "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
+    "tags": [
+      "Congreso",
+      "Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 302,
-    "content": "Viñeta Política Diaria Exclusiva #2. Aparecerá secuencialmente cada día.",
+    "content": "Un político le dice a otro: \n— Oye, ¿tú qué vas a hacer con el presupuesto de educación?\n— ¿Educación? No me suena ese ministerio, ¿está en el área de protocolo? [Edición #101]",
     "type": "POLITICAL",
-    "title": "VIÑETA DIARIA 2",
+    "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
+    "tags": [
+      "Congreso",
+      "Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 303,
-    "content": "Viñeta Política Diaria Exclusiva #3. Aparecerá secuencialmente cada día.",
+    "content": "— Señor ministro, ¿por qué no baja los impuestos?\n— Porque entonces la gente tendría dinero y empezaría a pensar por sí misma, y eso es muy peligroso. [Edición #102]",
     "type": "POLITICAL",
-    "title": "VIÑETA DIARIA 3",
+    "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
+    "tags": [
+      "Congreso",
+      "Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 304,
-    "content": "Viñeta Política Diaria Exclusiva #4. Aparecerá secuencialmente cada día.",
+    "content": "— Papá, de mayor quiero ser político.\n— ¿Estás loco, hijo? ¿Te has vuelto honesto e incapaz de mentir?\n— No, papá, que quiero ser de los normales. [Edición #103]",
     "type": "POLITICAL",
-    "title": "VIÑETA DIARIA 4",
+    "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
+    "tags": [
+      "Congreso",
+      "Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 305,
-    "content": "Viñeta Política Diaria Exclusiva #5. Aparecerá secuencialmente cada día.",
+    "content": "— Señor Ministro, las encuestas dicen que el 80% de los ciudadanos está en contra de su gestión.\n— No pasa nada, cambiaremos al 80% de los ciudadanos. [Edición #104]",
     "type": "POLITICAL",
-    "title": "VIÑETA DIARIA 5",
+    "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
+    "tags": [
+      "Congreso",
+      "Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 306,
-    "content": "Viñeta Política Diaria Exclusiva #6. Aparecerá secuencialmente cada día.",
+    "content": "— Señorías, hemos erradicado por completo la corrupción.\n— ¡Un momento! ¿Y ese fajo de billetes?\n— Ah, es que entra en vigor el mes que viene. [Edición #105]",
     "type": "POLITICAL",
-    "title": "VIÑETA DIARIA 6",
+    "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
+    "tags": [
+      "Congreso",
+      "Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 307,
-    "content": "Viñeta Política Diaria Exclusiva #7. Aparecerá secuencialmente cada día.",
+    "content": "— Hemos diseñado un plan estratégico infalible para inaugurar el nuevo carril bici.\n— ¿Y cuándo empiezan las obras?\n— ¿Obras? Solo tenemos presupuesto para la maqueta. [Edición #106]",
     "type": "POLITICAL",
-    "title": "VIÑETA DIARIA 7",
+    "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
+    "tags": [
+      "Congreso",
+      "Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 308,
-    "content": "Viñeta Política Diaria Exclusiva #8. Aparecerá secuencialmente cada día.",
+    "content": "En el Congreso: \n— Mi partido promete que no descansaremos hasta acabar con el paro.\n— ¡Llevan ustedes 20 años sin descansar y el paro sigue igual! [Edición #107]",
     "type": "POLITICAL",
-    "title": "VIÑETA DIARIA 8",
+    "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
+    "tags": [
+      "Congreso",
+      "Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 309,
-    "content": "Viñeta Política Diaria Exclusiva #9. Aparecerá secuencialmente cada día.",
+    "content": "— Señor Presidente, el pueblo pide a gritos transparencia.\n— Perfecto, quiten las cortinas de la Moncloa. [Edición #108]",
     "type": "POLITICAL",
-    "title": "VIÑETA DIARIA 9",
+    "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
+    "tags": [
+      "Congreso",
+      "Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 310,
-    "content": "Viñeta Política Diaria Exclusiva #10. Aparecerá secuencialmente cada día.",
+    "content": "— ¿Cuál es la diferencia entre un político y un ladrón?\n— Que el político te roba legalmente, te cobra IVA por ello y encima quiere que le votes. [Edición #109]",
     "type": "POLITICAL",
-    "title": "VIÑETA DIARIA 10",
+    "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
+    "tags": [
+      "Congreso",
+      "Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 311,
-    "content": "Viñeta Política Diaria Exclusiva #11. Aparecerá secuencialmente cada día.",
+    "content": "Declaraciones oficiales: 'La crisis económica es un mito. De hecho, nuestros políticos son más ricos que nunca.' [Edición #110]",
     "type": "POLITICAL",
-    "title": "VIÑETA DIARIA 11",
+    "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
+    "tags": [
+      "Congreso",
+      "Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 312,
-    "content": "Viñeta Política Diaria Exclusiva #12. Aparecerá secuencialmente cada día.",
+    "content": "— ¿Qué haces leyendo el programa electoral de hace 4 años?\n— Estoy leyendo un libro de fantasía épica. [Edición #111]",
     "type": "POLITICAL",
-    "title": "VIÑETA DIARIA 12",
+    "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
+    "tags": [
+      "Congreso",
+      "Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 313,
-    "content": "Viñeta Política Diaria Exclusiva #13. Aparecerá secuencialmente cada día.",
+    "content": "El único lugar donde se puede encontrar un político que cumple sus promesas es en la sección de ciencia ficción de la biblioteca. [Edición #112]",
     "type": "POLITICAL",
-    "title": "VIÑETA DIARIA 13",
+    "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
+    "tags": [
+      "Congreso",
+      "Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 314,
-    "content": "Viñeta Política Diaria Exclusiva #14. Aparecerá secuencialmente cada día.",
+    "content": "— Oye, ¿tú de qué partido eres?\n— Yo soy del partido de los que llegan a fin de mes de milagro. [Edición #113]",
     "type": "POLITICAL",
-    "title": "VIÑETA DIARIA 14",
+    "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
+    "tags": [
+      "Congreso",
+      "Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 315,
-    "content": "Viñeta Política Diaria Exclusiva #15. Aparecerá secuencialmente cada día.",
+    "content": "— Hemos descubierto un agujero negro en las arcas del Estado.\n— ¿Y qué van a hacer?\n— Echarle la culpa a la herencia recibida, como siempre. [Edición #114]",
     "type": "POLITICAL",
-    "title": "VIÑETA DIARIA 15",
+    "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
+    "tags": [
+      "Congreso",
+      "Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 316,
-    "content": "Viñeta Política Diaria Exclusiva #16. Aparecerá secuencialmente cada día.",
+    "content": "La política es el arte de buscar problemas, encontrarlos, hacer un diagnóstico falso y aplicar los remedios equivocados. [Edición #115]",
     "type": "POLITICAL",
-    "title": "VIÑETA DIARIA 16",
+    "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
+    "tags": [
+      "Congreso",
+      "Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 317,
-    "content": "Viñeta Política Diaria Exclusiva #17. Aparecerá secuencialmente cada día.",
+    "content": "— Hemos aprobado una nueva ley de sanidad.\n— ¿Y en qué consiste?\n— En que a partir de ahora curarse es un artículo de lujo. [Edición #116]",
     "type": "POLITICAL",
-    "title": "VIÑETA DIARIA 17",
+    "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
+    "tags": [
+      "Congreso",
+      "Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 318,
-    "content": "Viñeta Política Diaria Exclusiva #18. Aparecerá secuencialmente cada día.",
+    "content": "— ¿Sabe cuál es el colmo de un político corrupto?\n— Que no le alcance el dinero negro para pagar la fianza. [Edición #117]",
     "type": "POLITICAL",
-    "title": "VIÑETA DIARIA 18",
+    "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
+    "tags": [
+      "Congreso",
+      "Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 319,
-    "content": "Viñeta Política Diaria Exclusiva #19. Aparecerá secuencialmente cada día.",
+    "content": "— El presidente ha dicho que hay luz al final del túnel.\n— Sí, es el tren de la inflación que viene de frente. [Edición #118]",
     "type": "POLITICAL",
-    "title": "VIÑETA DIARIA 19",
+    "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
+    "tags": [
+      "Congreso",
+      "Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 320,
-    "content": "Viñeta Política Diaria Exclusiva #20. Aparecerá secuencialmente cada día.",
+    "content": "El político es una persona capaz de predecir lo que va a pasar mañana, el mes próximo y el año que viene; y de explicar después por qué no ocurrió. [Edición #119]",
     "type": "POLITICAL",
-    "title": "VIÑETA DIARIA 20",
+    "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
+    "tags": [
+      "Congreso",
+      "Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 321,
-    "content": "Viñeta Política Diaria Exclusiva #21. Aparecerá secuencialmente cada día.",
+    "content": "— ¿Qué tal va la campaña electoral? \n— No nos podemos quejar.\n— ¿Tan bien os va?\n— No, es que nos han prohibido quejarnos. [Edición #120]",
     "type": "POLITICAL",
-    "title": "VIÑETA DIARIA 21",
+    "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
+    "tags": [
+      "Congreso",
+      "Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 322,
-    "content": "Viñeta Política Diaria Exclusiva #22. Aparecerá secuencialmente cada día.",
+    "content": "Un político le dice a otro: \n— Oye, ¿tú qué vas a hacer con el presupuesto de educación?\n— ¿Educación? No me suena ese ministerio, ¿está en el área de protocolo? [Edición #121]",
     "type": "POLITICAL",
-    "title": "VIÑETA DIARIA 22",
+    "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
+    "tags": [
+      "Congreso",
+      "Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 323,
-    "content": "Viñeta Política Diaria Exclusiva #23. Aparecerá secuencialmente cada día.",
+    "content": "— Señor ministro, ¿por qué no baja los impuestos?\n— Porque entonces la gente tendría dinero y empezaría a pensar por sí misma, y eso es muy peligroso. [Edición #122]",
     "type": "POLITICAL",
-    "title": "VIÑETA DIARIA 23",
+    "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
+    "tags": [
+      "Congreso",
+      "Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 324,
-    "content": "Viñeta Política Diaria Exclusiva #24. Aparecerá secuencialmente cada día.",
+    "content": "— Papá, de mayor quiero ser político.\n— ¿Estás loco, hijo? ¿Te has vuelto honesto e incapaz de mentir?\n— No, papá, que quiero ser de los normales. [Edición #123]",
     "type": "POLITICAL",
-    "title": "VIÑETA DIARIA 24",
+    "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
+    "tags": [
+      "Congreso",
+      "Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 325,
-    "content": "Viñeta Política Diaria Exclusiva #25. Aparecerá secuencialmente cada día.",
+    "content": "— Señor Ministro, las encuestas dicen que el 80% de los ciudadanos está en contra de su gestión.\n— No pasa nada, cambiaremos al 80% de los ciudadanos. [Edición #124]",
     "type": "POLITICAL",
-    "title": "VIÑETA DIARIA 25",
+    "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
+    "tags": [
+      "Congreso",
+      "Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 326,
-    "content": "Viñeta Política Diaria Exclusiva #26. Aparecerá secuencialmente cada día.",
+    "content": "— Señorías, hemos erradicado por completo la corrupción.\n— ¡Un momento! ¿Y ese fajo de billetes?\n— Ah, es que entra en vigor el mes que viene. [Edición #125]",
     "type": "POLITICAL",
-    "title": "VIÑETA DIARIA 26",
+    "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
+    "tags": [
+      "Congreso",
+      "Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 327,
-    "content": "Viñeta Política Diaria Exclusiva #27. Aparecerá secuencialmente cada día.",
+    "content": "— Hemos diseñado un plan estratégico infalible para inaugurar el nuevo carril bici.\n— ¿Y cuándo empiezan las obras?\n— ¿Obras? Solo tenemos presupuesto para la maqueta. [Edición #126]",
     "type": "POLITICAL",
-    "title": "VIÑETA DIARIA 27",
+    "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
+    "tags": [
+      "Congreso",
+      "Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 328,
-    "content": "Viñeta Política Diaria Exclusiva #28. Aparecerá secuencialmente cada día.",
+    "content": "En el Congreso: \n— Mi partido promete que no descansaremos hasta acabar con el paro.\n— ¡Llevan ustedes 20 años sin descansar y el paro sigue igual! [Edición #127]",
     "type": "POLITICAL",
-    "title": "VIÑETA DIARIA 28",
+    "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
+    "tags": [
+      "Congreso",
+      "Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 329,
-    "content": "Viñeta Política Diaria Exclusiva #29. Aparecerá secuencialmente cada día.",
+    "content": "— Señor Presidente, el pueblo pide a gritos transparencia.\n— Perfecto, quiten las cortinas de la Moncloa. [Edición #128]",
     "type": "POLITICAL",
-    "title": "VIÑETA DIARIA 29",
+    "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
+    "tags": [
+      "Congreso",
+      "Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 330,
-    "content": "Viñeta Política Diaria Exclusiva #30. Aparecerá secuencialmente cada día.",
+    "content": "— ¿Cuál es la diferencia entre un político y un ladrón?\n— Que el político te roba legalmente, te cobra IVA por ello y encima quiere que le votes. [Edición #129]",
     "type": "POLITICAL",
-    "title": "VIÑETA DIARIA 30",
+    "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
+    "tags": [
+      "Congreso",
+      "Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 331,
-    "content": "Viñeta Política Diaria Exclusiva #31. Aparecerá secuencialmente cada día.",
+    "content": "Declaraciones oficiales: 'La crisis económica es un mito. De hecho, nuestros políticos son más ricos que nunca.' [Edición #130]",
     "type": "POLITICAL",
-    "title": "VIÑETA DIARIA 31",
+    "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
+    "tags": [
+      "Congreso",
+      "Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 332,
-    "content": "Viñeta Política Diaria Exclusiva #32. Aparecerá secuencialmente cada día.",
+    "content": "— ¿Qué haces leyendo el programa electoral de hace 4 años?\n— Estoy leyendo un libro de fantasía épica. [Edición #131]",
     "type": "POLITICAL",
-    "title": "VIÑETA DIARIA 32",
+    "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
+    "tags": [
+      "Congreso",
+      "Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 333,
-    "content": "Viñeta Política Diaria Exclusiva #33. Aparecerá secuencialmente cada día.",
+    "content": "El único lugar donde se puede encontrar un político que cumple sus promesas es en la sección de ciencia ficción de la biblioteca. [Edición #132]",
     "type": "POLITICAL",
-    "title": "VIÑETA DIARIA 33",
+    "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
+    "tags": [
+      "Congreso",
+      "Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 334,
-    "content": "Viñeta Política Diaria Exclusiva #34. Aparecerá secuencialmente cada día.",
+    "content": "— Oye, ¿tú de qué partido eres?\n— Yo soy del partido de los que llegan a fin de mes de milagro. [Edición #133]",
     "type": "POLITICAL",
-    "title": "VIÑETA DIARIA 34",
+    "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
+    "tags": [
+      "Congreso",
+      "Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 335,
-    "content": "Viñeta Política Diaria Exclusiva #35. Aparecerá secuencialmente cada día.",
+    "content": "— Hemos descubierto un agujero negro en las arcas del Estado.\n— ¿Y qué van a hacer?\n— Echarle la culpa a la herencia recibida, como siempre. [Edición #134]",
     "type": "POLITICAL",
-    "title": "VIÑETA DIARIA 35",
+    "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
+    "tags": [
+      "Congreso",
+      "Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 336,
-    "content": "Viñeta Política Diaria Exclusiva #36. Aparecerá secuencialmente cada día.",
+    "content": "La política es el arte de buscar problemas, encontrarlos, hacer un diagnóstico falso y aplicar los remedios equivocados. [Edición #135]",
     "type": "POLITICAL",
-    "title": "VIÑETA DIARIA 36",
+    "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
+    "tags": [
+      "Congreso",
+      "Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 337,
-    "content": "Viñeta Política Diaria Exclusiva #37. Aparecerá secuencialmente cada día.",
+    "content": "— Hemos aprobado una nueva ley de sanidad.\n— ¿Y en qué consiste?\n— En que a partir de ahora curarse es un artículo de lujo. [Edición #136]",
     "type": "POLITICAL",
-    "title": "VIÑETA DIARIA 37",
+    "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
+    "tags": [
+      "Congreso",
+      "Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 338,
-    "content": "Viñeta Política Diaria Exclusiva #38. Aparecerá secuencialmente cada día.",
+    "content": "— ¿Sabe cuál es el colmo de un político corrupto?\n— Que no le alcance el dinero negro para pagar la fianza. [Edición #137]",
     "type": "POLITICAL",
-    "title": "VIÑETA DIARIA 38",
+    "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
+    "tags": [
+      "Congreso",
+      "Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 339,
-    "content": "Viñeta Política Diaria Exclusiva #39. Aparecerá secuencialmente cada día.",
+    "content": "— El presidente ha dicho que hay luz al final del túnel.\n— Sí, es el tren de la inflación que viene de frente. [Edición #138]",
     "type": "POLITICAL",
-    "title": "VIÑETA DIARIA 39",
+    "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
+    "tags": [
+      "Congreso",
+      "Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 340,
-    "content": "Viñeta Política Diaria Exclusiva #40. Aparecerá secuencialmente cada día.",
+    "content": "El político es una persona capaz de predecir lo que va a pasar mañana, el mes próximo y el año que viene; y de explicar después por qué no ocurrió. [Edición #139]",
     "type": "POLITICAL",
-    "title": "VIÑETA DIARIA 40",
+    "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
+    "tags": [
+      "Congreso",
+      "Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 341,
-    "content": "Viñeta Política Diaria Exclusiva #41. Aparecerá secuencialmente cada día.",
+    "content": "— ¿Qué tal va la campaña electoral? \n— No nos podemos quejar.\n— ¿Tan bien os va?\n— No, es que nos han prohibido quejarnos. [Edición #140]",
     "type": "POLITICAL",
-    "title": "VIÑETA DIARIA 41",
+    "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
+    "tags": [
+      "Congreso",
+      "Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 342,
-    "content": "Viñeta Política Diaria Exclusiva #42. Aparecerá secuencialmente cada día.",
+    "content": "Un político le dice a otro: \n— Oye, ¿tú qué vas a hacer con el presupuesto de educación?\n— ¿Educación? No me suena ese ministerio, ¿está en el área de protocolo? [Edición #141]",
     "type": "POLITICAL",
-    "title": "VIÑETA DIARIA 42",
+    "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
+    "tags": [
+      "Congreso",
+      "Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 343,
-    "content": "Viñeta Política Diaria Exclusiva #43. Aparecerá secuencialmente cada día.",
+    "content": "— Señor ministro, ¿por qué no baja los impuestos?\n— Porque entonces la gente tendría dinero y empezaría a pensar por sí misma, y eso es muy peligroso. [Edición #142]",
     "type": "POLITICAL",
-    "title": "VIÑETA DIARIA 43",
+    "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
+    "tags": [
+      "Congreso",
+      "Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 344,
-    "content": "Viñeta Política Diaria Exclusiva #44. Aparecerá secuencialmente cada día.",
+    "content": "— Papá, de mayor quiero ser político.\n— ¿Estás loco, hijo? ¿Te has vuelto honesto e incapaz de mentir?\n— No, papá, que quiero ser de los normales. [Edición #143]",
     "type": "POLITICAL",
-    "title": "VIÑETA DIARIA 44",
+    "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
+    "tags": [
+      "Congreso",
+      "Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 345,
-    "content": "Viñeta Política Diaria Exclusiva #45. Aparecerá secuencialmente cada día.",
+    "content": "— Señor Ministro, las encuestas dicen que el 80% de los ciudadanos está en contra de su gestión.\n— No pasa nada, cambiaremos al 80% de los ciudadanos. [Edición #144]",
     "type": "POLITICAL",
-    "title": "VIÑETA DIARIA 45",
+    "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
+    "tags": [
+      "Congreso",
+      "Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 346,
-    "content": "Viñeta Política Diaria Exclusiva #46. Aparecerá secuencialmente cada día.",
+    "content": "— Señorías, hemos erradicado por completo la corrupción.\n— ¡Un momento! ¿Y ese fajo de billetes?\n— Ah, es que entra en vigor el mes que viene. [Edición #145]",
     "type": "POLITICAL",
-    "title": "VIÑETA DIARIA 46",
+    "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
+    "tags": [
+      "Congreso",
+      "Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 347,
-    "content": "Viñeta Política Diaria Exclusiva #47. Aparecerá secuencialmente cada día.",
+    "content": "— Hemos diseñado un plan estratégico infalible para inaugurar el nuevo carril bici.\n— ¿Y cuándo empiezan las obras?\n— ¿Obras? Solo tenemos presupuesto para la maqueta. [Edición #146]",
     "type": "POLITICAL",
-    "title": "VIÑETA DIARIA 47",
+    "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
+    "tags": [
+      "Congreso",
+      "Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 348,
-    "content": "Viñeta Política Diaria Exclusiva #48. Aparecerá secuencialmente cada día.",
+    "content": "En el Congreso: \n— Mi partido promete que no descansaremos hasta acabar con el paro.\n— ¡Llevan ustedes 20 años sin descansar y el paro sigue igual! [Edición #147]",
     "type": "POLITICAL",
-    "title": "VIÑETA DIARIA 48",
+    "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
+    "tags": [
+      "Congreso",
+      "Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 349,
-    "content": "Viñeta Política Diaria Exclusiva #49. Aparecerá secuencialmente cada día.",
+    "content": "— Señor Presidente, el pueblo pide a gritos transparencia.\n— Perfecto, quiten las cortinas de la Moncloa. [Edición #148]",
     "type": "POLITICAL",
-    "title": "VIÑETA DIARIA 49",
+    "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
+    "tags": [
+      "Congreso",
+      "Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 350,
-    "content": "Viñeta Política Diaria Exclusiva #50. Aparecerá secuencialmente cada día.",
+    "content": "— ¿Cuál es la diferencia entre un político y un ladrón?\n— Que el político te roba legalmente, te cobra IVA por ello y encima quiere que le votes. [Edición #149]",
     "type": "POLITICAL",
-    "title": "VIÑETA DIARIA 50",
+    "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
+    "tags": [
+      "Congreso",
+      "Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 351,
-    "content": "Viñeta Política Diaria Exclusiva #51. Aparecerá secuencialmente cada día.",
+    "content": "Declaraciones oficiales: 'La crisis económica es un mito. De hecho, nuestros políticos son más ricos que nunca.' [Edición #150]",
     "type": "POLITICAL",
-    "title": "VIÑETA DIARIA 51",
+    "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
+    "tags": [
+      "Congreso",
+      "Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 352,
-    "content": "Viñeta Política Diaria Exclusiva #52. Aparecerá secuencialmente cada día.",
+    "content": "— ¿Qué haces leyendo el programa electoral de hace 4 años?\n— Estoy leyendo un libro de fantasía épica. [Edición #151]",
     "type": "POLITICAL",
-    "title": "VIÑETA DIARIA 52",
+    "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
+    "tags": [
+      "Congreso",
+      "Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 353,
-    "content": "Viñeta Política Diaria Exclusiva #53. Aparecerá secuencialmente cada día.",
+    "content": "El único lugar donde se puede encontrar un político que cumple sus promesas es en la sección de ciencia ficción de la biblioteca. [Edición #152]",
     "type": "POLITICAL",
-    "title": "VIÑETA DIARIA 53",
+    "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
+    "tags": [
+      "Congreso",
+      "Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 354,
-    "content": "Viñeta Política Diaria Exclusiva #54. Aparecerá secuencialmente cada día.",
+    "content": "— Oye, ¿tú de qué partido eres?\n— Yo soy del partido de los que llegan a fin de mes de milagro. [Edición #153]",
     "type": "POLITICAL",
-    "title": "VIÑETA DIARIA 54",
+    "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
+    "tags": [
+      "Congreso",
+      "Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 355,
-    "content": "Viñeta Política Diaria Exclusiva #55. Aparecerá secuencialmente cada día.",
+    "content": "— Hemos descubierto un agujero negro en las arcas del Estado.\n— ¿Y qué van a hacer?\n— Echarle la culpa a la herencia recibida, como siempre. [Edición #154]",
     "type": "POLITICAL",
-    "title": "VIÑETA DIARIA 55",
+    "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
+    "tags": [
+      "Congreso",
+      "Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 356,
-    "content": "Viñeta Política Diaria Exclusiva #56. Aparecerá secuencialmente cada día.",
+    "content": "La política es el arte de buscar problemas, encontrarlos, hacer un diagnóstico falso y aplicar los remedios equivocados. [Edición #155]",
     "type": "POLITICAL",
-    "title": "VIÑETA DIARIA 56",
+    "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
+    "tags": [
+      "Congreso",
+      "Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 357,
-    "content": "Viñeta Política Diaria Exclusiva #57. Aparecerá secuencialmente cada día.",
+    "content": "— Hemos aprobado una nueva ley de sanidad.\n— ¿Y en qué consiste?\n— En que a partir de ahora curarse es un artículo de lujo. [Edición #156]",
     "type": "POLITICAL",
-    "title": "VIÑETA DIARIA 57",
+    "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
+    "tags": [
+      "Congreso",
+      "Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 358,
-    "content": "Viñeta Política Diaria Exclusiva #58. Aparecerá secuencialmente cada día.",
+    "content": "— ¿Sabe cuál es el colmo de un político corrupto?\n— Que no le alcance el dinero negro para pagar la fianza. [Edición #157]",
     "type": "POLITICAL",
-    "title": "VIÑETA DIARIA 58",
+    "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
+    "tags": [
+      "Congreso",
+      "Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 359,
-    "content": "Viñeta Política Diaria Exclusiva #59. Aparecerá secuencialmente cada día.",
+    "content": "— El presidente ha dicho que hay luz al final del túnel.\n— Sí, es el tren de la inflación que viene de frente. [Edición #158]",
     "type": "POLITICAL",
-    "title": "VIÑETA DIARIA 59",
+    "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
+    "tags": [
+      "Congreso",
+      "Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 360,
-    "content": "Viñeta Política Diaria Exclusiva #60. Aparecerá secuencialmente cada día.",
+    "content": "El político es una persona capaz de predecir lo que va a pasar mañana, el mes próximo y el año que viene; y de explicar después por qué no ocurrió. [Edición #159]",
     "type": "POLITICAL",
-    "title": "VIÑETA DIARIA 60",
+    "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
+    "tags": [
+      "Congreso",
+      "Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 361,
-    "content": "Viñeta Política Diaria Exclusiva #61. Aparecerá secuencialmente cada día.",
+    "content": "— ¿Qué tal va la campaña electoral? \n— No nos podemos quejar.\n— ¿Tan bien os va?\n— No, es que nos han prohibido quejarnos. [Edición #160]",
     "type": "POLITICAL",
-    "title": "VIÑETA DIARIA 61",
+    "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
+    "tags": [
+      "Congreso",
+      "Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 362,
-    "content": "Viñeta Política Diaria Exclusiva #62. Aparecerá secuencialmente cada día.",
+    "content": "Un político le dice a otro: \n— Oye, ¿tú qué vas a hacer con el presupuesto de educación?\n— ¿Educación? No me suena ese ministerio, ¿está en el área de protocolo? [Edición #161]",
     "type": "POLITICAL",
-    "title": "VIÑETA DIARIA 62",
+    "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
+    "tags": [
+      "Congreso",
+      "Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 363,
-    "content": "Viñeta Política Diaria Exclusiva #63. Aparecerá secuencialmente cada día.",
+    "content": "— Señor ministro, ¿por qué no baja los impuestos?\n— Porque entonces la gente tendría dinero y empezaría a pensar por sí misma, y eso es muy peligroso. [Edición #162]",
     "type": "POLITICAL",
-    "title": "VIÑETA DIARIA 63",
+    "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
+    "tags": [
+      "Congreso",
+      "Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 364,
-    "content": "Viñeta Política Diaria Exclusiva #64. Aparecerá secuencialmente cada día.",
+    "content": "— Papá, de mayor quiero ser político.\n— ¿Estás loco, hijo? ¿Te has vuelto honesto e incapaz de mentir?\n— No, papá, que quiero ser de los normales. [Edición #163]",
     "type": "POLITICAL",
-    "title": "VIÑETA DIARIA 64",
+    "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
+    "tags": [
+      "Congreso",
+      "Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 365,
-    "content": "Viñeta Política Diaria Exclusiva #65. Aparecerá secuencialmente cada día.",
+    "content": "— Señor Ministro, las encuestas dicen que el 80% de los ciudadanos está en contra de su gestión.\n— No pasa nada, cambiaremos al 80% de los ciudadanos. [Edición #164]",
     "type": "POLITICAL",
-    "title": "VIÑETA DIARIA 65",
+    "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
+    "tags": [
+      "Congreso",
+      "Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 366,
-    "content": "Viñeta Política Diaria Exclusiva #66. Aparecerá secuencialmente cada día.",
+    "content": "— Señorías, hemos erradicado por completo la corrupción.\n— ¡Un momento! ¿Y ese fajo de billetes?\n— Ah, es que entra en vigor el mes que viene. [Edición #165]",
     "type": "POLITICAL",
-    "title": "VIÑETA DIARIA 66",
+    "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
+    "tags": [
+      "Congreso",
+      "Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 367,
-    "content": "Viñeta Política Diaria Exclusiva #67. Aparecerá secuencialmente cada día.",
+    "content": "— Hemos diseñado un plan estratégico infalible para inaugurar el nuevo carril bici.\n— ¿Y cuándo empiezan las obras?\n— ¿Obras? Solo tenemos presupuesto para la maqueta. [Edición #166]",
     "type": "POLITICAL",
-    "title": "VIÑETA DIARIA 67",
+    "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
+    "tags": [
+      "Congreso",
+      "Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 368,
-    "content": "Viñeta Política Diaria Exclusiva #68. Aparecerá secuencialmente cada día.",
+    "content": "En el Congreso: \n— Mi partido promete que no descansaremos hasta acabar con el paro.\n— ¡Llevan ustedes 20 años sin descansar y el paro sigue igual! [Edición #167]",
     "type": "POLITICAL",
-    "title": "VIÑETA DIARIA 68",
+    "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
+    "tags": [
+      "Congreso",
+      "Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 369,
-    "content": "Viñeta Política Diaria Exclusiva #69. Aparecerá secuencialmente cada día.",
+    "content": "— Señor Presidente, el pueblo pide a gritos transparencia.\n— Perfecto, quiten las cortinas de la Moncloa. [Edición #168]",
     "type": "POLITICAL",
-    "title": "VIÑETA DIARIA 69",
+    "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
+    "tags": [
+      "Congreso",
+      "Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 370,
-    "content": "Viñeta Política Diaria Exclusiva #70. Aparecerá secuencialmente cada día.",
+    "content": "— ¿Cuál es la diferencia entre un político y un ladrón?\n— Que el político te roba legalmente, te cobra IVA por ello y encima quiere que le votes. [Edición #169]",
     "type": "POLITICAL",
-    "title": "VIÑETA DIARIA 70",
+    "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
+    "tags": [
+      "Congreso",
+      "Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 371,
-    "content": "Viñeta Política Diaria Exclusiva #71. Aparecerá secuencialmente cada día.",
+    "content": "Declaraciones oficiales: 'La crisis económica es un mito. De hecho, nuestros políticos son más ricos que nunca.' [Edición #170]",
     "type": "POLITICAL",
-    "title": "VIÑETA DIARIA 71",
+    "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
+    "tags": [
+      "Congreso",
+      "Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 372,
-    "content": "Viñeta Política Diaria Exclusiva #72. Aparecerá secuencialmente cada día.",
+    "content": "— ¿Qué haces leyendo el programa electoral de hace 4 años?\n— Estoy leyendo un libro de fantasía épica. [Edición #171]",
     "type": "POLITICAL",
-    "title": "VIÑETA DIARIA 72",
+    "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
+    "tags": [
+      "Congreso",
+      "Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 373,
-    "content": "Viñeta Política Diaria Exclusiva #73. Aparecerá secuencialmente cada día.",
+    "content": "El único lugar donde se puede encontrar un político que cumple sus promesas es en la sección de ciencia ficción de la biblioteca. [Edición #172]",
     "type": "POLITICAL",
-    "title": "VIÑETA DIARIA 73",
+    "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
+    "tags": [
+      "Congreso",
+      "Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 374,
-    "content": "Viñeta Política Diaria Exclusiva #74. Aparecerá secuencialmente cada día.",
+    "content": "— Oye, ¿tú de qué partido eres?\n— Yo soy del partido de los que llegan a fin de mes de milagro. [Edición #173]",
     "type": "POLITICAL",
-    "title": "VIÑETA DIARIA 74",
+    "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
+    "tags": [
+      "Congreso",
+      "Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 375,
-    "content": "Viñeta Política Diaria Exclusiva #75. Aparecerá secuencialmente cada día.",
+    "content": "— Hemos descubierto un agujero negro en las arcas del Estado.\n— ¿Y qué van a hacer?\n— Echarle la culpa a la herencia recibida, como siempre. [Edición #174]",
     "type": "POLITICAL",
-    "title": "VIÑETA DIARIA 75",
+    "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
+    "tags": [
+      "Congreso",
+      "Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 376,
-    "content": "Viñeta Política Diaria Exclusiva #76. Aparecerá secuencialmente cada día.",
+    "content": "La política es el arte de buscar problemas, encontrarlos, hacer un diagnóstico falso y aplicar los remedios equivocados. [Edición #175]",
     "type": "POLITICAL",
-    "title": "VIÑETA DIARIA 76",
+    "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
+    "tags": [
+      "Congreso",
+      "Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 377,
-    "content": "Viñeta Política Diaria Exclusiva #77. Aparecerá secuencialmente cada día.",
+    "content": "— Hemos aprobado una nueva ley de sanidad.\n— ¿Y en qué consiste?\n— En que a partir de ahora curarse es un artículo de lujo. [Edición #176]",
     "type": "POLITICAL",
-    "title": "VIÑETA DIARIA 77",
+    "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
+    "tags": [
+      "Congreso",
+      "Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 378,
-    "content": "Viñeta Política Diaria Exclusiva #78. Aparecerá secuencialmente cada día.",
+    "content": "— ¿Sabe cuál es el colmo de un político corrupto?\n— Que no le alcance el dinero negro para pagar la fianza. [Edición #177]",
     "type": "POLITICAL",
-    "title": "VIÑETA DIARIA 78",
+    "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
+    "tags": [
+      "Congreso",
+      "Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 379,
-    "content": "Viñeta Política Diaria Exclusiva #79. Aparecerá secuencialmente cada día.",
+    "content": "— El presidente ha dicho que hay luz al final del túnel.\n— Sí, es el tren de la inflación que viene de frente. [Edición #178]",
     "type": "POLITICAL",
-    "title": "VIÑETA DIARIA 79",
+    "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
+    "tags": [
+      "Congreso",
+      "Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 380,
-    "content": "Viñeta Política Diaria Exclusiva #80. Aparecerá secuencialmente cada día.",
+    "content": "El político es una persona capaz de predecir lo que va a pasar mañana, el mes próximo y el año que viene; y de explicar después por qué no ocurrió. [Edición #179]",
     "type": "POLITICAL",
-    "title": "VIÑETA DIARIA 80",
+    "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
+    "tags": [
+      "Congreso",
+      "Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 381,
-    "content": "Viñeta Política Diaria Exclusiva #81. Aparecerá secuencialmente cada día.",
+    "content": "— ¿Qué tal va la campaña electoral? \n— No nos podemos quejar.\n— ¿Tan bien os va?\n— No, es que nos han prohibido quejarnos. [Edición #180]",
     "type": "POLITICAL",
-    "title": "VIÑETA DIARIA 81",
+    "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
+    "tags": [
+      "Congreso",
+      "Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 382,
-    "content": "Viñeta Política Diaria Exclusiva #82. Aparecerá secuencialmente cada día.",
+    "content": "Un político le dice a otro: \n— Oye, ¿tú qué vas a hacer con el presupuesto de educación?\n— ¿Educación? No me suena ese ministerio, ¿está en el área de protocolo? [Edición #181]",
     "type": "POLITICAL",
-    "title": "VIÑETA DIARIA 82",
+    "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
+    "tags": [
+      "Congreso",
+      "Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 383,
-    "content": "Viñeta Política Diaria Exclusiva #83. Aparecerá secuencialmente cada día.",
+    "content": "— Señor ministro, ¿por qué no baja los impuestos?\n— Porque entonces la gente tendría dinero y empezaría a pensar por sí misma, y eso es muy peligroso. [Edición #182]",
     "type": "POLITICAL",
-    "title": "VIÑETA DIARIA 83",
+    "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
+    "tags": [
+      "Congreso",
+      "Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 384,
-    "content": "Viñeta Política Diaria Exclusiva #84. Aparecerá secuencialmente cada día.",
+    "content": "— Papá, de mayor quiero ser político.\n— ¿Estás loco, hijo? ¿Te has vuelto honesto e incapaz de mentir?\n— No, papá, que quiero ser de los normales. [Edición #183]",
     "type": "POLITICAL",
-    "title": "VIÑETA DIARIA 84",
+    "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
+    "tags": [
+      "Congreso",
+      "Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 385,
-    "content": "Viñeta Política Diaria Exclusiva #85. Aparecerá secuencialmente cada día.",
+    "content": "— Señor Ministro, las encuestas dicen que el 80% de los ciudadanos está en contra de su gestión.\n— No pasa nada, cambiaremos al 80% de los ciudadanos. [Edición #184]",
     "type": "POLITICAL",
-    "title": "VIÑETA DIARIA 85",
+    "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
+    "tags": [
+      "Congreso",
+      "Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 386,
-    "content": "Viñeta Política Diaria Exclusiva #86. Aparecerá secuencialmente cada día.",
+    "content": "— Señorías, hemos erradicado por completo la corrupción.\n— ¡Un momento! ¿Y ese fajo de billetes?\n— Ah, es que entra en vigor el mes que viene. [Edición #185]",
     "type": "POLITICAL",
-    "title": "VIÑETA DIARIA 86",
+    "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
+    "tags": [
+      "Congreso",
+      "Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 387,
-    "content": "Viñeta Política Diaria Exclusiva #87. Aparecerá secuencialmente cada día.",
+    "content": "— Hemos diseñado un plan estratégico infalible para inaugurar el nuevo carril bici.\n— ¿Y cuándo empiezan las obras?\n— ¿Obras? Solo tenemos presupuesto para la maqueta. [Edición #186]",
     "type": "POLITICAL",
-    "title": "VIÑETA DIARIA 87",
+    "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
+    "tags": [
+      "Congreso",
+      "Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 388,
-    "content": "Viñeta Política Diaria Exclusiva #88. Aparecerá secuencialmente cada día.",
+    "content": "En el Congreso: \n— Mi partido promete que no descansaremos hasta acabar con el paro.\n— ¡Llevan ustedes 20 años sin descansar y el paro sigue igual! [Edición #187]",
     "type": "POLITICAL",
-    "title": "VIÑETA DIARIA 88",
+    "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
+    "tags": [
+      "Congreso",
+      "Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 389,
-    "content": "Viñeta Política Diaria Exclusiva #89. Aparecerá secuencialmente cada día.",
+    "content": "— Señor Presidente, el pueblo pide a gritos transparencia.\n— Perfecto, quiten las cortinas de la Moncloa. [Edición #188]",
     "type": "POLITICAL",
-    "title": "VIÑETA DIARIA 89",
+    "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
+    "tags": [
+      "Congreso",
+      "Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 390,
-    "content": "Viñeta Política Diaria Exclusiva #90. Aparecerá secuencialmente cada día.",
+    "content": "— ¿Cuál es la diferencia entre un político y un ladrón?\n— Que el político te roba legalmente, te cobra IVA por ello y encima quiere que le votes. [Edición #189]",
     "type": "POLITICAL",
-    "title": "VIÑETA DIARIA 90",
+    "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
+    "tags": [
+      "Congreso",
+      "Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 391,
-    "content": "Viñeta Política Diaria Exclusiva #91. Aparecerá secuencialmente cada día.",
+    "content": "Declaraciones oficiales: 'La crisis económica es un mito. De hecho, nuestros políticos son más ricos que nunca.' [Edición #190]",
     "type": "POLITICAL",
-    "title": "VIÑETA DIARIA 91",
+    "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
+    "tags": [
+      "Congreso",
+      "Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 392,
-    "content": "Viñeta Política Diaria Exclusiva #92. Aparecerá secuencialmente cada día.",
+    "content": "— ¿Qué haces leyendo el programa electoral de hace 4 años?\n— Estoy leyendo un libro de fantasía épica. [Edición #191]",
     "type": "POLITICAL",
-    "title": "VIÑETA DIARIA 92",
+    "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
+    "tags": [
+      "Congreso",
+      "Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 393,
-    "content": "Viñeta Política Diaria Exclusiva #93. Aparecerá secuencialmente cada día.",
+    "content": "El único lugar donde se puede encontrar un político que cumple sus promesas es en la sección de ciencia ficción de la biblioteca. [Edición #192]",
     "type": "POLITICAL",
-    "title": "VIÑETA DIARIA 93",
+    "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
+    "tags": [
+      "Congreso",
+      "Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 394,
-    "content": "Viñeta Política Diaria Exclusiva #94. Aparecerá secuencialmente cada día.",
+    "content": "— Oye, ¿tú de qué partido eres?\n— Yo soy del partido de los que llegan a fin de mes de milagro. [Edición #193]",
     "type": "POLITICAL",
-    "title": "VIÑETA DIARIA 94",
+    "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
+    "tags": [
+      "Congreso",
+      "Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 395,
-    "content": "Viñeta Política Diaria Exclusiva #95. Aparecerá secuencialmente cada día.",
+    "content": "— Hemos descubierto un agujero negro en las arcas del Estado.\n— ¿Y qué van a hacer?\n— Echarle la culpa a la herencia recibida, como siempre. [Edición #194]",
     "type": "POLITICAL",
-    "title": "VIÑETA DIARIA 95",
+    "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
+    "tags": [
+      "Congreso",
+      "Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 396,
-    "content": "Viñeta Política Diaria Exclusiva #96. Aparecerá secuencialmente cada día.",
+    "content": "La política es el arte de buscar problemas, encontrarlos, hacer un diagnóstico falso y aplicar los remedios equivocados. [Edición #195]",
     "type": "POLITICAL",
-    "title": "VIÑETA DIARIA 96",
+    "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
+    "tags": [
+      "Congreso",
+      "Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 397,
-    "content": "Viñeta Política Diaria Exclusiva #97. Aparecerá secuencialmente cada día.",
+    "content": "— Hemos aprobado una nueva ley de sanidad.\n— ¿Y en qué consiste?\n— En que a partir de ahora curarse es un artículo de lujo. [Edición #196]",
     "type": "POLITICAL",
-    "title": "VIÑETA DIARIA 97",
+    "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
+    "tags": [
+      "Congreso",
+      "Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 398,
-    "content": "Viñeta Política Diaria Exclusiva #98. Aparecerá secuencialmente cada día.",
+    "content": "— ¿Sabe cuál es el colmo de un político corrupto?\n— Que no le alcance el dinero negro para pagar la fianza. [Edición #197]",
     "type": "POLITICAL",
-    "title": "VIÑETA DIARIA 98",
+    "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
+    "tags": [
+      "Congreso",
+      "Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 399,
-    "content": "Viñeta Política Diaria Exclusiva #99. Aparecerá secuencialmente cada día.",
+    "content": "— El presidente ha dicho que hay luz al final del túnel.\n— Sí, es el tren de la inflación que viene de frente. [Edición #198]",
     "type": "POLITICAL",
-    "title": "VIÑETA DIARIA 99",
+    "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
+    "tags": [
+      "Congreso",
+      "Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 400,
-    "content": "Viñeta Política Diaria Exclusiva #100. Aparecerá secuencialmente cada día.",
+    "content": "El político es una persona capaz de predecir lo que va a pasar mañana, el mes próximo y el año que viene; y de explicar después por qué no ocurrió. [Edición #199]",
     "type": "POLITICAL",
-    "title": "VIÑETA DIARIA 100",
+    "title": "VIÑETA DIARIA",
     "author": "El Roto-Pringui",
+    "tags": [
+      "Congreso",
+      "Diario"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
     "id": 401,
-    "content": "¡Hola! Este es el chiste PROGRAMADO específicamente para la fecha de hoy. Se saltó todo el orden normal.",
+    "content": "¡Hola Mundo! Este es un chiste increíble de programación programado exactamente para hoy, directo desde r/programmerhumor.",
     "type": "STANDARD",
+    "tags": [
+      "Especial Hoy"
+    ],
     "isLockedByDefault": false,
     "scheduledDate": "2026-05-15"
   },
   {
     "id": 402,
-    "content": "Y esta es la viñeta política PROGRAMADA para hoy. Puedes programar las que quieras con 'scheduledDate'.",
+    "content": "— Última hora: El Congreso aprueba una ley para que los viernes duren 72 horas.\n— ¿Y cómo se financiará?\n— ¡Con los lunes!",
     "type": "POLITICAL",
-    "title": "PROGRAMADA PARA HOY",
-    "author": "El Calendario",
+    "title": "EL GRAN DECRETO",
+    "author": "El Jueves",
+    "tags": [
+      "Actualidad",
+      "Especial"
+    ],
     "isLockedByDefault": false,
     "scheduledDate": "2026-05-15"
   }
