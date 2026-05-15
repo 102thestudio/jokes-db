@@ -1,9 +1,10 @@
 [
   {
     "id": 900,
-    "content": "Esto es un chiste nuevo subido desde GitHub sin compilar. ¡Funciona el OTA!",
+    "content": "Este es un chiste diario EXCLUSIVO. Nunca aparecerá en el modo aleatorio.",
     "type": "STANDARD",
-    "isLockedByDefault": false
+    "isLockedByDefault": false,
+    "isDailyExclusive": true
   },
   {
     "id": 901,
@@ -19,5 +20,21 @@
     "type": "STANDARD",
     "tags": ["Informática", "Humor Geek"],
     "isLockedByDefault": false
+  },
+  {
+    "id": 903,
+    "content": "— Hoy es un día muy especial para la política. \n— ¿Ah sí? ¿Qué se celebra?\n— Nada, pero como el chiste estaba programado para hoy, teníamos que decir algo.",
+    "type": "POLITICAL",
+    "title": "CHISTE PROGRAMADO",
+    "author": "El Calendario",
+    "isLockedByDefault": false,
+    "scheduledDate": "2026-05-15"
+  },
+  {
+    "id": 904,
+    "content": "¡Este chiste está programado específicamente para hoy! ¿Magia? No, código.",
+    "type": "STANDARD",
+    "isLockedByDefault": false,
+    "scheduledDate": "2026-05-15"
   }
 ]
