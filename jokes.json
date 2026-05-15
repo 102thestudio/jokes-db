@@ -1,0 +1,23 @@
+[
+  {
+    "id": 900,
+    "content": "Esto es un chiste nuevo subido desde GitHub sin compilar. ¡Funciona el OTA!",
+    "type": "STANDARD",
+    "isLockedByDefault": false
+  },
+  {
+    "id": 901,
+    "content": "— ¿Cómo van las promesas electorales?\n— De momento, siguen siendo promesas.",
+    "type": "POLITICAL",
+    "title": "LAS PROMESAS",
+    "author": "La Pluma Ácida",
+    "isLockedByDefault": false
+  },
+  {
+    "id": 902,
+    "content": "Un informático le dice a otro: \n— Oye, ¿qué haces si tu código no funciona a la primera?\n— Fácil, lo meto en un bloque try-catch y hago como que el problema nunca existió.",
+    "type": "STANDARD",
+    "tags": ["Informática", "Humor Geek"],
+    "isLockedByDefault": false
+  }
+]
