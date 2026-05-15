@@ -1,39 +1,68 @@
 [
   {
-    "id": 900,
-    "content": "Este es un chiste diario EXCLUSIVO. Nunca aparecerá en el modo aleatorio.",
-    "type": "STANDARD",
+    "id": 901,
+    "content": "— Papá, de mayor quiero ser político.\n— ¿Estás loco, hijo? ¿Te has vuelto completamente limpio, transparente, honesto e incapaz de mentir?\n— No, papá, que quiero ser de los normales.",
+    "type": "POLITICAL",
+    "title": "VOCACIÓN TRADICIONAL",
+    "author": "La Pluma Ácida",
+    "tags": ["Congreso", "Partidos"],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
   {
-    "id": 901,
-    "content": "— ¿Cómo van las promesas electorales?\n— De momento, siguen siendo promesas.",
-    "type": "POLITICAL",
-    "title": "LAS PROMESAS",
-    "author": "La Pluma Ácida",
-    "isLockedByDefault": false
-  },
-  {
     "id": 902,
-    "content": "Un informático le dice a otro: \n— Oye, ¿qué haces si tu código no funciona a la primera?\n— Fácil, lo meto en un bloque try-catch y hago como que el problema nunca existió.",
+    "content": "Hay 10 tipos de personas en el mundo: los que entienden el código binario, los que no, y los que no se esperaban que este chiste estuviera en base 3.",
     "type": "STANDARD",
     "tags": ["Informática", "Humor Geek"],
     "isLockedByDefault": false
   },
   {
     "id": 903,
-    "content": "— Hoy es un día muy especial para la política. \n— ¿Ah sí? ¿Qué se celebra?\n— Nada, pero como el chiste estaba programado para hoy, teníamos que decir algo.",
+    "content": "— Señor Ministro, las encuestas dicen que el 80% de los ciudadanos está en contra de su gestión.\n— No pasa nada, cambiaremos al 80% de los ciudadanos.",
     "type": "POLITICAL",
-    "title": "CHISTE PROGRAMADO",
-    "author": "El Calendario",
+    "title": "DEMOCRACIA INVERSA",
+    "author": "El Roto-Pringui",
+    "tags": ["Encuestas", "Moncloa"],
+    "isLockedByDefault": false
+  },
+  {
+    "id": 904,
+    "content": "— Doctor, doctor, mi gata me ignora por completo, me mira con un desprecio infinito y solo se me acerca cuando quiere comida.\n— Entiendo... ¿y desde cuándo presenta esos síntomas de ser una gata perfectamente normal?",
+    "type": "STANDARD",
+    "tags": ["Animales", "Cotidiano"],
+    "isLockedByDefault": false
+  },
+  {
+    "id": 905,
+    "content": "— Señorías, hemos erradicado por completo la corrupción en las instituciones.\n— ¡Un momento! ¿Y ese fajo de billetes que asoma por su chaqueta?\n— Ah, disculpen, es que la erradicación entra en vigor el mes que viene.",
+    "type": "POLITICAL",
+    "title": "EN VIGOR",
+    "author": "Flavita Pringui",
+    "tags": ["Sesión de Control"],
+    "isLockedByDefault": false
+  },
+  {
+    "id": 906,
+    "content": "Un cable de red le dice a otro: \n— Oye, ¿tú crees en la vida después del formato?\n— No lo sé, pero he oído que en la nube todo el mundo es feliz y nadie sufre por los pantallazos azules.",
+    "type": "STANDARD",
+    "tags": ["Informática", "Humor Geek"],
+    "isLockedByDefault": false
+  },
+  {
+    "id": 907,
+    "content": "— Hemos diseñado un plan estratégico infalible para inaugurar el nuevo carril bici de la ciudad.\n— Fantástico, ¿y cuándo empiezan las obras?\n— ¿Obras? No, no, de momento solo tenemos presupuesto para inaugurar la maqueta.",
+    "type": "POLITICAL",
+    "title": "POLÍTICA DE MAQUETAS",
+    "author": "Peridis-Chiqui",
+    "tags": ["Ayuntamientos", "Obras"],
     "isLockedByDefault": false,
     "scheduledDate": "2026-05-15"
   },
   {
-    "id": 904,
-    "content": "¡Este chiste está programado específicamente para hoy! ¿Magia? No, código.",
+    "id": 908,
+    "content": "Dice el refrán que antes se coge a un mentiroso que a un cojo... a no ser que el mentiroso sea programador y te jure que su código está perfectamente documentado y libre de bugs.",
     "type": "STANDARD",
+    "tags": ["Informática", "Humor Geek"],
     "isLockedByDefault": false,
     "scheduledDate": "2026-05-15"
   }
