@@ -1,11 +1,650 @@
 [
   {
+    "id": 1,
+    "content": "¿Qué hace una abeja en el gimnasio? ¡Zumba!",
+    "type": "STANDARD",
+    "isLockedByDefault": false
+  },
+  {
+    "id": 2,
+    "content": "¿Cómo se dice pañuelo en japonés? Saka-moko.",
+    "type": "STANDARD",
+    "isLockedByDefault": false
+  },
+  {
+    "id": 3,
+    "content": "¿Por qué los pájaros no usan Facebook? Ya tienen Twitter.",
+    "type": "STANDARD",
+    "isLockedByDefault": false
+  },
+  {
+    "id": 4,
+    "content": "Había una vez un perro llamado Pegamento. Se cayó y se pegó.",
+    "type": "STANDARD",
+    "isLockedByDefault": false
+  },
+  {
+    "id": 5,
+    "content": "¿Qué le dice un espagueti a otro? ¡El cuerpo me pide salsa!",
+    "type": "STANDARD",
+    "isLockedByDefault": false
+  },
+  {
+    "id": 6,
+    "content": "¿Cuál es el colmo de un electricista? Que su mujer se llame Luz.",
+    "type": "STANDARD",
+    "isLockedByDefault": false
+  },
+  {
+    "id": 7,
+    "content": "¿Qué le dice una iguana a su hermana gemela? Somos iguanitas.",
+    "type": "STANDARD",
+    "isLockedByDefault": false
+  },
+  {
+    "id": 8,
+    "content": "¿Por qué el libro de matemáticas se suicidó? Porque tenía muchos problemas.",
+    "type": "STANDARD",
+    "isLockedByDefault": false
+  },
+  {
+    "id": 9,
+    "content": "¿Qué le dice un semáforo a otro? ¡No me mires que me estoy cambiando!",
+    "type": "STANDARD",
+    "isLockedByDefault": false
+  },
+  {
+    "id": 10,
+    "content": "¿Cuál es el animal más antiguo? La cebra, porque está en blanco y negro.",
+    "type": "STANDARD",
+    "isLockedByDefault": false
+  },
+  {
+    "id": 11,
+    "content": "Doctor, creo que necesito gafas. \\n— Estoy de acuerdo, esto es un banco.",
+    "type": "STANDARD",
+    "isLockedByDefault": false
+  },
+  {
+    "id": 12,
+    "content": "¿Qué le dice una pared a otra pared? Nos vemos en la esquina.",
+    "type": "STANDARD",
+    "isLockedByDefault": false
+  },
+  {
+    "id": 13,
+    "content": "¿Cuál es el colmo de un farmacéutico? Que su mujer se llame Remedios.",
+    "type": "STANDARD",
+    "isLockedByDefault": false
+  },
+  {
+    "id": 14,
+    "content": "¿Por qué las focas miran siempre hacia arriba? Porque ahí están los focos.",
+    "type": "STANDARD",
+    "isLockedByDefault": false
+  },
+  {
+    "id": 15,
+    "content": "¿Qué hace una persona con un sobre de kétchup en la oreja? Escuchando salsa.",
+    "type": "STANDARD",
+    "isLockedByDefault": false
+  },
+  {
+    "id": 16,
+    "content": "¿Cómo se dice disparo en árabe? Ahí-va-la-bala.",
+    "type": "STANDARD",
+    "isLockedByDefault": false
+  },
+  {
+    "id": 17,
+    "content": "Me he sacado el carnet de conducir, de milagro, ¡pero me lo he sacado!\\n— ¿Y qué tal?\\n— Bien, pero el profesor está en el hospital.",
+    "type": "STANDARD",
+    "isLockedByDefault": false
+  },
+  {
+    "id": 18,
+    "content": "¿Qué le dice un pez a otro pez? Nada.",
+    "type": "STANDARD",
+    "isLockedByDefault": false
+  },
+  {
+    "id": 19,
+    "content": "¿Cuál es el pez que huele mucho? El Pez-toso.",
+    "type": "STANDARD",
+    "isLockedByDefault": false
+  },
+  {
+    "id": 20,
+    "content": "¿Qué hace un perro con un taladro? Taladrando.",
+    "type": "STANDARD",
+    "isLockedByDefault": false
+  },
+  {
+    "id": 21,
+    "content": "¿Cómo maldice un pollito a otro pollito? ¡Caldito seas!",
+    "type": "STANDARD",
+    "isLockedByDefault": false
+  },
+  {
+    "id": 22,
+    "content": "¿Qué le dice el 1 al 10? Para ser como yo tienes que ser muy sincero.",
+    "type": "STANDARD",
+    "isLockedByDefault": false
+  },
+  {
+    "id": 23,
+    "content": "¿Cuál es el baile favorito del tomate? La salsa.",
+    "type": "STANDARD",
+    "isLockedByDefault": false
+  },
+  {
+    "id": 24,
+    "content": "¡Camarero, hay una mosca en mi sopa!\\n— No se preocupe, la araña del pan se la comerá.",
+    "type": "STANDARD",
+    "isLockedByDefault": false
+  },
+  {
+    "id": 25,
+    "content": "¿Por qué el ordenador fue al médico? Porque tenía un virus.",
+    "type": "STANDARD",
+    "isLockedByDefault": false
+  },
+  {
+    "id": 26,
+    "content": "¿Qué le dice una taza a otra? ¿Qué taza ciendo?",
+    "type": "STANDARD",
+    "isLockedByDefault": false
+  },
+  {
+    "id": 27,
+    "content": "¿Cómo se dice pelo sucio en chino? Chin-champoo.",
+    "type": "STANDARD",
+    "isLockedByDefault": false
+  },
+  {
+    "id": 28,
+    "content": "¿Qué le dice un techo a otro? Te echo de menos.",
+    "type": "STANDARD",
+    "isLockedByDefault": false
+  },
+  {
+    "id": 29,
+    "content": "¿Cuál es la fruta más paciente? Espera.",
+    "type": "STANDARD",
+    "isLockedByDefault": false
+  },
+  {
+    "id": 30,
+    "content": "¿Qué es un pez en el cine? Un espectador.",
+    "type": "STANDARD",
+    "isLockedByDefault": false
+  },
+  {
+    "id": 31,
+    "content": "¿Qué le dice una piedra a otra piedra? La vida es dura.",
+    "type": "STANDARD",
+    "isLockedByDefault": false
+  },
+  {
+    "id": 32,
+    "content": "Jaimito, ¿cuánto es 2 x 2?\\n— Empate, profe.",
+    "type": "STANDARD",
+    "isLockedByDefault": false
+  },
+  {
+    "id": 33,
+    "content": "¿Qué le dice el mar a la playa? ¡Hola!",
+    "type": "STANDARD",
+    "isLockedByDefault": false
+  },
+  {
+    "id": 34,
+    "content": "¿Por qué los esqueletos no pelean entre ellos? Porque no tienen agallas.",
+    "type": "STANDARD",
+    "isLockedByDefault": false
+  },
+  {
+    "id": 35,
+    "content": "¿Qué hace una vaca con los ojos cerrados? Leche concentrada.",
+    "type": "STANDARD",
+    "isLockedByDefault": false
+  },
+  {
+    "id": 36,
+    "content": "¿Qué le dice una uva verde a una morada? ¡Respira, respira!",
+    "type": "STANDARD",
+    "isLockedByDefault": false
+  },
+  {
+    "id": 37,
+    "content": "¿Cómo se llama el campeón de buceo japonés? Tokofondo.",
+    "type": "STANDARD",
+    "isLockedByDefault": false
+  },
+  {
+    "id": 38,
+    "content": "¿Y el subcampeón? Kasitoko.",
+    "type": "STANDARD",
+    "isLockedByDefault": false
+  },
+  {
+    "id": 39,
+    "content": "Papá, papá, ¿qué está más lejos, la Luna o Córdoba?\\n— Pero vamos a ver, ¿tú ves Córdoba desde aquí?",
+    "type": "STANDARD",
+    "isLockedByDefault": false
+  },
+  {
+    "id": 40,
+    "content": "¿Qué le dice un árbol a otro? ¡Qué pasa, tronco!",
+    "type": "STANDARD",
+    "isLockedByDefault": false
+  },
+  {
+    "id": 41,
+    "content": "¿Qué hace un vampiro con un tractor? Sembrar el pánico.",
+    "type": "STANDARD",
+    "isLockedByDefault": false
+  },
+  {
+    "id": 42,
+    "content": "Doctor, soy asmático, ¿es grave?\\n— No, es esdrújula.",
+    "type": "STANDARD",
+    "isLockedByDefault": false
+  },
+  {
+    "id": 43,
+    "content": "¿Cuál es el colmo de un jardinero? Que siempre lo dejen plantado.",
+    "type": "STANDARD",
+    "isLockedByDefault": false
+  },
+  {
+    "id": 44,
+    "content": "¿Cómo se llama un perro mago? Labracadabrador.",
+    "type": "STANDARD",
+    "isLockedByDefault": false
+  },
+  {
+    "id": 45,
+    "content": "¿Por qué Bob Esponja no va al gimnasio? Porque ya está cuadrado.",
+    "type": "STANDARD",
+    "isLockedByDefault": false
+  },
+  {
+    "id": 46,
+    "content": "¿Qué le dice el cero al ocho? ¡Me gusta tu cinturón!",
+    "type": "STANDARD",
+    "isLockedByDefault": false
+  },
+  {
+    "id": 47,
+    "content": "¿Cuál es el colmo de un libro? Que se le caigan las hojas en otoño.",
+    "type": "STANDARD",
+    "isLockedByDefault": false
+  },
+  {
+    "id": 48,
+    "content": "¿Cómo estornuda un tomate? ¡Kétchup!",
+    "type": "STANDARD",
+    "isLockedByDefault": false
+  },
+  {
+    "id": 49,
+    "content": "¿Qué hace un piojo en la cabeza de un calvo? Patinaje sobre hielo.",
+    "type": "STANDARD",
+    "isLockedByDefault": false
+  },
+  {
+    "id": 50,
+    "content": "¿Qué hace una caja en el gimnasio? ¡Caja fuerte!",
+    "type": "STANDARD",
+    "isLockedByDefault": false
+  },
+  {
+    "id": 51,
+    "content": "¿Qué le dice una gallina deprimida a otra gallina deprimida? Necesitamos a-poyo.",
+    "type": "STANDARD",
+    "isLockedByDefault": false
+  },
+  {
+    "id": 52,
+    "content": "¿Cuál es el animal que más dientes tiene? El Ratoncito Pérez.",
+    "type": "STANDARD",
+    "isLockedByDefault": false
+  },
+  {
+    "id": 53,
+    "content": "Oye, ¿sabes cómo se llaman los habitantes de San Sebastián?\\n— Todos no.",
+    "type": "STANDARD",
+    "isLockedByDefault": false
+  },
+  {
+    "id": 54,
+    "content": "Mi mujer me dijo que necesitaba más espacio. Le regalé un disco duro de 2 Terabytes.",
+    "type": "STANDARD",
+    "isLockedByDefault": false
+  },
+  {
+    "id": 55,
+    "content": "¿Qué le dice un mudo a un sordo? ...",
+    "type": "STANDARD",
+    "isLockedByDefault": false
+  },
+  {
+    "id": 56,
+    "content": "Mamá, en el cole me llaman distraído.\\n— Jaimito, tú vives en la casa de enfrente.",
+    "type": "STANDARD",
+    "isLockedByDefault": false
+  },
+  {
+    "id": 57,
+    "content": "¿Qué hace un perro en el agua? ¡Ladra-nadando!",
+    "type": "STANDARD",
+    "isLockedByDefault": false
+  },
+  {
+    "id": 58,
+    "content": "Papá, ¿qué se siente al tener un hijo tan guapo?\\n— No sé, pregúntale a tu abuelo.",
+    "type": "STANDARD",
+    "isLockedByDefault": false
+  },
+  {
+    "id": 59,
+    "content": "¿Por qué el profesor de música necesita una escalera? Para llegar a las notas más altas.",
+    "type": "STANDARD",
+    "isLockedByDefault": false
+  },
+  {
+    "id": 60,
+    "content": "¿Cómo se llama la prima vegetariana de Bruce Lee? Broco Lee.",
+    "type": "STANDARD",
+    "isLockedByDefault": false
+  },
+  {
+    "id": 61,
+    "content": "¿Qué hace una impresora en la calle? Esperando una impresión.",
+    "type": "STANDARD",
+    "isLockedByDefault": false
+  },
+  {
+    "id": 62,
+    "content": "¿Por qué las arañas son tan listas? Porque están en la red.",
+    "type": "STANDARD",
+    "isLockedByDefault": false
+  },
+  {
+    "id": 63,
+    "content": "¿Qué hace una oveja en un ordenador? BEEEE-scar en Google.",
+    "type": "STANDARD",
+    "isLockedByDefault": false
+  },
+  {
+    "id": 64,
+    "content": "¡Soldado López!\\n— ¡Sí, mi capitán!\\n— No lo vi ayer en la prueba de camuflaje.\\n— ¡Gracias, mi capitán!",
+    "type": "STANDARD",
+    "isLockedByDefault": false
+  },
+  {
+    "id": 65,
+    "content": "Me da un café con leche corto.\\n— Se me ha roto la máquina, cambio.",
+    "type": "STANDARD",
+    "isLockedByDefault": false
+  },
+  {
+    "id": 66,
+    "content": "¿Qué le dice un jardinero a otro? Nos vemos cuando podamos.",
+    "type": "STANDARD",
+    "isLockedByDefault": false
+  },
+  {
+    "id": 67,
+    "content": "¿Por qué el agua es tan buena apagando incendios? Porque moja.",
+    "type": "STANDARD",
+    "isLockedByDefault": false
+  },
+  {
+    "id": 68,
+    "content": "¿Qué es negro y blanco y hace ruido? Una cebra tocando el tambor.",
+    "type": "STANDARD",
+    "isLockedByDefault": false
+  },
+  {
+    "id": 69,
+    "content": "¿Cuál es el colmo de un oso panda? Que le tomen una foto a color y salga en blanco y negro.",
+    "type": "STANDARD",
+    "isLockedByDefault": false
+  },
+  {
+    "id": 70,
+    "content": "Oye, ¿qué haces estudiando con una lupa?\\n— Acercándome al problema.",
+    "type": "STANDARD",
+    "isLockedByDefault": false
+  },
+  {
+    "id": 71,
+    "content": "¿Por qué los músicos no saben jugar al fútbol? Porque le pegan con la menor.",
+    "type": "STANDARD",
+    "isLockedByDefault": false
+  },
+  {
+    "id": 72,
+    "content": "Profesor, ¿usted me castigaría por algo que no he hecho?\\n— Claro que no, Jaimito.\\n— ¡Qué alivio! Porque no he hecho los deberes.",
+    "type": "STANDARD",
+    "isLockedByDefault": false
+  },
+  {
+    "id": 73,
+    "content": "¿Qué hace un pez en un lago seco? Pez-tar de menos el agua.",
+    "type": "STANDARD",
+    "isLockedByDefault": false
+  },
+  {
+    "id": 74,
+    "content": "¿Cómo se dice 'perro perdido' en japonés? Ya-no-ta-tu-kan.",
+    "type": "STANDARD",
+    "isLockedByDefault": false
+  },
+  {
+    "id": 75,
+    "content": "¿Por qué las brujas vuelan en escoba? Porque la aspiradora hace mucho ruido.",
+    "type": "STANDARD",
+    "isLockedByDefault": false
+  },
+  {
+    "id": 76,
+    "content": "Amor, dime algo con amor.\\n— ¡Amortiguador!",
+    "type": "STANDARD",
+    "isLockedByDefault": false
+  },
+  {
+    "id": 77,
+    "content": "¿Qué hace una mosca en el gimnasio? ¡Mosculación!",
+    "type": "STANDARD",
+    "isLockedByDefault": false
+  },
+  {
+    "id": 78,
+    "content": "¿Cuál es el colmo de un enano? Que la policía le diga ¡Alto!",
+    "type": "STANDARD",
+    "isLockedByDefault": false
+  },
+  {
+    "id": 79,
+    "content": "¿Por qué el tomate no toma café? Porque toma té.",
+    "type": "STANDARD",
+    "isLockedByDefault": false
+  },
+  {
+    "id": 80,
+    "content": "¿Qué es blanco por dentro y verde por fuera? Si quieres que te lo diga, espera.",
+    "type": "STANDARD",
+    "isLockedByDefault": false
+  },
+  {
+    "id": 81,
+    "content": "¿Qué hace un astronauta celoso? Se queda en la luna.",
+    "type": "STANDARD",
+    "isLockedByDefault": false
+  },
+  {
+    "id": 82,
+    "content": "¿Por qué los gatos son buenos jugando a las cartas? Porque son muy felinos.",
+    "type": "STANDARD",
+    "isLockedByDefault": false
+  },
+  {
+    "id": 83,
+    "content": "¡Mamá, mamá! ¡El abuelo se tiró por el balcón!\\n— ¡Red Bull te da aalaaas!",
+    "type": "STANDARD",
+    "isLockedByDefault": false
+  },
+  {
+    "id": 84,
+    "content": "¿Qué hace una gaviota en el campo? Gaviota de campo.",
+    "type": "STANDARD",
+    "isLockedByDefault": false
+  },
+  {
+    "id": 85,
+    "content": "¿Cuál es el colmo de un ciego? Enamorarse a primera vista.",
+    "type": "STANDARD",
+    "isLockedByDefault": false
+  },
+  {
+    "id": 86,
+    "content": "¿Qué le dice un billete de 5 a uno de 50? Tú vales mucho, pero yo me divierto más.",
+    "type": "STANDARD",
+    "isLockedByDefault": false
+  },
+  {
+    "id": 87,
+    "content": "¿Cómo se llama el hombre más rápido del mundo? Chueco.",
+    "type": "STANDARD",
+    "isLockedByDefault": false
+  },
+  {
+    "id": 88,
+    "content": "¿Por qué las naranjas nunca están solas? Porque van en gajos.",
+    "type": "STANDARD",
+    "isLockedByDefault": false
+  },
+  {
+    "id": 89,
+    "content": "¿Qué hace un sordo en un concierto? Disfrutar de las vibraciones.",
+    "type": "STANDARD",
+    "isLockedByDefault": false
+  },
+  {
+    "id": 90,
+    "content": "¿Qué es un punto verde en la esquina? Un guisante castigado.",
+    "type": "STANDARD",
+    "isLockedByDefault": false
+  },
+  {
+    "id": 91,
+    "content": "¿Por qué los dinosaurios no pueden jugar a las escondidas? Porque están extintos.",
+    "type": "STANDARD",
+    "isLockedByDefault": false
+  },
+  {
+    "id": 92,
+    "content": "Doctor, creo que soy invisible.\\n— El siguiente, por favor.",
+    "type": "STANDARD",
+    "isLockedByDefault": false
+  },
+  {
+    "id": 93,
+    "content": "¿Qué hace una pera esperando el autobús? Des-pera.",
+    "type": "STANDARD",
+    "isLockedByDefault": false
+  },
+  {
+    "id": 94,
+    "content": "¿Por qué a los vampiros no les gusta el ajo? Porque no pueden besar a nadie después.",
+    "type": "STANDARD",
+    "isLockedByDefault": false
+  },
+  {
+    "id": 95,
+    "content": "¿Cuál es el colmo de una gallina? Tener pluma y no poder escribir.",
+    "type": "STANDARD",
+    "isLockedByDefault": false
+  },
+  {
+    "id": 96,
+    "content": "¿Qué le dice un gato a otro gato? Miau.",
+    "type": "STANDARD",
+    "isLockedByDefault": false
+  },
+  {
+    "id": 97,
+    "content": "¿Cómo se llama el ministro de defensa ruso? Carlos.",
+    "type": "STANDARD",
+    "isLockedByDefault": false
+  },
+  {
+    "id": 98,
+    "content": "¿Por qué el plátano fue a la escuela? Porque quería ser más maduro.",
+    "type": "STANDARD",
+    "isLockedByDefault": false
+  },
+  {
+    "id": 99,
+    "content": "¿Qué es amarillo y se mueve muy rápido? Un limón en una montaña rusa.",
+    "type": "STANDARD",
+    "isLockedByDefault": false
+  },
+  {
+    "id": 100,
+    "content": "¿Qué le dice una nube a otra nube? Oye, ¿tienes un paraguas?",
+    "type": "STANDARD",
+    "isLockedByDefault": false
+  },
+  {
+    "id": 501,
+    "content": "— ¿Qué tal va la campaña electoral? \n— No nos podemos quejar.\n— ¿Tan bien os va?\n— No, es que nos han prohibido quejarnos.",
+    "type": "POLITICAL",
+    "title": "LIBERTAD DE EXPRESIÓN",
+    "author": "La Pluma Ácida",
+    "tags": [
+      "Campaña",
+      "Prensa"
+    ],
+    "isLockedByDefault": false
+  },
+  {
+    "id": 502,
+    "content": "Un político le dice a otro: \n— Oye, ¿tú qué vas a hacer con el presupuesto de educación?\n— ¿Educación? No me suena ese ministerio, ¿está en el área de protocolo?",
+    "type": "POLITICAL",
+    "title": "PRIORIDADES DEL ESTADO",
+    "author": "El Roto",
+    "tags": [
+      "Presupuestos",
+      "Educación"
+    ],
+    "isLockedByDefault": false
+  },
+  {
+    "id": 503,
+    "content": "— Señor ministro, ¿por qué no baja los impuestos?\n— Porque entonces la gente tendría dinero y empezaría a pensar por sí misma, y eso es muy peligroso para la estabilidad del país.",
+    "type": "POLITICAL",
+    "title": "ESTABILIDAD NACIONAL",
+    "author": "Sátira Semanal",
+    "tags": [
+      "Impuestos",
+      "Ministro"
+    ],
+    "isLockedByDefault": false
+  },
+  {
     "id": 901,
     "content": "— Papá, de mayor quiero ser político.\n— ¿Estás loco, hijo? ¿Te has vuelto completamente limpio, transparente, honesto e incapaz de mentir?\n— No, papá, que quiero ser de los normales.",
     "type": "POLITICAL",
     "title": "VOCACIÓN TRADICIONAL",
     "author": "La Pluma Ácida",
-    "tags": ["Congreso", "Partidos"],
+    "tags": [
+      "Congreso",
+      "Partidos"
+    ],
     "isLockedByDefault": false,
     "isDailyExclusive": true
   },
@@ -13,7 +652,10 @@
     "id": 902,
     "content": "Hay 10 tipos de personas en el mundo: los que entienden el código binario, los que no, y los que no se esperaban que este chiste estuviera en base 3.",
     "type": "STANDARD",
-    "tags": ["Informática", "Humor Geek"],
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false
   },
   {
@@ -22,14 +664,20 @@
     "type": "POLITICAL",
     "title": "DEMOCRACIA INVERSA",
     "author": "El Roto-Pringui",
-    "tags": ["Encuestas", "Moncloa"],
+    "tags": [
+      "Encuestas",
+      "Moncloa"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 904,
     "content": "— Doctor, doctor, mi gata me ignora por completo, me mira con un desprecio infinito y solo se me acerca cuando quiere comida.\n— Entiendo... ¿y desde cuándo presenta esos síntomas de ser una gata perfectamente normal?",
     "type": "STANDARD",
-    "tags": ["Animales", "Cotidiano"],
+    "tags": [
+      "Animales",
+      "Cotidiano"
+    ],
     "isLockedByDefault": false
   },
   {
@@ -38,14 +686,19 @@
     "type": "POLITICAL",
     "title": "EN VIGOR",
     "author": "Flavita Pringui",
-    "tags": ["Sesión de Control"],
+    "tags": [
+      "Sesión de Control"
+    ],
     "isLockedByDefault": false
   },
   {
     "id": 906,
     "content": "Un cable de red le dice a otro: \n— Oye, ¿tú crees en la vida después del formato?\n— No lo sé, pero he oído que en la nube todo el mundo es feliz y nadie sufre por los pantallazos azules.",
     "type": "STANDARD",
-    "tags": ["Informática", "Humor Geek"],
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false
   },
   {
@@ -54,7 +707,10 @@
     "type": "POLITICAL",
     "title": "POLÍTICA DE MAQUETAS",
     "author": "Peridis-Chiqui",
-    "tags": ["Ayuntamientos", "Obras"],
+    "tags": [
+      "Ayuntamientos",
+      "Obras"
+    ],
     "isLockedByDefault": false,
     "scheduledDate": "2026-05-15"
   },
@@ -62,7 +718,10 @@
     "id": 908,
     "content": "Dice el refrán que antes se coge a un mentiroso que a un cojo... a no ser que el mentiroso sea programador y te jure que su código está perfectamente documentado y libre de bugs.",
     "type": "STANDARD",
-    "tags": ["Informática", "Humor Geek"],
+    "tags": [
+      "Informática",
+      "Humor Geek"
+    ],
     "isLockedByDefault": false,
     "scheduledDate": "2026-05-15"
   }
