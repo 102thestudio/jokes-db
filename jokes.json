@@ -4422,5 +4422,1105 @@
     ],
     "isLockedByDefault": false,
     "scheduledDate": "2026-05-15"
+  },
+  {
+    "id": 2000,
+    "content": "Blanco por dentro, verde por fuera. Si quieres que te lo diga, espera.",
+    "type": "RIDDLE",
+    "answer": "Pera",
+    "tags": [
+      "Adivinanza",
+      "Diaria"
+    ],
+    "isDailyExclusive": true
+  },
+  {
+    "id": 2001,
+    "content": "Tiene dientes y no come, tiene cabeza y no es hombre.",
+    "type": "RIDDLE",
+    "answer": "Ajo",
+    "tags": [
+      "Adivinanza",
+      "Diaria"
+    ],
+    "isDailyExclusive": true
+  },
+  {
+    "id": 2002,
+    "content": "Lleva un abrigo amarillo y largo. Si quieres comértelo, tienes que quitárselo.",
+    "type": "RIDDLE",
+    "answer": "Plátano",
+    "tags": [
+      "Adivinanza",
+      "Diaria"
+    ],
+    "isDailyExclusive": true
+  },
+  {
+    "id": 2003,
+    "content": "Vuelo de noche, duermo de día y nunca verás plumas en el ala mía.",
+    "type": "RIDDLE",
+    "answer": "Murciélago",
+    "tags": [
+      "Adivinanza",
+      "Diaria"
+    ],
+    "isDailyExclusive": true
+  },
+  {
+    "id": 2004,
+    "content": "Todos me pisan a mí, pero yo no piso a nadie; todos preguntan por mí, yo no pregunto por nadie.",
+    "type": "RIDDLE",
+    "answer": "Camino",
+    "tags": [
+      "Adivinanza",
+      "Diaria"
+    ],
+    "isDailyExclusive": true
+  },
+  {
+    "id": 2005,
+    "content": "Canto en la orilla, vivo en el agua, no soy pescado, ni soy cigarra.",
+    "type": "RIDDLE",
+    "answer": "Rana",
+    "tags": [
+      "Adivinanza",
+      "Diaria"
+    ],
+    "isDailyExclusive": true
+  },
+  {
+    "id": 2006,
+    "content": "Tiene ojos y no ve, tiene agua y no la bebe, tiene carne y no la come, tiene barba y no es hombre.",
+    "type": "RIDDLE",
+    "answer": "Coco",
+    "tags": [
+      "Adivinanza",
+      "Diaria"
+    ],
+    "isDailyExclusive": true
+  },
+  {
+    "id": 2007,
+    "content": "Soy pequeño y blandito, y mi casa llevo sobre el lomito.",
+    "type": "RIDDLE",
+    "answer": "Caracol",
+    "tags": [
+      "Adivinanza",
+      "Diaria"
+    ],
+    "isDailyExclusive": true
+  },
+  {
+    "id": 2008,
+    "content": "Oro parece, plata no es. Quien no lo adivine, bien tonto es.",
+    "type": "RIDDLE",
+    "answer": "Plátano",
+    "tags": [
+      "Adivinanza",
+      "Diaria"
+    ],
+    "isDailyExclusive": true
+  },
+  {
+    "id": 2009,
+    "content": "En alto vive, en alto mora, en alto teje, la tejedora.",
+    "type": "RIDDLE",
+    "answer": "Araña",
+    "tags": [
+      "Adivinanza",
+      "Diaria"
+    ],
+    "isDailyExclusive": true
+  },
+  {
+    "id": 2010,
+    "content": "Soy astuto y juguetón y cazar un ratón es mi mayor afición.",
+    "type": "RIDDLE",
+    "answer": "Gato",
+    "tags": [
+      "Adivinanza",
+      "Diaria"
+    ],
+    "isDailyExclusive": true
+  },
+  {
+    "id": 2011,
+    "content": "Tengo agujas y no sé coser, tengo números y no sé leer.",
+    "type": "RIDDLE",
+    "answer": "Reloj",
+    "tags": [
+      "Adivinanza",
+      "Diaria"
+    ],
+    "isDailyExclusive": true
+  },
+  {
+    "id": 2012,
+    "content": "Salgo todas las mañanas, por la tarde me escondo. Doy siempre luz y calor, y soy redondo, redondo.",
+    "type": "RIDDLE",
+    "answer": "Sol",
+    "tags": [
+      "Adivinanza",
+      "Diaria"
+    ],
+    "isDailyExclusive": true
+  },
+  {
+    "id": 2013,
+    "content": "Es pequeña como una pera, pero alumbra la casa entera.",
+    "type": "RIDDLE",
+    "answer": "Bombilla",
+    "tags": [
+      "Adivinanza",
+      "Diaria"
+    ],
+    "isDailyExclusive": true
+  },
+  {
+    "id": 2014,
+    "content": "Te la digo y no me entiendes, te la repito y no me comprendes.",
+    "type": "RIDDLE",
+    "answer": "Tela",
+    "tags": [
+      "Adivinanza",
+      "Diaria"
+    ],
+    "isDailyExclusive": true
+  },
+  {
+    "id": 2015,
+    "content": "Choco con entre los carros, late mi corazón. Quien no sepa mi nombre es un cabezón.",
+    "type": "RIDDLE",
+    "answer": "Chocolate",
+    "tags": [
+      "Adivinanza",
+      "Diaria"
+    ],
+    "isDailyExclusive": true
+  },
+  {
+    "id": 2016,
+    "content": "Lana sube, lana baja.",
+    "type": "RIDDLE",
+    "answer": "Navaja",
+    "tags": [
+      "Adivinanza",
+      "Diaria"
+    ],
+    "isDailyExclusive": true
+  },
+  {
+    "id": 2017,
+    "content": "Agua pasa por mi casa, cate de mi corazón.",
+    "type": "RIDDLE",
+    "answer": "Aguacate",
+    "tags": [
+      "Adivinanza",
+      "Diaria"
+    ],
+    "isDailyExclusive": true
+  },
+  {
+    "id": 2018,
+    "content": "Un señor gordito, muy coloradito, no toma café, siempre toma té.",
+    "type": "RIDDLE",
+    "answer": "Tomate",
+    "tags": [
+      "Adivinanza",
+      "Diaria"
+    ],
+    "isDailyExclusive": true
+  },
+  {
+    "id": 2019,
+    "content": "Dos hermanas gemelas que nunca se ven.",
+    "type": "RIDDLE",
+    "answer": "Orejas",
+    "tags": [
+      "Adivinanza",
+      "Diaria"
+    ],
+    "isDailyExclusive": true
+  },
+  {
+    "id": 2020,
+    "content": "Treinta y dos sillitas blancas en un viejo comedor, y una vieja parlanchina que las pisa sin temor.",
+    "type": "RIDDLE",
+    "answer": "Boca",
+    "tags": [
+      "Adivinanza",
+      "Diaria"
+    ],
+    "isDailyExclusive": true
+  },
+  {
+    "id": 2021,
+    "content": "Tiene cama y no duerme, tiene boca y no habla.",
+    "type": "RIDDLE",
+    "answer": "Río",
+    "tags": [
+      "Adivinanza",
+      "Diaria"
+    ],
+    "isDailyExclusive": true
+  },
+  {
+    "id": 2022,
+    "content": "Aunque tengo cuatro patas, yo nunca puedo correr. Tengo la comida encima y no la puedo comer.",
+    "type": "RIDDLE",
+    "answer": "Mesa",
+    "tags": [
+      "Adivinanza",
+      "Diaria"
+    ],
+    "isDailyExclusive": true
+  },
+  {
+    "id": 2023,
+    "content": "Cien amigos tengo, todos en una tabla, si yo no los toco, ellos no me hablan.",
+    "type": "RIDDLE",
+    "answer": "Piano",
+    "tags": [
+      "Adivinanza",
+      "Diaria"
+    ],
+    "isDailyExclusive": true
+  },
+  {
+    "id": 2024,
+    "content": "En un rincón de la clase, donde yo estoy colocada, acudes con los papeles que no te sirven de nada.",
+    "type": "RIDDLE",
+    "answer": "Papelera",
+    "tags": [
+      "Adivinanza",
+      "Diaria"
+    ],
+    "isDailyExclusive": true
+  },
+  {
+    "id": 2025,
+    "content": "No es cama ni es león y desaparece en cualquier rincón.",
+    "type": "RIDDLE",
+    "answer": "Camaleón",
+    "tags": [
+      "Adivinanza",
+      "Diaria"
+    ],
+    "isDailyExclusive": true
+  },
+  {
+    "id": 2026,
+    "content": "Soy ave y soy llana, pero no tengo pico ni alas.",
+    "type": "RIDDLE",
+    "answer": "Avellana",
+    "tags": [
+      "Adivinanza",
+      "Diaria"
+    ],
+    "isDailyExclusive": true
+  },
+  {
+    "id": 2027,
+    "content": "Adivina quién soy: cuanto más lavo, más sucia voy.",
+    "type": "RIDDLE",
+    "answer": "Agua",
+    "tags": [
+      "Adivinanza",
+      "Diaria"
+    ],
+    "isDailyExclusive": true
+  },
+  {
+    "id": 2028,
+    "content": "Tengo copa y no soy árbol, tengo hojas y no soy rama.",
+    "type": "RIDDLE",
+    "answer": "Libro",
+    "tags": [
+      "Adivinanza",
+      "Diaria"
+    ],
+    "isDailyExclusive": true
+  },
+  {
+    "id": 2029,
+    "content": "Siempre quietas, siempre inquietas. Dormidas de día, de noche despiertas.",
+    "type": "RIDDLE",
+    "answer": "Estrellas",
+    "tags": [
+      "Adivinanza",
+      "Diaria"
+    ],
+    "isDailyExclusive": true
+  },
+  {
+    "id": 2030,
+    "content": "Doy al cielo resplandores cuando deja de llover. Abanico de colores que nunca podrás coger.",
+    "type": "RIDDLE",
+    "answer": "Arcoíris",
+    "tags": [
+      "Adivinanza",
+      "Diaria"
+    ],
+    "isDailyExclusive": true
+  },
+  {
+    "id": 2031,
+    "content": "Me pisas y no me quejo, me cepillas si me mancho, y con mi hermano gemelo bajo tu cama descanso.",
+    "type": "RIDDLE",
+    "answer": "Zapatos",
+    "tags": [
+      "Adivinanza",
+      "Diaria"
+    ],
+    "isDailyExclusive": true
+  },
+  {
+    "id": 2032,
+    "content": "Tulipán no es, pero tiene tul y también tiene pan.",
+    "type": "RIDDLE",
+    "answer": "Tulipán",
+    "tags": [
+      "Adivinanza",
+      "Diaria"
+    ],
+    "isDailyExclusive": true
+  },
+  {
+    "id": 2033,
+    "content": "Blanca por dentro, verde por fuera. Si quieres que te lo diga, espera.",
+    "type": "RIDDLE",
+    "answer": "Pera",
+    "tags": [
+      "Adivinanza",
+      "Diaria"
+    ],
+    "isDailyExclusive": true
+  },
+  {
+    "id": 2034,
+    "content": "Soy un palito muy derechito, y en la cabeza tengo un sombrerito.",
+    "type": "RIDDLE",
+    "answer": "Clavo",
+    "tags": [
+      "Adivinanza",
+      "Diaria"
+    ],
+    "isDailyExclusive": true
+  },
+  {
+    "id": 2035,
+    "content": "Tengo cuello y no tengo cabeza, tengo dos brazos y no tengo manos.",
+    "type": "RIDDLE",
+    "answer": "Camisa",
+    "tags": [
+      "Adivinanza",
+      "Diaria"
+    ],
+    "isDailyExclusive": true
+  },
+  {
+    "id": 2036,
+    "content": "Vuelo sin alas, lloro sin ojos.",
+    "type": "RIDDLE",
+    "answer": "Nube",
+    "tags": [
+      "Adivinanza",
+      "Diaria"
+    ],
+    "isDailyExclusive": true
+  },
+  {
+    "id": 2037,
+    "content": "¿Qué cosa es que cuanto más le quitas más grande es?",
+    "type": "RIDDLE",
+    "answer": "Agujero",
+    "tags": [
+      "Adivinanza",
+      "Diaria"
+    ],
+    "isDailyExclusive": true
+  },
+  {
+    "id": 2038,
+    "content": "Silva sin labios, corre sin pies, en la espalda te pega y no lo ves.",
+    "type": "RIDDLE",
+    "answer": "Viento",
+    "tags": [
+      "Adivinanza",
+      "Diaria"
+    ],
+    "isDailyExclusive": true
+  },
+  {
+    "id": 2039,
+    "content": "Si me nombras, desaparezco.",
+    "type": "RIDDLE",
+    "answer": "Silencio",
+    "tags": [
+      "Adivinanza",
+      "Diaria"
+    ],
+    "isDailyExclusive": true
+  },
+  {
+    "id": 2040,
+    "content": "Nazco sin tener padre, y al morir nace mi madre.",
+    "type": "RIDDLE",
+    "answer": "Nieve",
+    "tags": [
+      "Adivinanza",
+      "Diaria"
+    ],
+    "isDailyExclusive": true
+  },
+  {
+    "id": 2041,
+    "content": "¿Qué es algo y a la vez nada?",
+    "type": "RIDDLE",
+    "answer": "Pez",
+    "tags": [
+      "Adivinanza",
+      "Diaria"
+    ],
+    "isDailyExclusive": true
+  },
+  {
+    "id": 2042,
+    "content": "Mi picadura es dañina, mi cuerpo insignificante, pero el néctar que yo doy os lo coméis al instante.",
+    "type": "RIDDLE",
+    "answer": "Abeja",
+    "tags": [
+      "Adivinanza",
+      "Diaria"
+    ],
+    "isDailyExclusive": true
+  },
+  {
+    "id": 2043,
+    "content": "Soy rojo, me tienes dentro, y bombeo sin parar.",
+    "type": "RIDDLE",
+    "answer": "Corazón",
+    "tags": [
+      "Adivinanza",
+      "Diaria"
+    ],
+    "isDailyExclusive": true
+  },
+  {
+    "id": 2044,
+    "content": "Todos me llevan atrás, y nadie delante.",
+    "type": "RIDDLE",
+    "answer": "Pasado",
+    "tags": [
+      "Adivinanza",
+      "Diaria"
+    ],
+    "isDailyExclusive": true
+  },
+  {
+    "id": 2045,
+    "content": "Sube llena y baja vacía. Si no se da prisa, la sopa se enfría.",
+    "type": "RIDDLE",
+    "answer": "Cuchara",
+    "tags": [
+      "Adivinanza",
+      "Diaria"
+    ],
+    "isDailyExclusive": true
+  },
+  {
+    "id": 2046,
+    "content": "Zapatos de goma, ojos de cristal, con una manguera lo apaga todo.",
+    "type": "RIDDLE",
+    "answer": "Bombero",
+    "tags": [
+      "Adivinanza",
+      "Diaria"
+    ],
+    "isDailyExclusive": true
+  },
+  {
+    "id": 2047,
+    "content": "Tiene lomo y no es caballo, tiene hojas y no es árbol.",
+    "type": "RIDDLE",
+    "answer": "Libro",
+    "tags": [
+      "Adivinanza",
+      "Diaria"
+    ],
+    "isDailyExclusive": true
+  },
+  {
+    "id": 2048,
+    "content": "Dos niñas asomaditas cada una a su ventana, lo ven y lo cuentan todo sin decir una palabra.",
+    "type": "RIDDLE",
+    "answer": "Ojos",
+    "tags": [
+      "Adivinanza",
+      "Diaria"
+    ],
+    "isDailyExclusive": true
+  },
+  {
+    "id": 2049,
+    "content": "Con mi cara roja, mi ojo negro y mi vestido verde a todo el campo alegro.",
+    "type": "RIDDLE",
+    "answer": "Amapola",
+    "tags": [
+      "Adivinanza",
+      "Diaria"
+    ],
+    "isDailyExclusive": true
+  },
+  {
+    "id": 2050,
+    "content": "Pérez anda, Gil camina, tonto es quien no lo adivina.",
+    "type": "RIDDLE",
+    "answer": "Perejil",
+    "tags": [
+      "Adivinanza",
+      "Diaria"
+    ],
+    "isDailyExclusive": true
+  },
+  {
+    "id": 2051,
+    "content": "Conmigo vas a dormir, conmigo vas a soñar, tengo cuatro patas y no me puedo levantar.",
+    "type": "RIDDLE",
+    "answer": "Cama",
+    "tags": [
+      "Adivinanza",
+      "Diaria"
+    ],
+    "isDailyExclusive": true
+  },
+  {
+    "id": 2052,
+    "content": "Cojo la ropa, la lavo y la escurro, pero no me canso aunque trabaje como un burro.",
+    "type": "RIDDLE",
+    "answer": "Lavadora",
+    "tags": [
+      "Adivinanza",
+      "Diaria"
+    ],
+    "isDailyExclusive": true
+  },
+  {
+    "id": 2053,
+    "content": "Soy alto y delgado, tengo un ojo en la cabeza y muerdo la ropa.",
+    "type": "RIDDLE",
+    "answer": "Aguja",
+    "tags": [
+      "Adivinanza",
+      "Diaria"
+    ],
+    "isDailyExclusive": true
+  },
+  {
+    "id": 2054,
+    "content": "Y lo es, y lo es, y no me lo aciertas en un mes.",
+    "type": "RIDDLE",
+    "answer": "Hilo",
+    "tags": [
+      "Adivinanza",
+      "Diaria"
+    ],
+    "isDailyExclusive": true
+  },
+  {
+    "id": 2055,
+    "content": "Un convento bien cerrado, sin campanas y sin torres, y muchas monjitas dentro preparan dulces de flores.",
+    "type": "RIDDLE",
+    "answer": "Colmena",
+    "tags": [
+      "Adivinanza",
+      "Diaria"
+    ],
+    "isDailyExclusive": true
+  },
+  {
+    "id": 2056,
+    "content": "Me visten de rojo y siempre estoy en la esquina. Si te urge enviar una carta, échala por mi boquita.",
+    "type": "RIDDLE",
+    "answer": "Buzón",
+    "tags": [
+      "Adivinanza",
+      "Diaria"
+    ],
+    "isDailyExclusive": true
+  },
+  {
+    "id": 2057,
+    "content": "Larga y lisa, larga y lisa, llevo puesta una camisa, toda bordada, toda bordada, sin costura ni puntada.",
+    "type": "RIDDLE",
+    "answer": "Serpiente",
+    "tags": [
+      "Adivinanza",
+      "Diaria"
+    ],
+    "isDailyExclusive": true
+  },
+  {
+    "id": 2058,
+    "content": "Tengo patas y no ando, soy plana y no canto, se me apoyan para escribir y no te puedo reñir.",
+    "type": "RIDDLE",
+    "answer": "Mesa",
+    "tags": [
+      "Adivinanza",
+      "Diaria"
+    ],
+    "isDailyExclusive": true
+  },
+  {
+    "id": 2059,
+    "content": "¿Qué es aquello que todo el mundo hace al despertar?",
+    "type": "RIDDLE",
+    "answer": "Abrir los ojos",
+    "tags": [
+      "Adivinanza",
+      "Diaria"
+    ],
+    "isDailyExclusive": true
+  },
+  {
+    "id": 2060,
+    "content": "Cuanto más se moja, más te seca.",
+    "type": "RIDDLE",
+    "answer": "Toalla",
+    "tags": [
+      "Adivinanza",
+      "Diaria"
+    ],
+    "isDailyExclusive": true
+  },
+  {
+    "id": 2061,
+    "content": "De celda en celda voy, pero presa no estoy.",
+    "type": "RIDDLE",
+    "answer": "Abeja",
+    "tags": [
+      "Adivinanza",
+      "Diaria"
+    ],
+    "isDailyExclusive": true
+  },
+  {
+    "id": 2062,
+    "content": "Tengo hojas sin ser árbol, te hablo sin tener voz, si me abres no me quejo.",
+    "type": "RIDDLE",
+    "answer": "Libro",
+    "tags": [
+      "Adivinanza",
+      "Diaria"
+    ],
+    "isDailyExclusive": true
+  },
+  {
+    "id": 2063,
+    "content": "El roer es mi trabajo, el queso mi aperitivo, y el gato ha sido siempre mi más temido enemigo.",
+    "type": "RIDDLE",
+    "answer": "Ratón",
+    "tags": [
+      "Adivinanza",
+      "Diaria"
+    ],
+    "isDailyExclusive": true
+  },
+  {
+    "id": 2064,
+    "content": "Un platito de avellanas que de día se recogen y de noche se desparraman.",
+    "type": "RIDDLE",
+    "answer": "Estrellas",
+    "tags": [
+      "Adivinanza",
+      "Diaria"
+    ],
+    "isDailyExclusive": true
+  },
+  {
+    "id": 2065,
+    "content": "En rincones y entre ramas mis redes voy construyendo.",
+    "type": "RIDDLE",
+    "answer": "Araña",
+    "tags": [
+      "Adivinanza",
+      "Diaria"
+    ],
+    "isDailyExclusive": true
+  },
+  {
+    "id": 2066,
+    "content": "De día yo me levanto, de noche a la cama voy, tiño de rojo el ocaso.",
+    "type": "RIDDLE",
+    "answer": "Sol",
+    "tags": [
+      "Adivinanza",
+      "Diaria"
+    ],
+    "isDailyExclusive": true
+  },
+  {
+    "id": 2067,
+    "content": "Tengo cola y no soy perro, vuelo y no tengo alas.",
+    "type": "RIDDLE",
+    "answer": "Cometa",
+    "tags": [
+      "Adivinanza",
+      "Diaria"
+    ],
+    "isDailyExclusive": true
+  },
+  {
+    "id": 2068,
+    "content": "Dos compañeros van al compás, con los pies delante y los ojos detrás.",
+    "type": "RIDDLE",
+    "answer": "Tijeras",
+    "tags": [
+      "Adivinanza",
+      "Diaria"
+    ],
+    "isDailyExclusive": true
+  },
+  {
+    "id": 2069,
+    "content": "Tiene dientes y no muerde.",
+    "type": "RIDDLE",
+    "answer": "Peine",
+    "tags": [
+      "Adivinanza",
+      "Diaria"
+    ],
+    "isDailyExclusive": true
+  },
+  {
+    "id": 2070,
+    "content": "Aunque tiene dientes, nunca te morderá.",
+    "type": "RIDDLE",
+    "answer": "Ajo",
+    "tags": [
+      "Adivinanza",
+      "Diaria"
+    ],
+    "isDailyExclusive": true
+  },
+  {
+    "id": 2071,
+    "content": "Sube y baja pero nunca se mueve.",
+    "type": "RIDDLE",
+    "answer": "Escalera",
+    "tags": [
+      "Adivinanza",
+      "Diaria"
+    ],
+    "isDailyExclusive": true
+  },
+  {
+    "id": 2072,
+    "content": "Si la tienes, la quieres compartir; si la compartes, ya no la tienes.",
+    "type": "RIDDLE",
+    "answer": "Secreto",
+    "tags": [
+      "Adivinanza",
+      "Diaria"
+    ],
+    "isDailyExclusive": true
+  },
+  {
+    "id": 2073,
+    "content": "Todos pasan por mí y yo no paso por nadie.",
+    "type": "RIDDLE",
+    "answer": "Calle",
+    "tags": [
+      "Adivinanza",
+      "Diaria"
+    ],
+    "isDailyExclusive": true
+  },
+  {
+    "id": 2074,
+    "content": "Es redonda como un queso y nadie puede darle un beso.",
+    "type": "RIDDLE",
+    "answer": "Luna",
+    "tags": [
+      "Adivinanza",
+      "Diaria"
+    ],
+    "isDailyExclusive": true
+  },
+  {
+    "id": 2075,
+    "content": "Tiene cuernos y no es toro, tiene casa y no es gente.",
+    "type": "RIDDLE",
+    "answer": "Caracol",
+    "tags": [
+      "Adivinanza",
+      "Diaria"
+    ],
+    "isDailyExclusive": true
+  },
+  {
+    "id": 2076,
+    "content": "Con su cuello largo y sus manchas, llega a las ramas más altas.",
+    "type": "RIDDLE",
+    "answer": "Jirafa",
+    "tags": [
+      "Adivinanza",
+      "Diaria"
+    ],
+    "isDailyExclusive": true
+  },
+  {
+    "id": 2077,
+    "content": "Orejas largas, rabo cortito, corro y salto muy ligerito.",
+    "type": "RIDDLE",
+    "answer": "Conejo",
+    "tags": [
+      "Adivinanza",
+      "Diaria"
+    ],
+    "isDailyExclusive": true
+  },
+  {
+    "id": 2078,
+    "content": "As no soy, as no fui, as no seré hasta el fin.",
+    "type": "RIDDLE",
+    "answer": "Asno",
+    "tags": [
+      "Adivinanza",
+      "Diaria"
+    ],
+    "isDailyExclusive": true
+  },
+  {
+    "id": 2079,
+    "content": "¿Qué es, qué es, del tamaño de una nuez, que sube la cuesta y no tiene pies?",
+    "type": "RIDDLE",
+    "answer": "Caracol",
+    "tags": [
+      "Adivinanza",
+      "Diaria"
+    ],
+    "isDailyExclusive": true
+  },
+  {
+    "id": 2080,
+    "content": "Te indica el día, te indica el mes, te indica el año. ¿Qué es?",
+    "type": "RIDDLE",
+    "answer": "Calendario",
+    "tags": [
+      "Adivinanza",
+      "Diaria"
+    ],
+    "isDailyExclusive": true
+  },
+  {
+    "id": 2081,
+    "content": "Llevo mi casa al hombro, camino sin una pata y voy dejando mi huella con un hilito de plata.",
+    "type": "RIDDLE",
+    "answer": "Caracol",
+    "tags": [
+      "Adivinanza",
+      "Diaria"
+    ],
+    "isDailyExclusive": true
+  },
+  {
+    "id": 2082,
+    "content": "Rompe y no tiene manos, corre y no tiene pies, sopla y no tiene boca.",
+    "type": "RIDDLE",
+    "answer": "Viento",
+    "tags": [
+      "Adivinanza",
+      "Diaria"
+    ],
+    "isDailyExclusive": true
+  },
+  {
+    "id": 2083,
+    "content": "En el aire me cruzo, en el agua me mojo, en el fuego me quemo.",
+    "type": "RIDDLE",
+    "answer": "Pluma",
+    "tags": [
+      "Adivinanza",
+      "Diaria"
+    ],
+    "isDailyExclusive": true
+  },
+  {
+    "id": 2084,
+    "content": "Soy tan frágil que con solo decir mi nombre me rompes.",
+    "type": "RIDDLE",
+    "answer": "Silencio",
+    "tags": [
+      "Adivinanza",
+      "Diaria"
+    ],
+    "isDailyExclusive": true
+  },
+  {
+    "id": 2085,
+    "content": "Ni espero que me lo pidas, ni te pregunto por qué, pero todos los días te despierto a las seis.",
+    "type": "RIDDLE",
+    "answer": "Despertador",
+    "tags": [
+      "Adivinanza",
+      "Diaria"
+    ],
+    "isDailyExclusive": true
+  },
+  {
+    "id": 2086,
+    "content": "No es de carne, no es de hueso, y sin embargo tiene dedos.",
+    "type": "RIDDLE",
+    "answer": "Guante",
+    "tags": [
+      "Adivinanza",
+      "Diaria"
+    ],
+    "isDailyExclusive": true
+  },
+  {
+    "id": 2087,
+    "content": "Por más que te cubras, siempre te seguiré. De noche me estiro, al mediodía me encojo.",
+    "type": "RIDDLE",
+    "answer": "Sombra",
+    "tags": [
+      "Adivinanza",
+      "Diaria"
+    ],
+    "isDailyExclusive": true
+  },
+  {
+    "id": 2088,
+    "content": "Me usas de cabeza, pero me quitas la ropa para entrar.",
+    "type": "RIDDLE",
+    "answer": "Cama",
+    "tags": [
+      "Adivinanza",
+      "Diaria"
+    ],
+    "isDailyExclusive": true
+  },
+  {
+    "id": 2089,
+    "content": "Solo se da una vez en un minuto, dos veces en un momento y ninguna en cien años.",
+    "type": "RIDDLE",
+    "answer": "La letra M",
+    "tags": [
+      "Adivinanza",
+      "Diaria"
+    ],
+    "isDailyExclusive": true
+  },
+  {
+    "id": 2090,
+    "content": "Es ligero como una pluma, pero ni el gigante más fuerte puede sostenerlo por mucho tiempo.",
+    "type": "RIDDLE",
+    "answer": "Aliento",
+    "tags": [
+      "Adivinanza",
+      "Diaria"
+    ],
+    "isDailyExclusive": true
+  },
+  {
+    "id": 2091,
+    "content": "Tengo ciudades sin casas, bosques sin árboles y ríos sin agua.",
+    "type": "RIDDLE",
+    "answer": "Mapa",
+    "tags": [
+      "Adivinanza",
+      "Diaria"
+    ],
+    "isDailyExclusive": true
+  },
+  {
+    "id": 2092,
+    "content": "Te sigo a todas partes pero no me puedes atrapar.",
+    "type": "RIDDLE",
+    "answer": "Sombra",
+    "tags": [
+      "Adivinanza",
+      "Diaria"
+    ],
+    "isDailyExclusive": true
+  },
+  {
+    "id": 2093,
+    "content": "No habla y tiene voz, no camina y va veloz.",
+    "type": "RIDDLE",
+    "answer": "Carta",
+    "tags": [
+      "Adivinanza",
+      "Diaria"
+    ],
+    "isDailyExclusive": true
+  },
+  {
+    "id": 2094,
+    "content": "Tengo patas bien derechas, pero no me puedo mover. Llevo a cuestas la comida y no la puedo comer.",
+    "type": "RIDDLE",
+    "answer": "Mesa",
+    "tags": [
+      "Adivinanza",
+      "Diaria"
+    ],
+    "isDailyExclusive": true
+  },
+  {
+    "id": 2095,
+    "content": "Tengo lomo y no soy caballo. Tengo hojas y no soy árbol.",
+    "type": "RIDDLE",
+    "answer": "Libro",
+    "tags": [
+      "Adivinanza",
+      "Diaria"
+    ],
+    "isDailyExclusive": true
+  },
+  {
+    "id": 2096,
+    "content": "Soy de color verde, me gusta saltar. En el charco juego y también sé nadar.",
+    "type": "RIDDLE",
+    "answer": "Rana",
+    "tags": [
+      "Adivinanza",
+      "Diaria"
+    ],
+    "isDailyExclusive": true
+  },
+  {
+    "id": 2097,
+    "content": "Adivina adivinanza, ¿quién puso el huevo en la paja?",
+    "type": "RIDDLE",
+    "answer": "Gallina",
+    "tags": [
+      "Adivinanza",
+      "Diaria"
+    ],
+    "isDailyExclusive": true
+  },
+  {
+    "id": 2098,
+    "content": "¿Qué tiene un solo ojo pero no puede ver?",
+    "type": "RIDDLE",
+    "answer": "Aguja",
+    "tags": [
+      "Adivinanza",
+      "Diaria"
+    ],
+    "isDailyExclusive": true
+  },
+  {
+    "id": 2099,
+    "content": "Empieza por A y no es ave, pero vuela como ella.",
+    "type": "RIDDLE",
+    "answer": "Avión",
+    "tags": [
+      "Adivinanza",
+      "Diaria"
+    ],
+    "isDailyExclusive": true
   }
 ]
